@@ -32,14 +32,19 @@ The findings concern the tested Darcy family and CPU budgets. Correction is not 
 
 ## Large model and reference assets
 
-The separate `model_reference_assets.tar` (358 files, approximately 1.88 GB) is excluded from Git. It is unnecessary for saved-record analysis. Zenodo deposition was still a draft during this release; reserved DOI `10.5281/zenodo.23686142` is **not a verified published download link**. The record link will be updated once publication and checksums are verified.
+The 358 model/reference assets are distributed as **47 independent `model_assets_NNN.tar.gz` archives**, about 24–47 MB each (1.72 GB total), rather than one 1.88 GB transfer. This allows individual failed uploads/downloads to be retried. Every unpacked asset was verified against its original SHA-256 hash. These archives are unnecessary for saved-record analysis and are excluded from Git.
 
-If you already have the asset archive, merge its contents into the repository root:
+See [`asset_download/README_BATCHES.txt`](asset_download/README_BATCHES.txt) and its accompanying part manifest/checksums. Zenodo deposition is still in progress; reserved DOI `10.5281/zenodo.23686142` is **not a verified published download link**. Do not treat an incomplete draft as a complete release.
+
+Once every archive is available, verify and extract them from the repository root:
 
 ```sh
-tar -xf /path/to/model_reference_assets.tar --strip-components=1 -C .
+shasum -a 256 -c asset_download/SHA256SUMS.txt
+for f in model_assets_*.tar.gz; do tar -xzf "$f" --strip-components=1 -C .; done
 python3 -I tools/reproduce.py --verify-assets --out ../budget-study-full-verification
 ```
+
+Do not concatenate these independent archives. If using the original single TAR instead, extract it with `tar -xf /path/to/model_reference_assets.tar --strip-components=1 -C .`; the resulting assets are identical.
 
 Never replace or selectively remove adverse runs. Exact wall-clock training trajectories depend on hardware and scheduling. Archived subdirectory reports preserve their historical state; this README governs the current public release.
 

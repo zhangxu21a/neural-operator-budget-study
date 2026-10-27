@@ -1,0 +1,741 @@
+{
+  "original_asset_count": 358,
+  "verified_assets": 358,
+  "parts": [
+    {
+      "path": "batch_01/model_assets_001.tar.gz",
+      "members": [
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed11_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed11_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed22_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed22_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed33_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed33_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/data_lr0.008_seed11_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/data_lr0.008_seed11_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/data_lr0.008_seed22_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/data_lr0.008_seed22_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/data_lr0.008_seed33_warm0/acquisitions.npy"
+      ],
+      "bytes": 39913906,
+      "sha256": "1b609a65baf2f8ce6191f5065c63f00f79e899b60e993329c5bbd89005b5dacf",
+      "md5": "63a81fc52ab01e7cfdba5fb8efa2c6b5"
+    },
+    {
+      "path": "batch_01/model_assets_002.tar.gz",
+      "members": [
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/data_lr0.008_seed33_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/field_lr0.008_seed11_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/field_lr0.008_seed11_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/field_lr0.008_seed22_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/field_lr0.008_seed22_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/field_lr0.008_seed33_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/field_lr0.008_seed33_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed11_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed11_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed22_warm0/acquisitions.npy"
+      ],
+      "bytes": 40551050,
+      "sha256": "aaff1343c0ec50db05165ec1c8c2f955434994b915dc26a8fc9b4925fcb82038",
+      "md5": "e21832bf50c5548b895bca8e99f1e05c"
+    },
+    {
+      "path": "batch_01/model_assets_003.tar.gz",
+      "members": [
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed22_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed33_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed33_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed11_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed11_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed22_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed22_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed33_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed33_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed11_warm0/acquisitions.npy"
+      ],
+      "bytes": 40353915,
+      "sha256": "906724bceda9892653a9e649c516fc9a4f5fe416a111ef93f8745dd6e09b069e",
+      "md5": "dbda2a1d8b776ed14c71f6e8a3087fde"
+    },
+    {
+      "path": "batch_01/model_assets_004.tar.gz",
+      "members": [
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed11_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed22_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed22_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed33_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed33_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed11_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed11_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed22_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed22_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed33_warm0/acquisitions.npy"
+      ],
+      "bytes": 39596233,
+      "sha256": "4db90311934e1c71e34aab89cba6a0abea768a6f69b6700c5d561d325fe64866",
+      "md5": "6839aa1b32410f24945c782d115c5178"
+    },
+    {
+      "path": "batch_02/model_assets_005.tar.gz",
+      "members": [
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed33_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed11_warm120/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed11_warm120/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed22_warm120/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed22_warm120/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed33_warm120/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed33_warm120/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed11_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed11_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed22_warm0/acquisitions.npy"
+      ],
+      "bytes": 39790279,
+      "sha256": "2c0f42eec004a88564052d1df2df3fd5d89a9f35ce7b13946fceb0856b62c2d3",
+      "md5": "ce277f9cf56ed3f1f4d2d1640c3a39db"
+    },
+    {
+      "path": "batch_02/model_assets_006.tar.gz",
+      "members": [
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed22_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed33_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed33_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed11_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed11_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed22_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed22_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed33_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed33_warm0/checkpoint.pt"
+      ],
+      "bytes": 39978581,
+      "sha256": "4691680e4ef62b8afb2b3b95bb43c7e72d5aed77449e1875da6cfee162558fd0",
+      "md5": "8c7f00936d47d16d3c895dfec3d1e063"
+    },
+    {
+      "path": "batch_02/model_assets_007.tar.gz",
+      "members": [
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/fresh_reference.npz",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke/author_mlmc/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke/author_mlmc/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke/data/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke/data/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke/field/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke/field/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke/gradient/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke/gradient/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke/hf/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke/hf/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke/phys_only/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke/phys_only/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke/pretrain/acquisitions.npy"
+      ],
+      "bytes": 45972743,
+      "sha256": "86a8de8a5f0107bc5227bde20da4492b6a35034651df7e26b3bf823defefb9a7",
+      "md5": "a5e62cc5f9c3f78b330fb1f4b0463121"
+    },
+    {
+      "path": "batch_02/model_assets_008.tar.gz",
+      "members": [
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke/pretrain/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke/uniform/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke/uniform/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke_initial/author_mlmc/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke_initial/author_mlmc/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke_initial/data/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke_initial/data/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke_initial/field/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke_initial/field/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke_initial/gradient/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke_initial/gradient/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke_initial/hf/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke_initial/hf/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke_initial/phys_only/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke_initial/phys_only/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke_initial/pretrain/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke_initial/pretrain/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke_initial/uniform/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/smoke_initial/uniform/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.002_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.002_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.004_warm0/acquisitions.npy"
+      ],
+      "bytes": 43620665,
+      "sha256": "15a26747804e9e934a9a0b61bdda115fa6aa0b4cf3651bb8a92783b84560dff2",
+      "md5": "90efcc1fff10011a041668a6c079ee0a"
+    },
+    {
+      "path": "batch_03/model_assets_009.tar.gz",
+      "members": [
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.004_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.008_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.008_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.016_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.016_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.032_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.032_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.064_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.064_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/data_lr0.002_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/data_lr0.002_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/data_lr0.004_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/data_lr0.004_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/data_lr0.008_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/data_lr0.008_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/data_lr0.016_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/data_lr0.016_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/data_lr0.032_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/data_lr0.032_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/data_lr0.064_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/data_lr0.064_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/field_lr0.002_warm0/acquisitions.npy"
+      ],
+      "bytes": 43850918,
+      "sha256": "34320922d93b45d6c640d577bb47ad1c7767a252df656c93d0ca0c6bd0faceba",
+      "md5": "c4fdeb44e295f5607ee4af732b77daf4"
+    },
+    {
+      "path": "batch_03/model_assets_010.tar.gz",
+      "members": [
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/field_lr0.002_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/field_lr0.004_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/field_lr0.004_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/field_lr0.008_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/field_lr0.008_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/field_lr0.016_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/field_lr0.016_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/field_lr0.032_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/field_lr0.032_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/field_lr0.064_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/field_lr0.064_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/gradient_lr0.002_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/gradient_lr0.002_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/gradient_lr0.004_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/gradient_lr0.004_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/gradient_lr0.008_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/gradient_lr0.008_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/gradient_lr0.016_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/gradient_lr0.016_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/gradient_lr0.032_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/gradient_lr0.032_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/gradient_lr0.064_warm0/acquisitions.npy"
+      ],
+      "bytes": 44144362,
+      "sha256": "577ee576e1240ad76c5b7e618b614f2eeadb74b39cc587bdf56bd6d6c187ffce",
+      "md5": "794b2754777eea1ce594e8cdeb26dc53"
+    },
+    {
+      "path": "batch_03/model_assets_011.tar.gz",
+      "members": [
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/gradient_lr0.064_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/hf_lr0.002_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/hf_lr0.002_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/hf_lr0.004_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/hf_lr0.004_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/hf_lr0.008_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/hf_lr0.008_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/hf_lr0.016_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/hf_lr0.016_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/hf_lr0.032_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/hf_lr0.032_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/hf_lr0.064_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/hf_lr0.064_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/phys_only_lr0.002_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/phys_only_lr0.002_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/phys_only_lr0.004_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/phys_only_lr0.004_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/phys_only_lr0.008_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/phys_only_lr0.008_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/phys_only_lr0.016_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/phys_only_lr0.016_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/phys_only_lr0.032_warm0/acquisitions.npy"
+      ],
+      "bytes": 43426579,
+      "sha256": "cb69c6f94c02e98765db4d4897ed63e34d32d526ef9d44dd9c82b97ad55fddc6",
+      "md5": "c3e009d7e5ccd0ad296ec90f659df1a7"
+    },
+    {
+      "path": "batch_03/model_assets_012.tar.gz",
+      "members": [
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/phys_only_lr0.032_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/phys_only_lr0.064_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/phys_only_lr0.064_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/pretrain_lr0.004_warm120/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/pretrain_lr0.004_warm120/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/pretrain_lr0.004_warm30/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/pretrain_lr0.004_warm30/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/pretrain_lr0.008_warm120/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/pretrain_lr0.008_warm120/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/pretrain_lr0.008_warm30/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/pretrain_lr0.008_warm30/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/pretrain_lr0.016_warm120/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/pretrain_lr0.016_warm120/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/pretrain_lr0.016_warm30/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/pretrain_lr0.016_warm30/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/uniform_lr0.002_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/uniform_lr0.002_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/uniform_lr0.004_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/uniform_lr0.004_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/uniform_lr0.008_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/uniform_lr0.008_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/uniform_lr0.016_warm0/acquisitions.npy"
+      ],
+      "bytes": 43591118,
+      "sha256": "564fc61a593af356b8aa899091eb90ee99d8673fca8f25d7221af0594f6933fe",
+      "md5": "b7e1473104057d78dd4a25d55e0b601f"
+    },
+    {
+      "path": "batch_04/model_assets_013.tar.gz",
+      "members": [
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/uniform_lr0.016_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/uniform_lr0.032_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/uniform_lr0.032_warm0/checkpoint.pt",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/uniform_lr0.064_warm0/acquisitions.npy",
+        "reviewer_bundle/research/mainline_revision/darcy_mechanism/tuning/uniform_lr0.064_warm0/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_coarse32_s1101/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_coarse32_s1202/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_coarse32_s1303/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_coarse32_s1404/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_coarse32_s1505/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_hf128_s1101/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_hf128_s1202/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_hf128_s1303/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_hf128_s1404/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_hf128_s1505/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_hf32_s1101/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_hf32_s1202/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_hf32_s1303/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_hf32_s1404/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_hf32_s1505/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_hf_online_s1101/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_hf_online_s1202/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_hf_online_s1303/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_hf_online_s1404/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_hf_online_s1505/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_phys32_s1101/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_phys32_s1202/checkpoint.pt"
+      ],
+      "bytes": 26829467,
+      "sha256": "8deddc91527e388c4270e51ef933b4757c63a18cebb632de1571f1d2b3f966a8",
+      "md5": "bea1ee72e0363a7103bb4b661575607a"
+    },
+    {
+      "path": "batch_04/model_assets_014.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_phys32_s1303/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_phys32_s1404/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/deeponet_phys32_s1505/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_coarse32_s1101/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_coarse32_s1202/checkpoint.pt"
+      ],
+      "bytes": 33658433,
+      "sha256": "ebcc39cf1c021bdb58e366976895b354c34e70e2b6701a3c4711f7bea653ad25",
+      "md5": "dac4747256066196e7d5cf3ea6eb856a"
+    },
+    {
+      "path": "batch_04/model_assets_015.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_coarse32_s1303/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_coarse32_s1404/checkpoint.pt"
+      ],
+      "bytes": 31601473,
+      "sha256": "725698bea70a8dd4d4f17fb09edbfab5c08a928922345e585a93726c0a50f418",
+      "md5": "53a2ab0728a23f937c2a124527e2ec20"
+    },
+    {
+      "path": "batch_04/model_assets_016.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_coarse32_s1505/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_hf128_s1101/checkpoint.pt"
+      ],
+      "bytes": 31632635,
+      "sha256": "81472265f67807a3b7b84758ce59578c2c4cdbc4e30bf51f0c5a319efea32789",
+      "md5": "f6cd4cf51ed99054dab843a1039db0a1"
+    },
+    {
+      "path": "batch_05/model_assets_017.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_hf128_s1202/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_hf128_s1303/checkpoint.pt"
+      ],
+      "bytes": 31583158,
+      "sha256": "214e92e0e1a01bbad40039c60ab102b8d22ec79a5d32e00834b5878ea5a23caf",
+      "md5": "55802fba1dcbd41e2fc6ae9670962e51"
+    },
+    {
+      "path": "batch_05/model_assets_018.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_hf128_s1404/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_hf128_s1505/checkpoint.pt"
+      ],
+      "bytes": 31584431,
+      "sha256": "3e2fc8e132a681ab059234418fa333bb22a52823f6088b77c6a0c236729dca24",
+      "md5": "4d28303d678abfe214e14857349c9055"
+    },
+    {
+      "path": "batch_05/model_assets_019.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_hf_online_s1101/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_hf_online_s1202/checkpoint.pt"
+      ],
+      "bytes": 31607648,
+      "sha256": "e32a8d258f1c280ad220e3cd0f65d322b532971086a1a192b430b18a4fed0197",
+      "md5": "071c7b2e30847eaa281760362b7df43f"
+    },
+    {
+      "path": "batch_05/model_assets_020.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_hf_online_s1303/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_hf_online_s1404/checkpoint.pt"
+      ],
+      "bytes": 31552709,
+      "sha256": "9c74000b1f9b924fd0b5ccdfe175d9b33d414b2c78b2cb89f4a435de4aab7040",
+      "md5": "1b33ebccbbcb2d9f4db751ea00e6a45c"
+    },
+    {
+      "path": "batch_06/model_assets_021.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_hf_online_s1505/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_phys32_s1101/checkpoint.pt"
+      ],
+      "bytes": 31551721,
+      "sha256": "499ce48c41decc5fe04e2423e4ebd721d889201c559cc017575e966e6bd17958",
+      "md5": "da5e858edff8731f0855c5296ebc9cd1"
+    },
+    {
+      "path": "batch_06/model_assets_022.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_phys32_s1202/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_phys32_s1303/checkpoint.pt"
+      ],
+      "bytes": 31547728,
+      "sha256": "ede76798c29acaf6058a73debac33f8506ac30ae0e513b36937a264f9b0c9235",
+      "md5": "c89901dc8a22a7ddb1cf1142f96dc0f5"
+    },
+    {
+      "path": "batch_06/model_assets_023.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_phys32_s1404/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/formal/fno_phys32_s1505/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/preflight/deeponet_hf128/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/preflight/deeponet_phys32/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/preflight/fno_coarse32/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/preflight/fno_hf_online/checkpoint.pt"
+      ],
+      "bytes": 44588515,
+      "sha256": "4a2c82647a6f0e4bc717e4b8a402bcbfbf9fa2ca820e8497be95aceeea45f6dd",
+      "md5": "52e124bb000eacca2d85d7a2687a836d"
+    },
+    {
+      "path": "batch_06/model_assets_024.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/reference.npz",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/deeponet_coarse32_lr0.0005/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/deeponet_coarse32_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/deeponet_coarse32_lr0.008/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/deeponet_hf128_lr0.0005/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/deeponet_hf128_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/deeponet_hf128_lr0.008/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/deeponet_hf32_lr0.0005/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/deeponet_hf32_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/deeponet_hf32_lr0.008/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/deeponet_hf_online_lr0.0005/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/deeponet_hf_online_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/deeponet_hf_online_lr0.008/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/deeponet_phys32_lr0.0005/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/deeponet_phys32_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/deeponet_phys32_lr0.008/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/fno_coarse32_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/fno_coarse32_lr0.008/checkpoint.pt"
+      ],
+      "bytes": 39880159,
+      "sha256": "38bbe96604b64ce6bab22545e12c3d61fe86df8de940e9af82c0ccbf562cca0d",
+      "md5": "6119edff6a1fc4d91687e5575f3f9fce"
+    },
+    {
+      "path": "batch_07/model_assets_025.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/fno_coarse32_lr0.032/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/fno_hf128_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/fno_hf128_lr0.008/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/fno_hf128_lr0.032/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/fno_hf_online_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/fno_hf_online_lr0.008/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/fno_hf_online_lr0.032/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/fno_phys32_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/fno_phys32_lr0.008/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/architecture_horizon_v2/tuning/fno_phys32_lr0.032/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/experiments/numerical_pilot/parameters.npy",
+        "reviewer_bundle/research/publication_track/experiments/training_pilot/resolved_coarse/checkpoint.pt"
+      ],
+      "bytes": 43367922,
+      "sha256": "3297ab6a97e9078baf96c83de134f2da2f404c79cc8c23231922ffd1f5c97392",
+      "md5": "082ea5e416e88c7c66440f10259c7df3"
+    },
+    {
+      "path": "batch_07/model_assets_026.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/experiments/training_pilot/resolved_hf/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/experiments/training_pilot/resolved_phys_only/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/experiments/training_pilot/resolved_reference.npz",
+        "reviewer_bundle/research/publication_track/experiments/training_pilot/stress_coarse/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/experiments/training_pilot/stress_hf/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/experiments/training_pilot/stress_phys_only/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/experiments/training_pilot/stress_reference.npz",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/coarse32_s101/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/coarse32_s202/checkpoint.pt"
+      ],
+      "bytes": 41126514,
+      "sha256": "1b928617e3a767837ade1f31bcd2cfeadbacfe787c9523e740471b06db5944c2",
+      "md5": "7247aa80f10b2aaa0d667011a60906db"
+    },
+    {
+      "path": "batch_07/model_assets_027.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/coarse32_s303/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/coarse32_s404/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/coarse32_s505/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/coarse8_s101/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/coarse8_s202/checkpoint.pt"
+      ],
+      "bytes": 39423147,
+      "sha256": "efe0573cf0f420f442b23c3e33443e73d7dee52ea73ed13ebc71cfd8ba2d5102",
+      "md5": "60012111f27d0c23d1bf5004ef310f2d"
+    },
+    {
+      "path": "batch_07/model_assets_028.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/coarse8_s303/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/coarse8_s404/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/coarse8_s505/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/hf128_s101/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/hf128_s202/checkpoint.pt"
+      ],
+      "bytes": 39393371,
+      "sha256": "7b7ed96df64033504525033cb7fd0459ff0aab8e7d1c5645dbf833d55e5d09f0",
+      "md5": "6207a53e9f5f0bfc9c739297b71561de"
+    },
+    {
+      "path": "batch_08/model_assets_029.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/hf128_s303/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/hf128_s404/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/hf128_s505/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/hf32_s101/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/hf32_s202/checkpoint.pt"
+      ],
+      "bytes": 39485642,
+      "sha256": "d89020149a7f5ec6bdcfd871b015948dc175f012967d50ec8ff22f21f03d5067",
+      "md5": "b06bee6565a17aa2a20b9c37626f53ce"
+    },
+    {
+      "path": "batch_08/model_assets_030.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/hf32_s303/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/hf32_s404/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/hf32_s505/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/hf_online_s101/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/hf_online_s202/checkpoint.pt"
+      ],
+      "bytes": 39459481,
+      "sha256": "6834e3aa9435937b4427dbf19aa3352a112fecf0a3065aa58e8314e537439af4",
+      "md5": "8f1ec9a1e1279ad008597b0f07475ae9"
+    },
+    {
+      "path": "batch_08/model_assets_031.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/hf_online_s303/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/hf_online_s404/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/hf_online_s505/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/phys32_s101/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/phys32_s202/checkpoint.pt"
+      ],
+      "bytes": 39465696,
+      "sha256": "8e8cdcd69b7b7da107b259e807cdc56113fd111355415b135fd628847e9846b8",
+      "md5": "c823f3df4af1258c8a7057342b5eb580"
+    },
+    {
+      "path": "batch_08/model_assets_032.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/phys32_s303/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/phys32_s404/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/phys32_s505/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/phys8_s101/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/phys8_s202/checkpoint.pt"
+      ],
+      "bytes": 39436664,
+      "sha256": "bd127381ac01bc101a1276dbec813457c917e7e2beb48f1e235130b50ebf9b5d",
+      "md5": "a68b8b848bdb2623fbcaca612bdd2827"
+    },
+    {
+      "path": "batch_09/model_assets_033.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/phys8_s303/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/phys8_s404/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/formal/phys8_s505/checkpoint.pt"
+      ],
+      "bytes": 23669428,
+      "sha256": "24d4f2520d7e04f89e09b63eb0ccf3a87977252b79b4e8722666d1a774035303",
+      "md5": "955550791dbc040729d55e79e00128ac"
+    },
+    {
+      "path": "batch_09/model_assets_034.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/formal_mg_v1/reference.npz",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/smoke/coarse8/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/smoke/hf128/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/smoke/phys32/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/timing_sensitivity/coarse32_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/timing_sensitivity/phys8_lr0.008/checkpoint.pt"
+      ],
+      "bytes": 46568662,
+      "sha256": "57d9e64c97573ebcb6e9f5850838a371db945b403db65b7506127e4fbda74b5d",
+      "md5": "a2b98f34c1b8b8b00c08a27d75d6dcb5"
+    },
+    {
+      "path": "batch_09/model_assets_035.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/coarse32_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/coarse32_lr0.008/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/coarse32_lr0.032/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/coarse8_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/coarse8_lr0.008/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/coarse8_lr0.032/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/hf128_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/hf128_lr0.008/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/hf128_lr0.032/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/hf32_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/hf32_lr0.008/checkpoint.pt"
+      ],
+      "bytes": 43303616,
+      "sha256": "249fc0d48dee578cd7ee2514c26370711b5a9e4533cba7ac57bdfeb7225e51bb",
+      "md5": "7d9ed967c2a0501ae473bc46816be766"
+    },
+    {
+      "path": "batch_09/model_assets_036.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/hf32_lr0.032/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/hf_online_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/hf_online_lr0.008/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/hf_online_lr0.032/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/phys32_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/phys32_lr0.008/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/phys32_lr0.032/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/phys8_lr0.002/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/phys8_lr0.008/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/formal_mg_v1/tuning/phys8_lr0.032/checkpoint.pt"
+      ],
+      "bytes": 39328148,
+      "sha256": "4d595ccace2cae914ef08d16e79f0e67a8cd23c9dfbec243bab703080a868d08",
+      "md5": "9e005e02d0adc187988cdb87d5568a66"
+    },
+    {
+      "path": "batch_10/model_assets_037.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/coarse32_lr0.002_s2101/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/coarse32_lr0.002_s2202/checkpoint.pt"
+      ],
+      "bytes": 31611929,
+      "sha256": "4cb4e23ac7c5c86affa0680da19080d070d45db4703d43cea5d49da8a4e3be2f",
+      "md5": "df5a09adfd31a95050c4e26b7c61bb03"
+    },
+    {
+      "path": "batch_10/model_assets_038.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/coarse32_lr0.002_s2303/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/coarse32_lr0.002_s2404/checkpoint.pt"
+      ],
+      "bytes": 31611563,
+      "sha256": "0fdc0d0ee6346823ded9dfadb80e6600f47479c855d86cf0799468cf725bb5e9",
+      "md5": "f9be40a03df1da1a1126a9a7859428c4"
+    },
+    {
+      "path": "batch_10/model_assets_039.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/coarse32_lr0.002_s2505/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/coarse32_lr0.008_s2101/checkpoint.pt"
+      ],
+      "bytes": 31574938,
+      "sha256": "0b3ea6b5194939dad4425cd31ffbe3cfbed5000ec96087fad4b233e9b8cf6e38",
+      "md5": "e01ef7c21985ed534525644f63bc6cab"
+    },
+    {
+      "path": "batch_10/model_assets_040.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/coarse32_lr0.008_s2202/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/coarse32_lr0.008_s2303/checkpoint.pt"
+      ],
+      "bytes": 31598829,
+      "sha256": "7cbb1fb24bdb677e713a8ea3a4c3950f3f3d21e9c071c92f9a39ba9fbdd1f3b3",
+      "md5": "0003b5a08e20fd87673c8e711bdeffe5"
+    },
+    {
+      "path": "batch_11/model_assets_041.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/coarse32_lr0.008_s2404/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/coarse32_lr0.008_s2505/checkpoint.pt"
+      ],
+      "bytes": 31536037,
+      "sha256": "5e616b97dfc141e00e5e2591bdd300868898ef413f712b808afc509b311d716c",
+      "md5": "6c42f5b70f0677b8dd09181729f67793"
+    },
+    {
+      "path": "batch_11/model_assets_042.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/phys32_lr0.002_s2101/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/phys32_lr0.002_s2202/checkpoint.pt"
+      ],
+      "bytes": 31589229,
+      "sha256": "0fcb8a2f512d602134f1e383b4f0ef8d0ae85ca121f4e2610401e11d8e2f727c",
+      "md5": "12a5f1d38fa18d8b1c8b44bb75e2c829"
+    },
+    {
+      "path": "batch_11/model_assets_043.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/phys32_lr0.002_s2303/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/phys32_lr0.002_s2404/checkpoint.pt"
+      ],
+      "bytes": 31588516,
+      "sha256": "432dd925aa8975bb87e5db6024d9edbb826b56b52072cce144dd558aec235bdc",
+      "md5": "439b54bf2466d9fbeb419a8ea9b21c7e"
+    },
+    {
+      "path": "batch_11/model_assets_044.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/phys32_lr0.002_s2505/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/phys32_lr0.008_s2101/checkpoint.pt"
+      ],
+      "bytes": 31572565,
+      "sha256": "19bdfabfcaeb4039e90a6b85a27d3d3fd8006c2c3e7f8a17cb5cdbedb2013628",
+      "md5": "ec187e8cee5e1dd1d1456f2054942f00"
+    },
+    {
+      "path": "batch_12/model_assets_045.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/phys32_lr0.008_s2202/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/phys32_lr0.008_s2303/checkpoint.pt"
+      ],
+      "bytes": 31572409,
+      "sha256": "8052ec95a4a3ccc44ee5c92176b0ddfaf116e6daac21fa6eee3b3143528e2036",
+      "md5": "01003f4626f40f0ef0052a9d76a2d81e"
+    },
+    {
+      "path": "batch_12/model_assets_046.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/phys32_lr0.008_s2404/checkpoint.pt",
+        "reviewer_bundle/research/publication_track/matched_rate_v3/formal/phys32_lr0.008_s2505/checkpoint.pt"
+      ],
+      "bytes": 31532284,
+      "sha256": "b76f71724e38b7aa42874f74741426672ec2cc7190c28df4601cc1c251aac376",
+      "md5": "ee5b4bd920f0382e14dd52d8ed0f2db4"
+    },
+    {
+      "path": "batch_12/model_assets_047.tar.gz",
+      "members": [
+        "reviewer_bundle/research/publication_track/matched_rate_v3/reference.npz"
+      ],
+      "bytes": 26881347,
+      "sha256": "5387d517de4d98b7ebbbe24b5f10792079c787fd7a53457d95a26274cb2538e2",
+      "md5": "89a345dcc6b5f6b5e2a512c8b868cd55"
+    }
+  ],
+  "unchanged_original_archive": "/Volumes/MacShare/Something/research_q1_20261024/publication_track/submission_v5/model_reference_assets.tar"
+}

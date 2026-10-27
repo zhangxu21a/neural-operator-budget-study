@@ -15,8 +15,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4394,
-      "sha256": "4dbd4eb7e11b65406251f2af4f7be210220be79bae7944f63c8e7e4bc3a188fe",
+      "bytes": 5002,
+      "sha256": "dbf4dae9f7f5dc96f22be94f22461f7d8e014c05d2f56c9a7602cf261e643408",
       "tier": "analysis"
     },
     {
@@ -7715,6 +7715,24 @@
       "path": "CITATION.cff",
       "bytes": 555,
       "sha256": "a891ae67726291741aa19eb095d5e9235ae2808b7c27fb00cd8fc0f1329638fd",
+      "tier": "analysis"
+    },
+    {
+      "path": "asset_download/README_BATCHES.txt",
+      "bytes": 1152,
+      "sha256": "edd0d96006135b7867a1103fa11669b38b8fae1cba12d2511e856bbe9672352e",
+      "tier": "analysis"
+    },
+    {
+      "path": "asset_download/SHA256SUMS.txt",
+      "bytes": 4230,
+      "sha256": "e3a150232b8ed2c0e2a21b57de08d637c198a008115aa19d63daabdb7f1990b1",
+      "tier": "analysis"
+    },
+    {
+      "path": "asset_download/asset_parts_manifest.json",
+      "bytes": 52300,
+      "sha256": "f34d033bf81d08e4eb321a8cb63cbcd441e504b978691f72810b1c5b5c6caa6e",
       "tier": "analysis"
     }
   ],
