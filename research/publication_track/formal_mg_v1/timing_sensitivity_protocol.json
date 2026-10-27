@@ -1,0 +1,11 @@
+{
+  "purpose": "Diagnostic repeat of tuning trials flagged by execution monitoring, not additional model selection",
+  "selection_rule": "All tuning trials with observed competing Python load, plus the trial completed before monitoring began, in execution_audit.json available after the first six formal runs",
+  "trials": [["phys8", 0.008], ["coarse32", 0.002]],
+  "seed": 17,
+  "budget_per_trial_seconds": 60,
+  "pool": 8192,
+  "use": "Compare runtime, updates, and validation loss to original trials. Preserve original selected.json and all formal models regardless of diagnostic outcome. Report whether the original selection margin is sensitive; do not use held-out test sets for these diagnostics.",
+  "extra_budget_seconds": 120,
+  "separate_from_primary_equal_tuning_budget": true
+}

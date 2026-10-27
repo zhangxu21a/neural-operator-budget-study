@@ -1,0 +1,341 @@
+{
+  "comparisons": [
+    {
+      "left": "gradient",
+      "right": "uniform",
+      "budget": 300,
+      "metric": "test",
+      "paired_relative_improvement": -0.027428380820240978,
+      "per_seed": {
+        "22": -0.043037874596206116,
+        "11": -0.013062057032148688,
+        "33": -0.026185210832368133
+      },
+      "wins": 0,
+      "left_mean": 0.027315355667572778,
+      "right_mean": 0.026590746546086546
+    },
+    {
+      "left": "gradient",
+      "right": "field",
+      "budget": 300,
+      "metric": "test",
+      "paired_relative_improvement": 0.0965767791300088,
+      "per_seed": {
+        "22": 0.1238402593355663,
+        "11": 0.033459502294314714,
+        "33": 0.13243057576014539
+      },
+      "wins": 3,
+      "left_mean": 0.027315355667572778,
+      "right_mean": 0.0303575014040689
+    },
+    {
+      "left": "data",
+      "right": "phys_only",
+      "budget": 300,
+      "metric": "test",
+      "paired_relative_improvement": -0.07813821698731171,
+      "per_seed": {
+        "33": -0.07859989451580662,
+        "11": -0.091373685132901,
+        "22": -0.06444107131322752
+      },
+      "wins": 0,
+      "left_mean": 0.025451356303771416,
+      "right_mean": 0.02360755369227263
+    },
+    {
+      "left": "data",
+      "right": "hf",
+      "budget": 300,
+      "metric": "test",
+      "paired_relative_improvement": 0.02058908141595935,
+      "per_seed": {
+        "33": 0.03931251468290542,
+        "11": -0.05072936674962181,
+        "22": 0.07318409631459444
+      },
+      "wins": 2,
+      "left_mean": 0.025451356303771416,
+      "right_mean": 0.026062178033801803
+    },
+    {
+      "left": "gradient",
+      "right": "uniform",
+      "budget": 300,
+      "metric": "ood",
+      "paired_relative_improvement": -0.0158222065598768,
+      "per_seed": {
+        "22": -0.02038195602192716,
+        "11": -0.038789348696414816,
+        "33": 0.011704685038711582
+      },
+      "wins": 1,
+      "left_mean": 0.04726470926834736,
+      "right_mean": 0.04657890979675964
+    },
+    {
+      "left": "gradient",
+      "right": "field",
+      "budget": 300,
+      "metric": "ood",
+      "paired_relative_improvement": 0.02273476044989668,
+      "per_seed": {
+        "22": 0.04350866119556984,
+        "11": 0.0031579924337915566,
+        "33": 0.021537627720328634
+      },
+      "wins": 3,
+      "left_mean": 0.04726470926834736,
+      "right_mean": 0.048370639985175025
+    },
+    {
+      "left": "data",
+      "right": "phys_only",
+      "budget": 300,
+      "metric": "ood",
+      "paired_relative_improvement": -0.08264267469625786,
+      "per_seed": {
+        "33": -0.07727818061939429,
+        "11": -0.1332472088057166,
+        "22": -0.03740263466366267
+      },
+      "wins": 0,
+      "left_mean": 0.04595873154903529,
+      "right_mean": 0.042483004074407894
+    },
+    {
+      "left": "data",
+      "right": "hf",
+      "budget": 300,
+      "metric": "ood",
+      "paired_relative_improvement": -0.031044197644408467,
+      "per_seed": {
+        "33": -0.005062528241987385,
+        "11": -0.0874051556306612,
+        "22": -0.0006649090605768126
+      },
+      "wins": 0,
+      "left_mean": 0.04595873154903529,
+      "right_mean": 0.04463805241296844
+    },
+    {
+      "left": "gradient",
+      "right": "uniform",
+      "budget": 1200,
+      "metric": "test",
+      "paired_relative_improvement": -0.009248566864301791,
+      "per_seed": {
+        "22": -0.06415744299991366,
+        "11": 0.018379860975872964,
+        "33": 0.01803188143113532
+      },
+      "wins": 2,
+      "left_mean": 0.01588753523780421,
+      "right_mean": 0.015756673505772294
+    },
+    {
+      "left": "gradient",
+      "right": "field",
+      "budget": 1200,
+      "metric": "test",
+      "paired_relative_improvement": 0.0035208683580961373,
+      "per_seed": {
+        "22": 0.011610924564273706,
+        "11": -0.003927457011216218,
+        "33": 0.0028791375212309234
+      },
+      "wins": 2,
+      "left_mean": 0.01588753523780421,
+      "right_mean": 0.01594669884313286
+    },
+    {
+      "left": "data",
+      "right": "phys_only",
+      "budget": 1200,
+      "metric": "test",
+      "paired_relative_improvement": -0.03636738962901842,
+      "per_seed": {
+        "33": -0.02959192731775495,
+        "11": -0.04429085979768699,
+        "22": -0.03521938177161332
+      },
+      "wins": 0,
+      "left_mean": 0.015412197054805196,
+      "right_mean": 0.014874526860391294
+    },
+    {
+      "left": "data",
+      "right": "hf",
+      "budget": 1200,
+      "metric": "test",
+      "paired_relative_improvement": -0.009225322906548983,
+      "per_seed": {
+        "33": 0.008940150801538316,
+        "11": -0.04372720135650421,
+        "22": 0.007111081835318944
+      },
+      "wins": 2,
+      "left_mean": 0.015412197054805196,
+      "right_mean": 0.01529005911773614
+    },
+    {
+      "left": "gradient",
+      "right": "uniform",
+      "budget": 1200,
+      "metric": "ood",
+      "paired_relative_improvement": -0.007717648621870632,
+      "per_seed": {
+        "22": -0.02662257831651238,
+        "11": 0.00973989421439958,
+        "33": -0.0062702617634990965
+      },
+      "wins": 1,
+      "left_mean": 0.03172013584480737,
+      "right_mean": 0.03147844433260616
+    },
+    {
+      "left": "gradient",
+      "right": "field",
+      "budget": 1200,
+      "metric": "ood",
+      "paired_relative_improvement": -0.017917024102469797,
+      "per_seed": {
+        "22": -0.031059885917089858,
+        "11": -0.03157970109438457,
+        "33": 0.008888514704065043
+      },
+      "wins": 1,
+      "left_mean": 0.03172013584480737,
+      "right_mean": 0.031175403935776558
+    },
+    {
+      "left": "data",
+      "right": "phys_only",
+      "budget": 1200,
+      "metric": "ood",
+      "paired_relative_improvement": -0.039618079900950454,
+      "per_seed": {
+        "33": -0.03244657387151295,
+        "11": -0.020102880298704662,
+        "22": -0.06630478553263375
+      },
+      "wins": 0,
+      "left_mean": 0.030819854355892556,
+      "right_mean": 0.029652473759294178
+    },
+    {
+      "left": "data",
+      "right": "hf",
+      "budget": 1200,
+      "metric": "ood",
+      "paired_relative_improvement": -0.01594793924545912,
+      "per_seed": {
+        "33": 0.007015752956589072,
+        "11": -0.034765108597284655,
+        "22": -0.020094462095681775
+      },
+      "wins": 1,
+      "left_mean": 0.030819854355892556,
+      "right_mean": 0.030362994874546228
+    }
+  ],
+  "costs": {
+    "gradient": {
+      "fine_mean": 1935.3333333333333,
+      "pool_fraction": 0.9449869791666666,
+      "steps_mean": 3040.6666666666665,
+      "timings": {
+        "coarse": 2.8807829636304327,
+        "fine": 47.118653396843,
+        "physics": 0.0,
+        "teacher": 0.7886650488556673,
+        "scoring": 6.5833639316260815,
+        "training": 1101.1135598130834,
+        "validation": 22.67982255566555,
+        "checkpoint": 1.1369005367935945
+      }
+    },
+    "uniform": {
+      "fine_mean": 1939.6666666666667,
+      "pool_fraction": 0.9471028645833334,
+      "steps_mean": 3033,
+      "timings": {
+        "coarse": 2.92489904545558,
+        "fine": 47.167689873448886,
+        "physics": 0.0,
+        "teacher": 0.8464632687779764,
+        "scoring": 0.5183211990321676,
+        "training": 1106.6282632471994,
+        "validation": 22.983342624424647,
+        "checkpoint": 1.1541240122945358
+      }
+    },
+    "field": {
+      "fine_mean": 1944.3333333333333,
+      "pool_fraction": 0.9493815104166666,
+      "steps_mean": 3064.6666666666665,
+      "timings": {
+        "coarse": 2.8821253071849546,
+        "fine": 47.46837954587924,
+        "physics": 0.0,
+        "teacher": 0.7777291093176851,
+        "scoring": 0.6134743799921125,
+        "training": 1106.833187111498,
+        "validation": 22.67238654064325,
+        "checkpoint": 1.1370816295190405
+      }
+    },
+    "data": {
+      "fine_mean": 2048,
+      "pool_fraction": 1.0,
+      "steps_mean": 3040.6666666666665,
+      "timings": {
+        "coarse": 2.8574494522375367,
+        "fine": 49.999591140231736,
+        "physics": 0.0,
+        "teacher": 0.7671946093905717,
+        "scoring": 7.252791963517666,
+        "training": 1097.7388586705395,
+        "validation": 22.63289780674192,
+        "checkpoint": 1.1248892695487787
+      }
+    },
+    "phys_only": {
+      "fine_mean": 32,
+      "pool_fraction": 0.015625,
+      "steps_mean": 3164.3333333333335,
+      "timings": {
+        "coarse": 3.058755410835147,
+        "fine": 0.7784315713991722,
+        "physics": 10.603681673683846,
+        "teacher": 0.0,
+        "scoring": 0.0,
+        "training": 1144.091684506663,
+        "validation": 22.71263036131859,
+        "checkpoint": 1.1793552450835705
+      }
+    },
+    "hf": {
+      "fine_mean": 2048,
+      "pool_fraction": 1.0,
+      "steps_mean": 3039,
+      "timings": {
+        "coarse": 0.04745488986372948,
+        "fine": 49.83763918466866,
+        "physics": 0.0,
+        "teacher": 0.0,
+        "scoring": 0.0,
+        "training": 1108.5299681859713,
+        "validation": 22.80602607030111,
+        "checkpoint": 1.153480184186871
+      }
+    }
+  },
+  "formal_trajectories": 30,
+  "budget_points": 60,
+  "nonfinite_formal": 0,
+  "all_checks_passed": true,
+  "note": "Three seeds; 5/20 minute checkpoints are paired, not independent repetitions."
+}

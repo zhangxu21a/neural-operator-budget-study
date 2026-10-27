@@ -1,0 +1,34 @@
+{
+  "task": "FNO data mechanism round: longer equal tuning, gradient/uniform/field fixed rate controls, pretrain HF, native data, HF, physics-only and author MLMC; matched LR0.008. Finish full matrix and report actual independent increment.",
+  "root": "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy_mechanism",
+  "status": "complete",
+  "pipeline_pid": 71541,
+  "pipeline_session": 1049,
+  "runtime": "/Users/root1/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+  "source_policy": "Frozen protocol.json; do not change computational sources mid-run. All timed runs serial CPU single thread. No heavy parallel analysis.",
+  "expected": "48 tuning180s;30 formal1200s with300s prefix;3seeds.",
+  "validation": "validation.json passed exact gate enumeration unbiased full-gradient for3policies;8 real30s smoke runs in smoke/. Initial pre-final-core smoke preserved smoke_initial/.",
+  "finish": "status stage complete only after summarize.py/post_validation.py/plot_results.py succeed. Then inspect report,audit,plot,write interpretation,update proposal status. Second PDE conditional on actual mechanism advantage, do not promote a mere combination.",
+  "resume": "Incomplete dirs must be archived before rerunning; completed result dirs reused. main pipeline handles skip completed.",
+  "new_test_seeds": [
+    39191,
+    39291
+  ],
+  "completed_tuning": 48,
+  "completed_formal": 30,
+  "selected_summary": {
+    "data": 0.008,
+    "gradient": 0.004,
+    "uniform": 0.016,
+    "field": 0.008,
+    "pretrain": 0.016,
+    "hf": 0.008,
+    "phys_only": 0.008,
+    "author_mlmc": 0.004
+  },
+  "monitor_cell": null,
+  "caffeinate_session": 68876,
+  "decision": "Stop Darcy gradient-scoring mainline: independent gain not established",
+  "results": "interpretation.md",
+  "checks": "audit.json; post_validation.json; decision_analysis.json"
+}

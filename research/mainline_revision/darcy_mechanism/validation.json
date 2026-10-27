@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "fresh_seed": 30101,
+  "field_score_matches_expanded_reference": true,
+  "cases": [
+    {
+      "method": "gradient",
+      "probabilities": [
+        0.0549665739121085,
+        0.44503286377158635
+      ],
+      "mean_probability": 0.24999971884184743,
+      "exact_gate_enumeration_gradient_relative_error": 1.1870766911670216e-06
+    },
+    {
+      "method": "uniform",
+      "probabilities": [
+        0.25,
+        0.25
+      ],
+      "mean_probability": 0.25,
+      "exact_gate_enumeration_gradient_relative_error": 1.200180690830166e-06
+    },
+    {
+      "method": "field",
+      "probabilities": [
+        0.15600824042685166,
+        0.3439916544142396
+      ],
+      "mean_probability": 0.24999994742054565,
+      "exact_gate_enumeration_gradient_relative_error": 1.1557690413610544e-06
+    }
+  ]
+}

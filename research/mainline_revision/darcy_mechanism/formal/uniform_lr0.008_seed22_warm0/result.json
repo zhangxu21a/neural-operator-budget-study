@@ -1,0 +1,77 @@
+{
+  "nonfinite_loss": false,
+  "method": "uniform",
+  "warmup_seconds": 0,
+  "rate_policy": "fixed .25",
+  "arch": "fno",
+  "seed": 22,
+  "lr": 0.008,
+  "phase": "formal",
+  "pool": 2048,
+  "allocated_wall": 1200,
+  "wall": 1186.1982399998233,
+  "counts": {
+    "coarse": 2048,
+    "fine": 1932,
+    "physics": 0
+  },
+  "timings": {
+    "coarse": 2.8654524085577577,
+    "fine": 47.225715070264414,
+    "physics": 0.0,
+    "teacher": 0.8492825024295598,
+    "scoring": 0.5026903520338237,
+    "training": 1107.0277410256676,
+    "validation": 22.697963499929756,
+    "checkpoint": 1.1336094373837113
+  },
+  "steps": 3068,
+  "validation": 0.0158915999927558,
+  "checkpoint_policy": "validation best only, charged inside budget",
+  "milestones": {
+    "300": {
+      "validation": 0.025696356315165758,
+      "selected_state_ready": 285.1992139578797,
+      "selected_steps": 688,
+      "decision_ready": 286.28692379104905,
+      "counts": {
+        "coarse": 1907,
+        "fine": 1023,
+        "physics": 0
+      },
+      "timings": {
+        "coarse": 2.621121392119676,
+        "fine": 24.918309638509527,
+        "physics": 0.0,
+        "teacher": 0.067164845764637,
+        "scoring": 0.1370576974004507,
+        "training": 248.29764750460163,
+        "validation": 6.468690376961604,
+        "checkpoint": 0.25569442147389054
+      },
+      "steps_completed": 688
+    },
+    "1200": {
+      "validation": 0.0158915999927558,
+      "selected_state_ready": 1081.8385794160422,
+      "selected_steps": 2792,
+      "decision_ready": 1186.1982315408532,
+      "counts": {
+        "coarse": 2048,
+        "fine": 1932,
+        "physics": 0
+      },
+      "timings": {
+        "coarse": 2.8654524085577577,
+        "fine": 47.225715070264414,
+        "physics": 0.0,
+        "teacher": 0.8492825024295598,
+        "scoring": 0.5026903520338237,
+        "training": 1107.0277410256676,
+        "validation": 22.697963499929756,
+        "checkpoint": 1.1336094373837113
+      },
+      "steps_completed": 3068
+    }
+  }
+}

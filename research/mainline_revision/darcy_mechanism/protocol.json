@@ -1,0 +1,270 @@
+{
+  "arms": [
+    "data",
+    "gradient",
+    "uniform",
+    "field",
+    "pretrain",
+    "hf",
+    "phys_only",
+    "author_mlmc"
+  ],
+  "seeds": [
+    11,
+    22,
+    33
+  ],
+  "tuning_configs": {
+    "data": [
+      [
+        0.002,
+        0
+      ],
+      [
+        0.004,
+        0
+      ],
+      [
+        0.008,
+        0
+      ],
+      [
+        0.016,
+        0
+      ],
+      [
+        0.032,
+        0
+      ],
+      [
+        0.064,
+        0
+      ]
+    ],
+    "gradient": [
+      [
+        0.002,
+        0
+      ],
+      [
+        0.004,
+        0
+      ],
+      [
+        0.008,
+        0
+      ],
+      [
+        0.016,
+        0
+      ],
+      [
+        0.032,
+        0
+      ],
+      [
+        0.064,
+        0
+      ]
+    ],
+    "uniform": [
+      [
+        0.002,
+        0
+      ],
+      [
+        0.004,
+        0
+      ],
+      [
+        0.008,
+        0
+      ],
+      [
+        0.016,
+        0
+      ],
+      [
+        0.032,
+        0
+      ],
+      [
+        0.064,
+        0
+      ]
+    ],
+    "field": [
+      [
+        0.002,
+        0
+      ],
+      [
+        0.004,
+        0
+      ],
+      [
+        0.008,
+        0
+      ],
+      [
+        0.016,
+        0
+      ],
+      [
+        0.032,
+        0
+      ],
+      [
+        0.064,
+        0
+      ]
+    ],
+    "pretrain": [
+      [
+        0.004,
+        30
+      ],
+      [
+        0.004,
+        120
+      ],
+      [
+        0.008,
+        30
+      ],
+      [
+        0.008,
+        120
+      ],
+      [
+        0.016,
+        30
+      ],
+      [
+        0.016,
+        120
+      ]
+    ],
+    "hf": [
+      [
+        0.002,
+        0
+      ],
+      [
+        0.004,
+        0
+      ],
+      [
+        0.008,
+        0
+      ],
+      [
+        0.016,
+        0
+      ],
+      [
+        0.032,
+        0
+      ],
+      [
+        0.064,
+        0
+      ]
+    ],
+    "phys_only": [
+      [
+        0.002,
+        0
+      ],
+      [
+        0.004,
+        0
+      ],
+      [
+        0.008,
+        0
+      ],
+      [
+        0.016,
+        0
+      ],
+      [
+        0.032,
+        0
+      ],
+      [
+        0.064,
+        0
+      ]
+    ],
+    "author_mlmc": [
+      [
+        0.002,
+        0
+      ],
+      [
+        0.004,
+        0
+      ],
+      [
+        0.008,
+        0
+      ],
+      [
+        0.016,
+        0
+      ],
+      [
+        0.032,
+        0
+      ],
+      [
+        0.064,
+        0
+      ]
+    ]
+  },
+  "tuning_seconds": 180,
+  "formal_seconds": 1200,
+  "report_seconds": [
+    300,
+    1200
+  ],
+  "matched_lr": 0.008,
+  "matched_methods": [
+    "data",
+    "gradient",
+    "uniform",
+    "field",
+    "hf"
+  ],
+  "fixed_acquisition_rate": 0.25,
+  "training_pool": 2048,
+  "test_seed": 39191,
+  "ood_seed": 39291,
+  "hardware": "Apple M4 single CPU thread, serial timed runs",
+  "mechanism": "gradient/uniform/field share fixed mean acquisition probability .25, teacher and IP-corrected target. Native data retains adaptive V/B cost allocation. Different score computation costs remain charged. Purchase counts can differ through unique cache and updates.",
+  "warmup": "pretrain tunes3 learning rates x2 warmup times, same6 trial allocation as others. Fixed absolute warmup, no optimizer/schedule reset.",
+  "budget": "common15second validation reserve;5min/20min checkpoints from same horizon-independent lr schedule",
+  "source_hashes": {
+    "../darcy_optimized/vendor/mlmc_optim/mlmc_optim/batcher.py": "ebc927d8d2917add229a94766342bef13e98ec351e9e8417b32beedd15e70ea4",
+    "../darcy_optimized/vendor/mlmc_optim/mlmc_optim/gradient.py": "9f0b9472a75406deadb7140aafae07066d12c5541317fb79f8268a9755858b95",
+    "../darcy_optimized/vendor/mlmc_optim/examples/examples_src/models/fno.py": "4a65749bf5f5d7f55cd072f21b8ab7e84ce5f07f187025434e844efbaf3ba519",
+    "runner.py": "96fbcda4da300752cc952ba670cc1a138423d6b67f65217c540375d4a175ece6",
+    "policies.py": "8671cc9a1b1995291c842affdd4e81734b295b52eecd90d18aa23807bc35b499",
+    "bootstrap.py": "546b7fc17a1e3bd0e542513df987902e97fd6ac02f0fbc1c9c918ea98c4cce62",
+    "pipeline.py": "b0b4532889763de2d323ecb3285964ad2317399f1dd8f311f255b0506cee0df8",
+    "evaluate.py": "64da2a50e95b61c7e0caed52721339ceba3a537e72f2c22b5b8ccf560db62983",
+    "prepare_reference.py": "6690d5029318d581065594ce324507c54a6e1e081fc80302b91f437d24a01ce0",
+    "validate.py": "8a417967bf9a73faea58e9a04bb4829658f930c74aa695f6867a128e5185b3f9",
+    "post_validation.py": "db748547813c8b9929e2b5ce4725c01299e9920d2f123257abe64222aced14cf",
+    "../darcy_optimized/scoring.py": "9a91f1153cf89d4fc358ce57dd63068f0773e8ca4bc94f02fe3cf3e6be56b47a",
+    "../darcy_optimized/fno_model.py": "35069689bba2a98f0a860f4a63677b9fdb72834d1e75c26b2cd10d08c9084de3",
+    "../darcy_optimized/fno_scoring.py": "ae7cb5201fb3caf4076f747f01be29a9800075ee9141fdfd96c32f509c7c509e",
+    "../darcy_optimized/author.py": "2b024604e8f44ea2187385903e8d0dc255fc9d5182d1e17c184350a64171649f",
+    "../darcy/solver.py": "e17b7da3485c2c750fcbc59626503d1c7452aa967d3063aa1856894362d937e5",
+    "../darcy/teacher.py": "9ecd6c81aeed57c5e29834e854ea469ac376b3647601ed2656da22da2f2291d6",
+    "../darcy/model.py": "819e3f5e899a7d5bfce34f92b2c2f243150ea9daf679e2d6982dc52b88e9ef7d",
+    "../darcy/runtime.py": "4fd060675182b1edf20b8f548e18b3242539a5be366e57bd18c4532882cecfda"
+  }
+}

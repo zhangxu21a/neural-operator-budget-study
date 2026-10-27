@@ -1,0 +1,27 @@
+{
+  "formal_trajectories": 30,
+  "budget_points": 60,
+  "tuning_runs": 48,
+  "all_budget_caps_pass": true,
+  "source_hashes_match": {
+    "../darcy_optimized/vendor/mlmc_optim/mlmc_optim/batcher.py": true,
+    "../darcy_optimized/vendor/mlmc_optim/mlmc_optim/gradient.py": true,
+    "../darcy_optimized/vendor/mlmc_optim/examples/examples_src/models/fno.py": true,
+    "runner.py": true,
+    "policies.py": true,
+    "bootstrap.py": true,
+    "pipeline.py": true,
+    "evaluate.py": true,
+    "prepare_reference.py": true,
+    "validate.py": true,
+    "post_validation.py": true,
+    "../darcy_optimized/scoring.py": true,
+    "../darcy_optimized/fno_model.py": true,
+    "../darcy_optimized/fno_scoring.py": true,
+    "../darcy_optimized/author.py": true,
+    "../darcy/solver.py": true,
+    "../darcy/teacher.py": true,
+    "../darcy/model.py": true,
+    "../darcy/runtime.py": true
+  }
+}

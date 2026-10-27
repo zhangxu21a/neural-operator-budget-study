@@ -1,0 +1,10 @@
+{
+  "architecture": "fno",
+  "arm": "phys32",
+  "seed": 1101,
+  "budget": 600,
+  "decision_ready": 589.0098495418206,
+  "steps": 789,
+  "validation": 0.13737165206111968,
+  "hf": 32
+}

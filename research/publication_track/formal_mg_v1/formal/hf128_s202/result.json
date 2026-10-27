@@ -1,0 +1,85 @@
+{
+  "arm": "hf128",
+  "seed": 202,
+  "train_parameter_seed": 71202,
+  "lr": 0.002,
+  "phase": "formal",
+  "pool": 8192,
+  "budget": 180,
+  "wall": 168.87182300002314,
+  "nonfinite_loss": false,
+  "initial_complete": true,
+  "steps": 400,
+  "validation": 0.1391291539184749,
+  "counts": {
+    "hf": 128,
+    "coarse8": 0,
+    "coarse32": 0,
+    "phys8": 0,
+    "phys32": 0
+  },
+  "timings": {
+    "hf": 19.88278233562596,
+    "coarse8": 0.0,
+    "coarse32": 0.0,
+    "phys8": 0.0,
+    "phys32": 0.0,
+    "input": 0.24771545315161347,
+    "training": 144.82425187481567,
+    "validation": 3.863954583182931,
+    "checkpoint": 0.0028377489652484655
+  },
+  "max_hf_residual": 9.967438035511929e-09,
+  "max_hf_iterations": 11,
+  "milestones": {
+    "120": {
+      "validation": 0.1586673439014703,
+      "selected_steps": 239,
+      "decision_ready": 108.74614020786248,
+      "counts": {
+        "hf": 128,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 19.88278233562596,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 0.23807832226157188,
+        "training": 86.37001212500036,
+        "validation": 2.2136509569827467,
+        "checkpoint": 0.0019439170137047768
+      },
+      "steps_completed": 239
+    },
+    "180": {
+      "validation": 0.1391291539184749,
+      "selected_steps": 400,
+      "decision_ready": 168.87181949988008,
+      "counts": {
+        "hf": 128,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 19.88278233562596,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 0.24771545315161347,
+        "training": 144.82425187481567,
+        "validation": 3.863954583182931,
+        "checkpoint": 0.0028377489652484655
+      },
+      "steps_completed": 400
+    }
+  },
+  "export_seconds": 0.6820319159887731
+}

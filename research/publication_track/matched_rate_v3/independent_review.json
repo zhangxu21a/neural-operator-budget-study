@@ -1,0 +1,12 @@
+{
+  "formal_runs": 20,
+  "budget_points": 80,
+  "individual_metric_sets_checked": 160,
+  "frozen_sources_checked": 28,
+  "all_frozen_sources_match": true,
+  "means_sds_paired_differences_interactions_recomputed": true,
+  "all_caps_pass": true,
+  "nonfinite_loss_runs": 0,
+  "flagged_load_runs": 0,
+  "no_runs_removed": true
+}

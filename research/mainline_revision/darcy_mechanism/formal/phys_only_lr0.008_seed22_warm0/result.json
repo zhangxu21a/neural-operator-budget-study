@@ -1,0 +1,77 @@
+{
+  "nonfinite_loss": false,
+  "method": "phys_only",
+  "warmup_seconds": 0,
+  "rate_policy": "none",
+  "arch": "fno",
+  "seed": 22,
+  "lr": 0.008,
+  "phase": "formal",
+  "pool": 2048,
+  "allocated_wall": 1200,
+  "wall": 1186.4289764999412,
+  "counts": {
+    "coarse": 2048,
+    "fine": 32,
+    "physics": 2016
+  },
+  "timings": {
+    "coarse": 3.062247063498944,
+    "fine": 0.798151709837839,
+    "physics": 10.610017554368824,
+    "teacher": 0.0,
+    "scoring": 0.0,
+    "training": 1144.186119826045,
+    "validation": 22.699957040604204,
+    "checkpoint": 1.1849619522690773
+  },
+  "steps": 3167,
+  "validation": 0.01489271191530861,
+  "checkpoint_policy": "validation best only, charged inside budget",
+  "milestones": {
+    "300": {
+      "validation": 0.023475533409509808,
+      "selected_state_ready": 285.2009341251105,
+      "selected_steps": 726,
+      "decision_ready": 286.2797391661443,
+      "counts": {
+        "coarse": 1927,
+        "fine": 32,
+        "physics": 1895
+      },
+      "timings": {
+        "coarse": 2.8487890970427543,
+        "fine": 0.798151709837839,
+        "physics": 9.951183138880879,
+        "teacher": 0.0,
+        "scoring": 0.0,
+        "training": 262.4021214628592,
+        "validation": 6.494825081899762,
+        "checkpoint": 0.28005382348783314
+      },
+      "steps_completed": 726
+    },
+    "1200": {
+      "validation": 0.01489271191530861,
+      "selected_state_ready": 1184.9862580411136,
+      "selected_steps": 3167,
+      "decision_ready": 1186.4289671250153,
+      "counts": {
+        "coarse": 2048,
+        "fine": 32,
+        "physics": 2016
+      },
+      "timings": {
+        "coarse": 3.062247063498944,
+        "fine": 0.798151709837839,
+        "physics": 10.610017554368824,
+        "teacher": 0.0,
+        "scoring": 0.0,
+        "training": 1144.186119826045,
+        "validation": 22.699957040604204,
+        "checkpoint": 1.1849619522690773
+      },
+      "steps_completed": 3167
+    }
+  }
+}

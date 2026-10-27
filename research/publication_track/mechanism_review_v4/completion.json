@@ -1,0 +1,9 @@
+{
+  "complete": true,
+  "finished_at": "2026-10-27T16:00:38.303657+09:00",
+  "new_training_runs": 0,
+  "new_test_evaluations": 0,
+  "paper_compiled": true,
+  "conditional_experiment_decision": "No new training required to retain bounded descriptive claims; causal or cross-PDE claims require new evidence.",
+  "literature_access_gap": "Xu full method/timing/code details remain unavailable; disclosed in paper and comparison table."
+}

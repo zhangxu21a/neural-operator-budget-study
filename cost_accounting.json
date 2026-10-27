@@ -1,0 +1,92 @@
+[
+  {
+    "study": "formal_mg_v1",
+    "reference_generation_seconds": 38.93463345896453,
+    "formal_wall": {
+      "seconds": 5911.134539874038,
+      "available_records": 35,
+      "expected_records": 35,
+      "complete": true
+    },
+    "primary_tuning_wall": {
+      "seconds": 1027.9297512483317,
+      "available_records": 21,
+      "expected_records": 21,
+      "complete": true
+    },
+    "formal_export": {
+      "seconds": 20.329624329460785,
+      "available_records": 35,
+      "expected_records": 35,
+      "complete": true
+    },
+    "formal_offline_evaluation": {
+      "seconds": 231.72684187139384,
+      "available_records": 35,
+      "expected_records": 35,
+      "complete": true
+    },
+    "primary_tuning_allocated_seconds": 1260,
+    "imports_startup_instrumentation_and_project_development": "Not completely measured; not included in a fabricated lifecycle total."
+  },
+  {
+    "study": "architecture_horizon_v2",
+    "reference_generation_seconds": 37.42131487512961,
+    "formal_wall": {
+      "seconds": 15991.878960747039,
+      "available_records": 45,
+      "expected_records": 45,
+      "complete": true
+    },
+    "primary_tuning_wall": {
+      "seconds": 1317.959109665826,
+      "available_records": 27,
+      "expected_records": 27,
+      "complete": true
+    },
+    "formal_export": {
+      "seconds": 6.119391081854701,
+      "available_records": 45,
+      "expected_records": 45,
+      "complete": true
+    },
+    "formal_offline_evaluation": {
+      "seconds": 270.5290798372589,
+      "available_records": 45,
+      "expected_records": 45,
+      "complete": true
+    },
+    "primary_tuning_allocated_seconds": 1620,
+    "imports_startup_instrumentation_and_project_development": "Not completely measured; not included in a fabricated lifecycle total."
+  },
+  {
+    "study": "matched_rate_v3",
+    "reference_generation_seconds": 38.13011029106565,
+    "formal_wall": {
+      "seconds": 11783.87295341678,
+      "available_records": 20,
+      "expected_records": 20,
+      "complete": true
+    },
+    "primary_tuning_wall": {
+      "seconds": 0,
+      "available_records": 0,
+      "expected_records": 0,
+      "complete": true
+    },
+    "formal_export": {
+      "seconds": 5.84334020735696,
+      "available_records": 20,
+      "expected_records": 20,
+      "complete": true
+    },
+    "formal_offline_evaluation": {
+      "seconds": 262.1526165017858,
+      "available_records": 20,
+      "expected_records": 20,
+      "complete": true
+    },
+    "primary_tuning_allocated_seconds": 0,
+    "imports_startup_instrumentation_and_project_development": "Not completely measured; not included in a fabricated lifecycle total."
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "manufactured": {
+    "manufactured_relative_error_n32": 0.0008035776793692195,
+    "symmetry_max_error": 0.0
+  },
+  "solver": [
+    {
+      "relative_error_to_direct": 3.8020032207182534e-08,
+      "residual": 6.57286375481169e-09
+    },
+    {
+      "relative_error_to_direct": 3.76337517758178e-08,
+      "residual": 6.631752304446983e-09
+    },
+    {
+      "relative_error_to_direct": 3.834401751787069e-08,
+      "residual": 2.1843633624501526e-09
+    }
+  ],
+  "coarse8": {
+    "wall": 8.71177037502639,
+    "steps": 4,
+    "initial_complete": true
+  },
+  "phys32": {
+    "wall": 8.662309749983251,
+    "steps": 3,
+    "initial_complete": true
+  },
+  "hf128": {
+    "wall": 33.916782040847465,
+    "steps": 33,
+    "initial_complete": true
+  },
+  "passed": true
+}

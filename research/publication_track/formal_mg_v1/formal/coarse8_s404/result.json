@@ -1,0 +1,85 @@
+{
+  "arm": "coarse8",
+  "seed": 404,
+  "train_parameter_seed": 71404,
+  "lr": 0.032,
+  "phase": "formal",
+  "pool": 8192,
+  "budget": 180,
+  "wall": 168.79844854190014,
+  "nonfinite_loss": false,
+  "initial_complete": true,
+  "steps": 393,
+  "validation": 0.7241581128910184,
+  "counts": {
+    "hf": 32,
+    "coarse8": 2624,
+    "coarse32": 0,
+    "phys8": 0,
+    "phys32": 0
+  },
+  "timings": {
+    "hf": 4.9098292894195765,
+    "coarse8": 11.069040498230606,
+    "coarse32": 0.0,
+    "phys8": 0.0,
+    "phys32": 0.0,
+    "input": 4.556997074978426,
+    "training": 143.83687157346867,
+    "validation": 4.368186209583655,
+    "checkpoint": 0.0020716253202408552
+  },
+  "max_hf_residual": 7.398568489109693e-09,
+  "max_hf_iterations": 10,
+  "milestones": {
+    "120": {
+      "validation": 0.7241581128910184,
+      "selected_steps": 221,
+      "decision_ready": 108.91619516699575,
+      "counts": {
+        "hf": 32,
+        "coarse8": 1772,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 4.9098292894195765,
+        "coarse8": 7.4784326606895775,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 3.0714489524252713,
+        "training": 90.66318277898245,
+        "validation": 2.747348916484043,
+        "checkpoint": 0.0020716253202408552
+      },
+      "steps_completed": 248
+    },
+    "180": {
+      "validation": 0.7241581128910184,
+      "selected_steps": 221,
+      "decision_ready": 168.79844541708007,
+      "counts": {
+        "hf": 32,
+        "coarse8": 2624,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 4.9098292894195765,
+        "coarse8": 11.069040498230606,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 4.556997074978426,
+        "training": 143.83687157346867,
+        "validation": 4.368186209583655,
+        "checkpoint": 0.0020716253202408552
+      },
+      "steps_completed": 393
+    }
+  },
+  "export_seconds": 0.6889418750070035
+}

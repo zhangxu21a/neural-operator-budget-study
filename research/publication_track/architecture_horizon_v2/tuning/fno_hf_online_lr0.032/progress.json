@@ -1,0 +1,10 @@
+{
+  "architecture": "fno",
+  "arm": "hf_online",
+  "seed": 1017,
+  "budget": 60,
+  "decision_ready": 48.837828000076115,
+  "steps": 26,
+  "validation": 0.35182848293334246,
+  "hf": 236
+}

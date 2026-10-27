@@ -1,0 +1,62 @@
+{
+  "torch": "2.14.1",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "cpu_threads": 1,
+  "mps_available": true,
+  "cuda_available": false,
+  "purpose": "synchronized optimizer-step microbenchmark, NOT end-to-end training comparison",
+  "warmup_steps": 3,
+  "timed_steps": 10,
+  "cases": [
+    {
+      "arch": "fno",
+      "device": "cpu",
+      "status": "passed",
+      "median_step_seconds": 0.37337952095549554,
+      "steps_seconds": [
+        0.3736908750142902,
+        0.3728221671190113,
+        0.37306816689670086,
+        0.36936591612175107,
+        0.36963816615752876,
+        0.36817445792257786,
+        0.37437975010834634,
+        0.37703075003810227,
+        0.3791594591457397,
+        0.37418341683223844
+      ],
+      "loss": 0.00013721406867261976
+    },
+    {
+      "arch": "fno",
+      "device": "mps",
+      "status": "unsupported_or_failed",
+      "error": "RuntimeError: Passed CPU tensor to MPS op"
+    },
+    {
+      "arch": "deeponet",
+      "device": "cpu",
+      "status": "passed",
+      "median_step_seconds": 0.0043753753416240215,
+      "steps_seconds": [
+        0.0043570417910814285,
+        0.00417124992236495,
+        0.004479541908949614,
+        0.0043937088921666145,
+        0.0048824159894138575,
+        0.004516167100518942,
+        0.004348790971562266,
+        0.004174333065748215,
+        0.004407792119309306,
+        0.004081791965290904
+      ],
+      "loss": 1.447012800781522e-05
+    },
+    {
+      "arch": "deeponet",
+      "device": "mps",
+      "status": "unsupported_or_failed",
+      "error": "RuntimeError: Adaptive pool MPS: input sizes must be divisible by output sizes. Non-divisible input sizes are not implemented on MPS device yet. For now, you can manually transfer tensor to cpu in this case. Please refer to [this issue](https://github.com/pytorch/pytorch/issues/96056)"
+    }
+  ]
+}

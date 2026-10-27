@@ -1,0 +1,77 @@
+{
+  "nonfinite_loss": false,
+  "method": "gradient",
+  "warmup_seconds": 0,
+  "rate_policy": "fixed .25",
+  "arch": "fno",
+  "seed": 33,
+  "lr": 0.008,
+  "phase": "formal",
+  "pool": 2048,
+  "allocated_wall": 1200,
+  "wall": 1186.3337812081445,
+  "counts": {
+    "coarse": 2048,
+    "fine": 1945,
+    "physics": 0
+  },
+  "timings": {
+    "coarse": 2.8654597757849842,
+    "fine": 47.303255615290254,
+    "physics": 0.0,
+    "teacher": 0.7043989149387926,
+    "scoring": 6.620694359531626,
+    "training": 1101.1149774400983,
+    "validation": 22.686477626441047,
+    "checkpoint": 1.13657773216255
+  },
+  "steps": 3043,
+  "validation": 0.01626678980392171,
+  "checkpoint_policy": "validation best only, charged inside budget",
+  "milestones": {
+    "300": {
+      "validation": 0.02919818893133197,
+      "selected_state_ready": 249.07392662507482,
+      "selected_steps": 594,
+      "decision_ready": 286.45667441608384,
+      "counts": {
+        "coarse": 1897,
+        "fine": 976,
+        "physics": 0
+      },
+      "timings": {
+        "coarse": 2.6050078014377505,
+        "fine": 23.718830967321992,
+        "physics": 0.0,
+        "teacher": 0.057468577986583114,
+        "scoring": 3.1761904119048268,
+        "training": 246.63904459774494,
+        "validation": 6.485127832973376,
+        "checkpoint": 0.2543203942477703
+      },
+      "steps_completed": 684
+    },
+    "1200": {
+      "validation": 0.01626678980392171,
+      "selected_state_ready": 1184.8727562080603,
+      "selected_steps": 3043,
+      "decision_ready": 1186.333775583189,
+      "counts": {
+        "coarse": 2048,
+        "fine": 1945,
+        "physics": 0
+      },
+      "timings": {
+        "coarse": 2.8654597757849842,
+        "fine": 47.303255615290254,
+        "physics": 0.0,
+        "teacher": 0.7043989149387926,
+        "scoring": 6.620694359531626,
+        "training": 1101.1149774400983,
+        "validation": 22.686477626441047,
+        "checkpoint": 1.13657773216255
+      },
+      "steps_completed": 3043
+    }
+  }
+}

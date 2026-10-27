@@ -1,0 +1,87 @@
+{
+  "started_at_unix": 1793030392.8461099,
+  "architecture": "deeponet",
+  "arm": "hf128",
+  "seed": 71,
+  "train_parameter_seed": 92071,
+  "lr": 0.002,
+  "phase": "smoke",
+  "pool": 256,
+  "budget": 45,
+  "wall": 33.51868395903148,
+  "nonfinite_loss": false,
+  "initial_complete": true,
+  "steps": 1640,
+  "validation": 0.4139704033732414,
+  "counts": {
+    "hf": 128,
+    "coarse8": 0,
+    "coarse32": 0,
+    "phys8": 0,
+    "phys32": 0
+  },
+  "timings": {
+    "hf": 19.989066580543295,
+    "coarse8": 0.0,
+    "coarse32": 0.0,
+    "phys8": 0.0,
+    "phys32": 0.0,
+    "input": 0.28658769745379686,
+    "training": 12.013431302271783,
+    "validation": 0.013463749084621668,
+    "checkpoint": 0.0009852917864918709
+  },
+  "max_hf_residual": 9.619238348336706e-09,
+  "max_hf_iterations": 11,
+  "milestones": {
+    "30": {
+      "validation": 0.992123655974865,
+      "selected_steps": 0,
+      "decision_ready": 20.647927792044356,
+      "counts": {
+        "hf": 128,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 19.989066580543295,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 0.0,
+        "training": 0.0,
+        "validation": 0.009095706976950169,
+        "checkpoint": 0.0004924589302390814
+      },
+      "steps_completed": 0
+    },
+    "45": {
+      "validation": 0.4139704033732414,
+      "selected_steps": 1640,
+      "decision_ready": 33.51868045912124,
+      "counts": {
+        "hf": 128,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 19.989066580543295,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 0.28658769745379686,
+        "training": 12.013431302271783,
+        "validation": 0.013463749084621668,
+        "checkpoint": 0.0009852917864918709
+      },
+      "steps_completed": 1640
+    }
+  },
+  "export_seconds": 0.007640917086973786
+}

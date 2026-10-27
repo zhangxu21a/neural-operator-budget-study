@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "arm": "phys8",
+      "lr": 0.008,
+      "original_validation": 0.27540307911112905,
+      "repeat_validation": 0.2857480589300394,
+      "original_steps": 50,
+      "repeat_steps": 49,
+      "original_wall": 49.31087633292191,
+      "repeat_wall": 48.932849917095155,
+      "original_other_candidate_best_validation": 0.2935994411818683,
+      "repeat_remains_below_other_original_candidates": true,
+      "nonfinite": false
+    },
+    {
+      "arm": "coarse32",
+      "lr": 0.002,
+      "original_validation": 0.37048122473061085,
+      "repeat_validation": 0.30411174334585667,
+      "original_steps": 99,
+      "repeat_steps": 97,
+      "original_wall": 49.02460141596384,
+      "repeat_wall": 48.60899625020102,
+      "original_other_candidate_best_validation": 0.4046870246529579,
+      "repeat_remains_below_other_original_candidates": true,
+      "nonfinite": false
+    }
+  ],
+  "selected_unchanged": true,
+  "no_test_evaluation": true,
+  "additional_allocated_seconds": 120,
+  "purpose": "Diagnostic repeat of tuning trials flagged by execution monitoring, not additional model selection",
+  "all_sources_unchanged": true
+}

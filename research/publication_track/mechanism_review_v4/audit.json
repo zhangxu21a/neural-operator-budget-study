@@ -1,0 +1,17 @@
+{
+  "runs": 100,
+  "endpoints": 280,
+  "cohort_endpoints": {
+    "formal_mg_v1": 70,
+    "architecture_horizon_v2": 130,
+    "matched_rate_v3": 80
+  },
+  "all_budgets_and_ledgers_pass": true,
+  "selection_bookkeeping_replayed_for_all_endpoints": true,
+  "all_input_hashes_unchanged": true,
+  "input_files": 305,
+  "no_training_or_new_test_evaluation": true,
+  "posthoc_analysis": true,
+  "exact_per_update_lr_available": false,
+  "exact_sample_exposure_available": false
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "lr": 0.008,
+    "warmup_seconds": 0,
+    "allocated_search_seconds": 1080,
+    "actual_search_seconds": 997.594910125481
+  },
+  "gradient": {
+    "lr": 0.004,
+    "warmup_seconds": 0,
+    "allocated_search_seconds": 1080,
+    "actual_search_seconds": 998.4473754146602
+  },
+  "uniform": {
+    "lr": 0.016,
+    "warmup_seconds": 0,
+    "allocated_search_seconds": 1080,
+    "actual_search_seconds": 998.1112657918129
+  },
+  "field": {
+    "lr": 0.008,
+    "warmup_seconds": 0,
+    "allocated_search_seconds": 1080,
+    "actual_search_seconds": 997.392153874971
+  },
+  "pretrain": {
+    "lr": 0.016,
+    "warmup_seconds": 120,
+    "allocated_search_seconds": 1080,
+    "actual_search_seconds": 997.3879164194223
+  },
+  "hf": {
+    "lr": 0.008,
+    "warmup_seconds": 0,
+    "allocated_search_seconds": 1080,
+    "actual_search_seconds": 997.9462414169684
+  },
+  "phys_only": {
+    "lr": 0.008,
+    "warmup_seconds": 0,
+    "allocated_search_seconds": 1080,
+    "actual_search_seconds": 997.6736959998962
+  },
+  "author_mlmc": {
+    "lr": 0.004,
+    "warmup_seconds": 0,
+    "allocated_search_seconds": 1080,
+    "actual_search_seconds": 997.4427541261539
+  }
+}

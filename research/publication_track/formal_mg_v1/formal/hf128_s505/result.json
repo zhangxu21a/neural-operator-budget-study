@@ -1,0 +1,85 @@
+{
+  "arm": "hf128",
+  "seed": 505,
+  "train_parameter_seed": 71505,
+  "lr": 0.002,
+  "phase": "formal",
+  "pool": 8192,
+  "budget": 180,
+  "wall": 168.58425650000572,
+  "nonfinite_loss": false,
+  "initial_complete": true,
+  "steps": 397,
+  "validation": 0.15402974421158433,
+  "counts": {
+    "hf": 128,
+    "coarse8": 0,
+    "coarse32": 0,
+    "phys8": 0,
+    "phys32": 0
+  },
+  "timings": {
+    "hf": 20.15466745896265,
+    "coarse8": 0.0,
+    "coarse32": 0.0,
+    "phys8": 0.0,
+    "phys32": 0.0,
+    "input": 0.2474154564552009,
+    "training": 144.2470697935205,
+    "validation": 3.8793831658549607,
+    "checkpoint": 0.0032335438299924135
+  },
+  "max_hf_residual": 9.936117615939254e-09,
+  "max_hf_iterations": 11,
+  "milestones": {
+    "120": {
+      "validation": 0.17955809086561203,
+      "selected_steps": 236,
+      "decision_ready": 108.60706070810556,
+      "counts": {
+        "hf": 128,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 20.15466745896265,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 0.23771608294919133,
+        "training": 85.94542367220856,
+        "validation": 2.2253867487888783,
+        "checkpoint": 0.0019842099864035845
+      },
+      "steps_completed": 236
+    },
+    "180": {
+      "validation": 0.15402974421158433,
+      "selected_steps": 397,
+      "decision_ready": 168.58425358310342,
+      "counts": {
+        "hf": 128,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 20.15466745896265,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 0.2474154564552009,
+        "training": 144.2470697935205,
+        "validation": 3.8793831658549607,
+        "checkpoint": 0.0032335438299924135
+      },
+      "steps_completed": 397
+    }
+  },
+  "export_seconds": 0.6680816668085754
+}

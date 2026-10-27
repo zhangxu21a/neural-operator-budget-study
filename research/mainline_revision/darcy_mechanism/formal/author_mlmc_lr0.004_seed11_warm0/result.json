@@ -1,0 +1,77 @@
+{
+  "nonfinite_loss": false,
+  "method": "author_mlmc",
+  "warmup_seconds": 0,
+  "rate_policy": "none",
+  "arch": "fno",
+  "seed": 11,
+  "lr": 0.004,
+  "phase": "formal",
+  "pool": 2048,
+  "allocated_wall": 1200,
+  "wall": 1186.2858424999285,
+  "counts": {
+    "coarse": 2048,
+    "fine": 2048,
+    "physics": 0
+  },
+  "timings": {
+    "coarse": 2.658518121112138,
+    "fine": 49.685797210549936,
+    "physics": 0.0,
+    "teacher": 0.0,
+    "scoring": 0.0,
+    "training": 1104.4893990324344,
+    "validation": 22.911035330966115,
+    "checkpoint": 1.9300092819612473
+  },
+  "steps": 5131,
+  "validation": 0.018085921044985298,
+  "checkpoint_policy": "validation best only, charged inside budget",
+  "milestones": {
+    "300": {
+      "validation": 0.025794535773457028,
+      "selected_state_ready": 285.08929583407007,
+      "selected_steps": 1050,
+      "decision_ready": 286.1643052089494,
+      "counts": {
+        "coarse": 2048,
+        "fine": 1939,
+        "physics": 0
+      },
+      "timings": {
+        "coarse": 2.627470707753673,
+        "fine": 46.96393169253133,
+        "physics": 0.0,
+        "teacher": 0.0,
+        "scoring": 0.0,
+        "training": 225.89767041034065,
+        "validation": 6.562413917155936,
+        "checkpoint": 0.3949723623227328
+      },
+      "steps_completed": 1050
+    },
+    "1200": {
+      "validation": 0.018085921044985298,
+      "selected_state_ready": 1081.1072792089544,
+      "selected_steps": 4659,
+      "decision_ready": 1186.2858361250255,
+      "counts": {
+        "coarse": 2048,
+        "fine": 2048,
+        "physics": 0
+      },
+      "timings": {
+        "coarse": 2.658518121112138,
+        "fine": 49.685797210549936,
+        "physics": 0.0,
+        "teacher": 0.0,
+        "scoring": 0.0,
+        "training": 1104.4893990324344,
+        "validation": 22.911035330966115,
+        "checkpoint": 1.9300092819612473
+      },
+      "steps_completed": 5131
+    }
+  }
+}

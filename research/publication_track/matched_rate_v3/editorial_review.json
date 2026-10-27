@@ -1,0 +1,30 @@
+{
+  "formal_runs": 20,
+  "budget_points": 80,
+  "individual_metric_sets_checked": 160,
+  "frozen_sources_checked": 28,
+  "all_frozen_sources_match": true,
+  "means_sds_paired_differences_interactions_recomputed": true,
+  "all_caps_pass": true,
+  "nonfinite_loss_runs": 0,
+  "flagged_load_runs": 0,
+  "no_runs_removed": true,
+  "reviewed_at": "2026-10-27T14:55:16.672458+09:00",
+  "manuscript_compile": {
+    "kind": "success",
+    "compiler": "Codex desktop built-in LaTeX compiler"
+  },
+  "figure_review": {
+    "file": "matched_rate.png",
+    "passed": true,
+    "observations": "Shared scale, all five trajectories and means visible, labels legible; no clipping."
+  },
+  "editorial_review": [
+    "Both rates and adverse outcomes retained",
+    "ID interaction interval spans zero; no confirmed interaction claim",
+    "No equivalence inference from small mean difference",
+    "No cross-cohort HF128 ranking",
+    "No universal superiority or small-sample significance claim"
+  ],
+  "pre_edit_snapshot": "editorial_archive/main_before_matched_review.tex"
+}

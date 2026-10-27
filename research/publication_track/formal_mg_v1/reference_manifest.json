@@ -1,0 +1,15 @@
+{
+  "wall_seconds": 38.93463345896453,
+  "sha256": "9a2789ab6597446da0e5cf31e18ebd83fdf7c7390d43cb5ddd1bed55105976fa",
+  "seeds": [
+    62001,
+    62002,
+    62003
+  ],
+  "counts": [
+    32,
+    128,
+    64
+  ],
+  "excluded_from_run_budget": true
+}

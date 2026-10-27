@@ -1,0 +1,1762 @@
+{
+  "mainline_revision/darcy_mechanism/bootstrap.py": {
+    "bytes": 121,
+    "sha256": "546b7fc17a1e3bd0e542513df987902e97fd6ac02f0fbc1c9c918ea98c4cce62"
+  },
+  "mainline_revision/darcy_mechanism/runner.py": {
+    "bytes": 8896,
+    "sha256": "96fbcda4da300752cc952ba670cc1a138423d6b67f65217c540375d4a175ece6"
+  },
+  "mainline_revision/darcy_mechanism/evaluate.py": {
+    "bytes": 1079,
+    "sha256": "64da2a50e95b61c7e0caed52721339ceba3a537e72f2c22b5b8ccf560db62983"
+  },
+  "mainline_revision/darcy_mechanism/prepare_reference.py": {
+    "bytes": 899,
+    "sha256": "6690d5029318d581065594ce324507c54a6e1e081fc80302b91f437d24a01ce0"
+  },
+  "mainline_revision/darcy_mechanism/policies.py": {
+    "bytes": 579,
+    "sha256": "8671cc9a1b1995291c842affdd4e81734b295b52eecd90d18aa23807bc35b499"
+  },
+  "mainline_revision/darcy_mechanism/validate.py": {
+    "bytes": 2283,
+    "sha256": "8a417967bf9a73faea58e9a04bb4829658f930c74aa695f6867a128e5185b3f9"
+  },
+  "mainline_revision/darcy_mechanism/pipeline.py": {
+    "bytes": 4580,
+    "sha256": "b0b4532889763de2d323ecb3285964ad2317399f1dd8f311f255b0506cee0df8"
+  },
+  "mainline_revision/darcy_mechanism/validation.log": {
+    "bytes": 1565,
+    "sha256": "6ea01712c21c49d82a80f6189b5b991f936ff7f4dd599cca7756ca2c3deb178b"
+  },
+  "mainline_revision/darcy_mechanism/validation.json": {
+    "bytes": 832,
+    "sha256": "d91724fcf8c4ae8fd1005bdf36ab0d0b7453f1b8b9f5c788d55dacb0af5ed752"
+  },
+  "mainline_revision/darcy_mechanism/summarize.py": {
+    "bytes": 5135,
+    "sha256": "c48fe2b00ac4143ffb18d5da1ad12049d84a29f3a3e1c883d2ed8ff46c0661b0"
+  },
+  "mainline_revision/darcy_mechanism/status_brief.py": {
+    "bytes": 437,
+    "sha256": "421fca4bd7cf030e3c31830368391592a109b3e0cb3695f1d591dd1dd453463d"
+  },
+  "mainline_revision/darcy_mechanism/validation_final.log": {
+    "bytes": 1565,
+    "sha256": "93f5a98991a7460f0d4d8f0da8d5d3d145e1437e48b6fb402e5f9040ad1f26f1"
+  },
+  "mainline_revision/darcy_mechanism/README.md": {
+    "bytes": 2534,
+    "sha256": "8a3aae580cc8e362dd498c9dcfa077e2469ef8c5994e03872818c21ccb404d94"
+  },
+  "mainline_revision/darcy_mechanism/post_validation.py": {
+    "bytes": 2208,
+    "sha256": "db748547813c8b9929e2b5ce4725c01299e9920d2f123257abe64222aced14cf"
+  },
+  "mainline_revision/darcy_mechanism/plot_results.py": {
+    "bytes": 1577,
+    "sha256": "d13b96c9d3a9e2e4d53217fdccad3b4f35f265d78574389711d73b579ab41043"
+  },
+  "mainline_revision/darcy_mechanism/pipeline.log": {
+    "bytes": 22610,
+    "sha256": "9417d429f599a4835fcd6e654ddd34d323beb68a440faadd654f4bc1cda70152"
+  },
+  "mainline_revision/darcy_mechanism/protocol.json": {
+    "bytes": 5286,
+    "sha256": "7a16f98242265cabf48d8f4733ec9d06add182fd2bf2abd3f817d90073467d27"
+  },
+  "mainline_revision/darcy_mechanism/fresh_reference.npz": {
+    "bytes": 22164822,
+    "sha256": "21a1b7ccbb5990579d30e5309f74e056a4999caa019ac5d6c1516d1b5ec86901"
+  },
+  "mainline_revision/darcy_mechanism/status.json": {
+    "bytes": 9658,
+    "sha256": "a8ab580023ad5b7628d5700702b5d49a9e8ca18897760d31c05b2932659806b8"
+  },
+  "mainline_revision/darcy_mechanism/reference_manifest.json": {
+    "bytes": 281,
+    "sha256": "cf1c2ba7d020ffc7f8de90c6e2886a433a4a1fbe6bf68993ca59611681a2d70a"
+  },
+  "mainline_revision/darcy_mechanism/WORK_STATE.json": {
+    "bytes": 1892,
+    "sha256": "1e1ee6b21105637d54ee21278b44292688a43d6a0a4938e7794c7cc27339c52c"
+  },
+  "mainline_revision/darcy_mechanism/selected.json": {
+    "bytes": 1176,
+    "sha256": "c669ae4c8ce058b87254de37e54c0a2591e0225b5092aef62bcefca82bd21266"
+  },
+  "mainline_revision/darcy_mechanism/formal_manifest.json": {
+    "bytes": 1977,
+    "sha256": "04b1125a1d3fd5031f80ac4e3678174d723a29c32ddbcf7b5dd4b94bf690251f"
+  },
+  "mainline_revision/darcy_mechanism/decision_analysis.py": {
+    "bytes": 3027,
+    "sha256": "26e8ac78371a5c5243ca9906d6540fafa7496022bb146ce38328a88b47c00ab2"
+  },
+  "mainline_revision/darcy_mechanism/finalize_decision.py": {
+    "bytes": 6428,
+    "sha256": "ee41c6c14db596d7139fbd673b378bfd62d0dfe49ee87e8f636c7dff78f8e31e"
+  },
+  "mainline_revision/darcy_mechanism/results_summary.json": {
+    "bytes": 10496,
+    "sha256": "c6b30e90e421723ee383f4b9251764b8524c3231a635323fee5f463edbb86344"
+  },
+  "mainline_revision/darcy_mechanism/audit.json": {
+    "bytes": 890,
+    "sha256": "fef6eb57efa91092e48a8cad7d3c5c51381ae1416b9e4d75cfc7e355fe4fd524"
+  },
+  "mainline_revision/darcy_mechanism/all_runs.csv": {
+    "bytes": 6450,
+    "sha256": "c2a8e4ccd3f211ea8d4966a666c2bc5dd0212c5da8bcd2610dca8f61f47a6600"
+  },
+  "mainline_revision/darcy_mechanism/results_report.md": {
+    "bytes": 4138,
+    "sha256": "8835a6b8a2661f8ca519df8c694de1d8ce98ebd1fb61bf372f43d43b13e09f98"
+  },
+  "mainline_revision/darcy_mechanism/post_validation.json": {
+    "bytes": 831,
+    "sha256": "3b1202d2ca7f24c937ba033c3313eccee79c624a249cec2f290c9ae4f5c15489"
+  },
+  "mainline_revision/darcy_mechanism/results.png": {
+    "bytes": 179539,
+    "sha256": "5e08678f1dab7d8b3c940e2f4688ab14d4ff5f353135b4fb625a65d951d57609"
+  },
+  "mainline_revision/darcy_mechanism/results.pdf": {
+    "bytes": 24926,
+    "sha256": "9c4f3454e2b43314373def69ca4939bb8109224c685084fd8db51e325ba4c63a"
+  },
+  "mainline_revision/darcy_mechanism/decision_analysis.json": {
+    "bytes": 9294,
+    "sha256": "97084487b69a6c56972093bf91768abae8ae0a9de0fcd070a25466c1f37d55d0"
+  },
+  "mainline_revision/darcy_mechanism/interpretation.md": {
+    "bytes": 5869,
+    "sha256": "95a2c8023fcaf13541b3140d3a224865056bc007dd16783846c8825ad8299e8a"
+  },
+  "mainline_revision/darcy_mechanism/smoke/data/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "c56316502f7efe05bf51c6efe9d5a1abd635d332d233f69cb01bcdf9b4dca4b8"
+  },
+  "mainline_revision/darcy_mechanism/smoke/data/result.json": {
+    "bytes": 1370,
+    "sha256": "d81aaabf607b99f2195cd816b8c291f7bdf13316ef047173c65e7ae79c18d330"
+  },
+  "mainline_revision/darcy_mechanism/smoke/data/learning_curve.json": {
+    "bytes": 454,
+    "sha256": "6a9667895794b1bfe23faf09912d5e4c604219c4a52d4df69b218763406eb4e6"
+  },
+  "mainline_revision/darcy_mechanism/smoke/data/acquisitions.npy": {
+    "bytes": 6512,
+    "sha256": "3fff6745790bf076fb88fb8f5109afb7c9390066e26f3899bb5d1477ad1bf46b"
+  },
+  "mainline_revision/darcy_mechanism/smoke/gradient/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "0bbae8326f1bd111b58c79dd6c71d8d32832a2294afaaead5d1108427f9792f9"
+  },
+  "mainline_revision/darcy_mechanism/smoke/gradient/result.json": {
+    "bytes": 1379,
+    "sha256": "89ef8a8e15bf76366940e4aa2c84e2f1d7b91abfed59b64077918919681b6a58"
+  },
+  "mainline_revision/darcy_mechanism/smoke/gradient/learning_curve.json": {
+    "bytes": 453,
+    "sha256": "28e532d4017e923479ffa4075a65ded5d5e622ed5dba6e87f5d5f39fe7b66b3f"
+  },
+  "mainline_revision/darcy_mechanism/smoke/gradient/acquisitions.npy": {
+    "bytes": 4944,
+    "sha256": "e607db3776a39d80085177a2595b9894694af4b15401a6dbfc008e1ea2522304"
+  },
+  "mainline_revision/darcy_mechanism/smoke/uniform/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "7a169c6e50d1ac3c583fec0ce10fe27f5a961e36a7b3740151c04dfdfa798e07"
+  },
+  "mainline_revision/darcy_mechanism/smoke/uniform/result.json": {
+    "bytes": 1375,
+    "sha256": "6f9c82ac99d6b47daff0130ba10db80e18caecdfe0489b43b27af228bc44d24c"
+  },
+  "mainline_revision/darcy_mechanism/smoke/uniform/learning_curve.json": {
+    "bytes": 455,
+    "sha256": "5e24f5c27eeb38fa9f676ed92c51add85f8e8b181bc0c7bd48afeca7964cd4fd"
+  },
+  "mainline_revision/darcy_mechanism/smoke/uniform/acquisitions.npy": {
+    "bytes": 4944,
+    "sha256": "7ac0c2fa19d153ad756cb1e1cf7bada7e4fd5458c54e70975e65a3b539e6f5d1"
+  },
+  "mainline_revision/darcy_mechanism/smoke/field/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "01c36b1584c3ba5a92912cf645c7458773398a0e7110dd3d201cd0aa89a2c6c9"
+  },
+  "mainline_revision/darcy_mechanism/smoke/field/result.json": {
+    "bytes": 1377,
+    "sha256": "3cf406e306f54c1a3d92d8592d1a83f07447fa2ebee5495fc61f6d89cd83cc26"
+  },
+  "mainline_revision/darcy_mechanism/smoke/field/learning_curve.json": {
+    "bytes": 454,
+    "sha256": "863111881248cb1abc2f0c4e9edf8cee91e66aabfb3c70a2476ff873356006af"
+  },
+  "mainline_revision/darcy_mechanism/smoke/field/acquisitions.npy": {
+    "bytes": 4832,
+    "sha256": "c1d7544b820c7682480a78817bd6ffcf839184ba545622d53e7bccdf345f17c7"
+  },
+  "mainline_revision/darcy_mechanism/smoke/pretrain/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "214773ddc9899a895c1ef63250d008388e0d0e105df07a1167f6ec675d8ee23e"
+  },
+  "mainline_revision/darcy_mechanism/smoke/pretrain/result.json": {
+    "bytes": 1306,
+    "sha256": "681c65b1507b7a74e04c8dbc82bf53b959fe3f9ddce93c34317f4249e8dec311"
+  },
+  "mainline_revision/darcy_mechanism/smoke/pretrain/learning_curve.json": {
+    "bytes": 455,
+    "sha256": "495f25c4fb0b1653076e6c81448bcd930fd719869ddc168859a04ca2fead5fb0"
+  },
+  "mainline_revision/darcy_mechanism/smoke/pretrain/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/smoke/hf/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "f83b4e5f6b5909eaa391df68c77da9739065bdb7d963bcdebcc02fd2ce4a5e7c"
+  },
+  "mainline_revision/darcy_mechanism/smoke/hf/result.json": {
+    "bytes": 1302,
+    "sha256": "dc74ee6df0195c58838bb6f639f5a056eade3ff2fad6929752e665ad779c6157"
+  },
+  "mainline_revision/darcy_mechanism/smoke/hf/learning_curve.json": {
+    "bytes": 453,
+    "sha256": "b22de6e51341a995c837549b7707be556b2031d6a81d7b117a8608fc3189cb8b"
+  },
+  "mainline_revision/darcy_mechanism/smoke/hf/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/smoke/phys_only/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "94c92e55f4de12d65ce23794b7903f2c3104681ef8dbffbb29807d6d70d15e50"
+  },
+  "mainline_revision/darcy_mechanism/smoke/phys_only/result.json": {
+    "bytes": 1338,
+    "sha256": "345b19704892b741a32020f8f363c68571d49dca393cca28f4ad08343b322110"
+  },
+  "mainline_revision/darcy_mechanism/smoke/phys_only/learning_curve.json": {
+    "bytes": 455,
+    "sha256": "3e35999e8dc28423d59b8b9dde860be59cb79afc4bad7afc4396e3a59f7161f5"
+  },
+  "mainline_revision/darcy_mechanism/smoke/phys_only/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/smoke/author_mlmc/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "ea2c9c2188e82ac999a65bd7b3d5dbed095e935e66c55da9928af318c57a836a"
+  },
+  "mainline_revision/darcy_mechanism/smoke/author_mlmc/result.json": {
+    "bytes": 1304,
+    "sha256": "abe5fdbc4acc0748f6b10dacec13a3cacc0dcf23a10e0d5beea127d084e840d8"
+  },
+  "mainline_revision/darcy_mechanism/smoke/author_mlmc/learning_curve.json": {
+    "bytes": 453,
+    "sha256": "ea63ff31951955f93c25f3366a73d2f16511e164ba3cd8a0b97a46e0cb056899"
+  },
+  "mainline_revision/darcy_mechanism/smoke/author_mlmc/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/data/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "f25232bbb303b07c12f5c14b52bf6a2a32bd943f56f9f52a987eb5ad89d7cd25"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/data/result.json": {
+    "bytes": 1342,
+    "sha256": "1e79934dd72199077507a2e99518c618b53f78a1db170cece06d51e2547694a1"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/data/learning_curve.json": {
+    "bytes": 305,
+    "sha256": "965a9d18de4da1faaee57f75e7b019b1e2250bb8d7acf8c9d39f5182b10095cb"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/data/acquisitions.npy": {
+    "bytes": 7072,
+    "sha256": "6f5779bd17cee8457ee799814b9ec29ac0f40819c24612e9cef7f2f85088e804"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/gradient/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "ac68bf8ca662b91f7fd2ca280b553026920d4d9717acfff1a8b6fa5a373ac6d4"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/gradient/result.json": {
+    "bytes": 1350,
+    "sha256": "4f782e3f62a4c0adbb742fb62be65ff93ed852b4aeead631dbdb67238c16eeab"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/gradient/learning_curve.json": {
+    "bytes": 304,
+    "sha256": "508493d7910935a3de5ae77332b366cfc757e0075cf5125dcf1624b0642eb63b"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/gradient/acquisitions.npy": {
+    "bytes": 5112,
+    "sha256": "d955888f98f73fa8548400f4862eb5dafb7f1d62f71bc0657dceda2231b31d86"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/uniform/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "478f20f78d07781b1806e1d65523380cb3dbd8afe4f3a00f11cfeea0117177b3"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/uniform/result.json": {
+    "bytes": 1354,
+    "sha256": "94e9c2c00db67372e0a238333d3badda3d37220e53e1248242f011ba56f00883"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/uniform/learning_curve.json": {
+    "bytes": 305,
+    "sha256": "4d14875d183bc77b6fbe03f788261ecf72da8a6f8543d19bae1f58896c3bcebc"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/uniform/acquisitions.npy": {
+    "bytes": 5112,
+    "sha256": "b8102768ce6678cb83962ce477a0d8c4f0b1c8a38e02ec38a7e1b07de3806d9f"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/field/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "13a0f146ac35d11b4d3342ff8f1a65ddecc2314244d40c1a4f0f65515692b2e6"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/field/result.json": {
+    "bytes": 1353,
+    "sha256": "1a2c05b9f27addaea47924b2d293082e73eddb267a6f3f6f492af3cef6699b70"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/field/learning_curve.json": {
+    "bytes": 305,
+    "sha256": "11390dd221c16d980b3a7621e935435a062899ddfc45ed27271bba4627c1d0b8"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/field/acquisitions.npy": {
+    "bytes": 5168,
+    "sha256": "7eb6dc001d8c2bc432f9ce0905bd0eb1ba3a3948f6374786ea481feb43954128"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/pretrain/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "32c98208af32835150869ced659e799375310c04c619cc11b7420eb34693800d"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/pretrain/result.json": {
+    "bytes": 1280,
+    "sha256": "942b88a6aff66cc567fc5cd31412eeb343e307c1bd0fd12e93cf260d65c36878"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/pretrain/learning_curve.json": {
+    "bytes": 303,
+    "sha256": "2ecdaf281addfe045b996e219d6aa47ec636243731ced7a77f81cab0e23e60a2"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/pretrain/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/hf/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "865a8deb8f36276b558b606721c054516a18aa467df6ca1ce497d9be8754c89f"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/hf/result.json": {
+    "bytes": 1276,
+    "sha256": "ce8e0c1e7b73543498096aedd030426f81f70eb8fdec4e5f4920bfb393ef2f9a"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/hf/learning_curve.json": {
+    "bytes": 303,
+    "sha256": "1318739e3f9a7d39f774c39578a770643642a6dd6efd3cbb8d9bb2007aa75b9a"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/hf/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/phys_only/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "5b8041437b59d54360da68d71e6598e91e7bb2b05704431c5465237a5029edb2"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/phys_only/result.json": {
+    "bytes": 1313,
+    "sha256": "23e961f8178e72ec4c25f7cabb2ee4fac93a2d532b2abcd3fdd0cee8fea1ee7c"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/phys_only/learning_curve.json": {
+    "bytes": 304,
+    "sha256": "c127b83260de8e8e34f6c6ba57eafc6750ba7f654f8ac5a79a6488f415277511"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/phys_only/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/author_mlmc/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "8fffd41b45f613c06dd3da56bc7071e94d6eb6c317e44afb40c913234b2f9fbe"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/author_mlmc/result.json": {
+    "bytes": 1279,
+    "sha256": "033f45139fe082bad25d4e35a35254d82ac70d47c04a5d3b5b7f216dda03c1dc"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/author_mlmc/learning_curve.json": {
+    "bytes": 306,
+    "sha256": "58ec40cd8b3aca6e9e6fcde99c3ebc8cf6c494c53e496fc89f36b8fc40505392"
+  },
+  "mainline_revision/darcy_mechanism/smoke_initial/author_mlmc/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.016_warm30/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "4e837b6e6445f721b127d910fcf65913281fbd93ca5ea678068f99390ada972b"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.016_warm30/result.json": {
+    "bytes": 1317,
+    "sha256": "204171cadda78c1ba8ef20287dc403322d0d879385c0d27f8160ea9afe1c4dc4"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.016_warm30/learning_curve.json": {
+    "bytes": 913,
+    "sha256": "c773a2c9ceefa5ed7b4210a4c6f7d2477c5beaa4c04bc15b1bdea41cc6e83676"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.016_warm30/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.064_warm0/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "6d79782e4c9282d302f222da2648999807ad23da5cba87b254ec9b178c52899a"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.064_warm0/result.json": {
+    "bytes": 1309,
+    "sha256": "ae7a6ecff4c23252b3028e313fcb41fecfb96d7d2a8894b106a8be4eb4e80c3e"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.064_warm0/learning_curve.json": {
+    "bytes": 913,
+    "sha256": "a447313b2d48942e4f379a243fabe5e2dfba1b445bf119215d3d094503efa4df"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.064_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.016_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "ebdf2c138811e90725e98f3b362c5648b12ae814902c99521dcf43001b97e32d"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.016_warm0/result.json": {
+    "bytes": 1382,
+    "sha256": "1f9adbdfac9df7f1b4ef17c3925e11fbc37012a4afb1c4daa3e6d7ea1c47318c"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.016_warm0/learning_curve.json": {
+    "bytes": 914,
+    "sha256": "471c35be1d4e48423c9c6b325052f9ed11ee19465b66abed5e2879e45c1c4b63"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.016_warm0/acquisitions.npy": {
+    "bytes": 136936,
+    "sha256": "253e2e775a0693c67f7c01c34b6f8668c74d36af188bd83c1e31527c3d2e4cfe"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.064_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "7c975cc57afb419c4f1c66ce70263211b238c63375926f4b0b6832329da21072"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.064_warm0/result.json": {
+    "bytes": 1319,
+    "sha256": "30812cab192984356b21afabce06a6968ba8bb623cad62837046237bb8bacc68"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.064_warm0/learning_curve.json": {
+    "bytes": 913,
+    "sha256": "ba571d7b010cc34c015a21c94f3e43717c093b173e2bf3c7d204b13c191a4976"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.064_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.008_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "fcfc6ccc307ee9641c61fb73f9b0e291110b5b5e2ff680e14fad28f891a975cc"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.008_warm0/result.json": {
+    "bytes": 1350,
+    "sha256": "1ece2656745a238d3ff101e7a7a857dc0a2c26c8946757afb8e965e3a4a0a551"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.008_warm0/learning_curve.json": {
+    "bytes": 905,
+    "sha256": "8dbf3420147d2015050822a5f0b162b341092b7b86fb8557f85494625a02c629"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.008_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.032_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "601471dce5a0f55133261fda8d8b36bf19fc066bc1f01a576b31f320f617b0a8"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.032_warm0/result.json": {
+    "bytes": 1378,
+    "sha256": "91ed9447779e2953ffab347233b4689cdb6d626b67abe78251927a08e70e6241"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.032_warm0/learning_curve.json": {
+    "bytes": 914,
+    "sha256": "26d181106705f6f1b123a58d19aaab859353562c817ab683748e5a9561994eab"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.032_warm0/acquisitions.npy": {
+    "bytes": 128256,
+    "sha256": "9a2819cd80cfb9b1b2f3cc85724449b867ceac953df09a872976f357ca4153ea"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.002_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "f8a581f364f09479215cd6e54eb9bd08b691e865da31f65ca0c93b8b93f9980d"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.002_warm0/result.json": {
+    "bytes": 1380,
+    "sha256": "e44e3756f3f30bf3e0085c3f3956f212f5c4afbe674bd5984b960e424be07ac8"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.002_warm0/learning_curve.json": {
+    "bytes": 916,
+    "sha256": "b0a6db810e3b1d7e80691ef46161f38fb4e67946b58fda4afc9f98772be9c667"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.002_warm0/acquisitions.npy": {
+    "bytes": 137664,
+    "sha256": "5b0d842101d7d7dfca3639a5063d25ba9949f15be1c3a2b7689efc0647cb9a59"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.064_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "7b4b987d0d70706b562954a55e07572c021b4c43aba72c8c2b8d2a2db598593a"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.064_warm0/result.json": {
+    "bytes": 1382,
+    "sha256": "11b5a6747a0d2f951e352f7af8867759df6b0d58028fc2abdab0fe50e3321f37"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.064_warm0/learning_curve.json": {
+    "bytes": 913,
+    "sha256": "fc2e44fe3eb7b587d8de14eca9b97d44b6ae5e8056c9cb99b8db1be037c597da"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.064_warm0/acquisitions.npy": {
+    "bytes": 137160,
+    "sha256": "57c5ab0fa848843ccddbd241d7e8ee5585363bdee77eb7a8d12041b57cd0018d"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.064_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "d178c306befc9ebfce471c611b685aa2ecddbf08ad1ab5d8fdc173141a8f3edf"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.064_warm0/result.json": {
+    "bytes": 1340,
+    "sha256": "82db07e72302713c978a171343a85d1433f46710455c2aea4408009868db7587"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.064_warm0/learning_curve.json": {
+    "bytes": 905,
+    "sha256": "2d4ad245ceaff0c5caae994b14316e036ebbbce01509af7a377519b3755f30e3"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.064_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.004_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "20fa94ab94de16d8202d1fc62e7e3af2eb69522485f5c8105b2ad5b57e0b1927"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.004_warm0/result.json": {
+    "bytes": 1318,
+    "sha256": "bd7772d646a6f6f498617945d9d74c25cbdf543d7d9dab27d8db9bbd5db1b38f"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.004_warm0/learning_curve.json": {
+    "bytes": 922,
+    "sha256": "ec9f254912e84456649c7a8190d5c0be4de764004b4b85fa30663bd5703af293"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.004_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.008_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "b79c09f45069ebf74c4ffa42c82c12c68afc33e8b1057c7433d093ee6550c3f4"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.008_warm0/result.json": {
+    "bytes": 1386,
+    "sha256": "28e84217db031d96ad82c995aae6700839d81dd8107cd4eb691ea6a44ab7870d"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.008_warm0/learning_curve.json": {
+    "bytes": 915,
+    "sha256": "78d3dbcdd2cebc4f2416d04036b0f329dde0d23ff0a6cd880f988fff40e7e0e4"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.008_warm0/acquisitions.npy": {
+    "bytes": 137664,
+    "sha256": "690ad380e56bcc703ad7c4764176f3b00e5e974703aa4726ea4862f0601bbf8b"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.004_warm120/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "a8d43ade38fc571bda8c71448fdc14f647dc2b0db01bad3caea04efc72a139cd"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.004_warm120/result.json": {
+    "bytes": 1317,
+    "sha256": "0cb6ede967e5c9e81a8ede1c9c3e6aea8aa04cd3db4d0cfa95440398fc127ad1"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.004_warm120/learning_curve.json": {
+    "bytes": 913,
+    "sha256": "0df6d9bcdafa91b7fddad7c3b2c596ba1c641e6e00f9d149fcc9b07dc8aa5428"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.004_warm120/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.004_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "1f7203d0cb26c2f5effcc0ad4d080ebd8f2e6647a5b20988336b2a534fd14880"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.004_warm0/result.json": {
+    "bytes": 1355,
+    "sha256": "6e17a032a2550d334a9d9f0a6c7c185c3fdb1f82e7f0aa1961c961effb94f365"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.004_warm0/learning_curve.json": {
+    "bytes": 913,
+    "sha256": "7b337c82e77ac1471a68bae449e2d3eb3503674555ffcc089b2da4689e257206"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.004_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.016_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "10a9a77520b13fb6e7c1bf49198255914298f2054860885f822cbc43c1fb9b5d"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.016_warm0/result.json": {
+    "bytes": 1390,
+    "sha256": "e3c12754ff0abe38ce40f1c18e9d05a60e3d99577049ffbc24432da94d9fa7f7"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.016_warm0/learning_curve.json": {
+    "bytes": 914,
+    "sha256": "a80cc1b964297a1012097c019289600df46c76e55bf26b677af766ed996fe314"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.016_warm0/acquisitions.npy": {
+    "bytes": 138056,
+    "sha256": "d201a184537a514534bf0fb2cf7adde4d87a33363b4eafcd3bfa0b49af67da97"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.032_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "1f9f675e2797eb1156af96b21b0223f04839944f840d811b05acb3d218e7f10b"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.032_warm0/result.json": {
+    "bytes": 1384,
+    "sha256": "9c1768593203ae5cd5bcb0ef5ab87afba3e0f4ae6b30e5fe922e04b4c8cad0bf"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.032_warm0/learning_curve.json": {
+    "bytes": 914,
+    "sha256": "3f9b02246b57bf8de3ed2ff72e1c59788e96e4add09c9e02d295df9acf338416"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.032_warm0/acquisitions.npy": {
+    "bytes": 136656,
+    "sha256": "e3685f8408cdbf1fa9492f642ee8f363ab188f4d65f904d05303f5e99871e179"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.016_warm120/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "24bf93247fea16157097681af8cb5a273eaa97d1c0eb2696dddd6533dd965c99"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.016_warm120/result.json": {
+    "bytes": 1317,
+    "sha256": "1a036fef28dedcaa6b8ad41ab8fd0c3d1162711c31969a547b715b170147d63b"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.016_warm120/learning_curve.json": {
+    "bytes": 912,
+    "sha256": "495f51d0e18eb78051dfdc616500c944266be5cbbbcf50bfa25c7bbf0eed0d82"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.016_warm120/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.004_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "62bff153a832eb8d9e8f02a7c163df909566f25c41668f64fba4af1feccb10dd"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.004_warm0/result.json": {
+    "bytes": 1376,
+    "sha256": "6d7e71664e77604a0a3fb72c0f1ac7930186ee07018ba167e1d1df21129f7699"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.004_warm0/learning_curve.json": {
+    "bytes": 914,
+    "sha256": "3ac4eb97b287a611677b3e75a1e5cd1eebc70fa4dcbd731da9f7da4921452a96"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.004_warm0/acquisitions.npy": {
+    "bytes": 135424,
+    "sha256": "26dc202db6cc7d2f25d4e94d301837567e7365c2e6c2a2daa1e122f0f0f301cc"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.004_warm0/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "8ea05708e59254741cc0d1eeac89a4c4811ac836e7ab913bcd8047dc7c9dc820"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.004_warm0/result.json": {
+    "bytes": 1315,
+    "sha256": "426cfcf120124919c4d3021bd8612d087218879d188b37b41a7b0a91c893174f"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.004_warm0/learning_curve.json": {
+    "bytes": 921,
+    "sha256": "a8ef5147e6b0929751ad360ee91ae67bcd0f8351f10b6f0264a12b45cabd2f75"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.004_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.004_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "00e785b5d9c899a60fdbdad4773db0f3b38cc47228b623c6d25efc703cb132a4"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.004_warm0/result.json": {
+    "bytes": 1380,
+    "sha256": "faddeefc1434622d882721e3d72555ac6f7422efb834cdd1f6350b8e9f597bb2"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.004_warm0/learning_curve.json": {
+    "bytes": 915,
+    "sha256": "2873475bbf5f11f39c33d06f7f14ae225bf19dc7802dd98f98a852611d5236b9"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.004_warm0/acquisitions.npy": {
+    "bytes": 136656,
+    "sha256": "b27d6b11c8035d47159b11d7c698bbb8aae68ec80dc1ae9456a595acdfa543fb"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.004_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "4b98438eec5e65c065a2df25ddbe44e0281facbbdbae3adb636553f92b81897a"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.004_warm0/result.json": {
+    "bytes": 1382,
+    "sha256": "bc0d07d470c14e9be3f8f192e4775fe649cbc4b5ac622dc3779808182d767608"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.004_warm0/learning_curve.json": {
+    "bytes": 910,
+    "sha256": "bf33cb5fe4bed275d2657a23ba8bb02ef9a5566b0a9b6853871ae6f29cd37e21"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.004_warm0/acquisitions.npy": {
+    "bytes": 138056,
+    "sha256": "49c7c4fdd797e014253c9de02a9b04caa6973223e2b0744d15ca43ae5e4e3f82"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.008_warm0/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "e466a04a207ab692d82e198fb830a88e57d2bdc2dfa3410e22a7f79860794687"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.008_warm0/result.json": {
+    "bytes": 1313,
+    "sha256": "106fd5b8cfe4f192556c107a3da1f85f004ecc03ae8783abe43d5cc6a2e042cb"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.008_warm0/learning_curve.json": {
+    "bytes": 920,
+    "sha256": "fbfd7875efbb10f77f79fbb12fd8133f147694a90cfecae788d9e50d120ae20e"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.008_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.002_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "49725534dc720eebeca0ca63fbd86f9c1cb78f8c264b289d3d831c29d988f161"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.002_warm0/result.json": {
+    "bytes": 1382,
+    "sha256": "a0e53546ca6556627f226de46ef5679388e90492af233c4935debf963a7d1966"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.002_warm0/learning_curve.json": {
+    "bytes": 914,
+    "sha256": "04aaede06749cb0c07c4dbb37dec84016f9019163e1d8c4c9b483a4d9051e4fa"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.002_warm0/acquisitions.npy": {
+    "bytes": 138392,
+    "sha256": "324ddfd22f2712a5273a0707f2c2e2d4b06767b7b028b77ec845fbabf97df5da"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.016_warm0/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "2b45df0b7c8281e02093c53f66a70f5a1de72c719b476e2359243e41b70d0d51"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.016_warm0/result.json": {
+    "bytes": 1309,
+    "sha256": "5900f41eb599a4a00d312cb19ac5bc913b0779b50ccbdb8864e4917070a7b2ce"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.016_warm0/learning_curve.json": {
+    "bytes": 917,
+    "sha256": "d762e08abe1e28dfb0d646c766a07757b99e3fada87e1892cd1baf521ae80e55"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.016_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.002_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "03d1f9c4eac90076cc4f47c3781e1d852169da41a7ec554063c422fbd935c0d6"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.002_warm0/result.json": {
+    "bytes": 1346,
+    "sha256": "0713e7d5a4869ce4be1c2dfa0b7a0eddfdd2a4d1ff7b78a3f884a5fe2ee7fa7b"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.002_warm0/learning_curve.json": {
+    "bytes": 907,
+    "sha256": "39311369a31b0afa1f7e48adc6ec5a8dd3b3f51d8927b5199e5e53ce3af00783"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.002_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.064_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "a873aea6d524ee074c35e1182146d4acbfaa94798903217e6687940113874086"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.064_warm0/result.json": {
+    "bytes": 1374,
+    "sha256": "f65c832dccb9a2fa03bc0123dc9753d1c8232495ffc983dd8bb6e6c7aad5ff8a"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.064_warm0/learning_curve.json": {
+    "bytes": 909,
+    "sha256": "fec02756016d42942c735d6f373bd6f3bb666b6519b147ea078ab4ed8bd3969d"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.064_warm0/acquisitions.npy": {
+    "bytes": 140296,
+    "sha256": "7ff905a7aaf77ff2e7a36b8787f0bd238f8e5dba095a979c87e13393a0415f2f"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.002_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "73a8878ddeb3ada4fc325333dc93de108186f4faf9d13d1956e55676f8e4cf2b"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.002_warm0/result.json": {
+    "bytes": 1382,
+    "sha256": "545b0bdcc325d95134eb3378491f0abd05b9875d2e8d88809fea6dd85e0c0466"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.002_warm0/learning_curve.json": {
+    "bytes": 915,
+    "sha256": "27146ae6b7a8970b05c276430d0a7963629531cd6f337eed69317514b8ca9d4d"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.002_warm0/acquisitions.npy": {
+    "bytes": 143376,
+    "sha256": "ec2cdcc9ebf7384164130dbdebd9161638b90e920cc0c43e2a917f0a4eef42fb"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.004_warm30/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "0a115fb7261c35b4e6ec64d6badbdc3c66d8ec11632156885e24a35e774c11ad"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.004_warm30/result.json": {
+    "bytes": 1315,
+    "sha256": "d7b7290d07862e5f26fa783c3666767ac88208c9b41e0bf4e5580ea2a5959c52"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.004_warm30/learning_curve.json": {
+    "bytes": 918,
+    "sha256": "777b6b43245547950033d40d08e1a7ab28005bdf19aef5e641f46cd7dd927752"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.004_warm30/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.008_warm30/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "0c28fe0d3bb611e2119e986f97055a97211063f54d092aeb763f95c6b5308038"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.008_warm30/result.json": {
+    "bytes": 1316,
+    "sha256": "4fd36b8e2616f9c1f8fdba86f39fff4036e0ef3e9a7e8cb261e0fd24dd9e4ca3"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.008_warm30/learning_curve.json": {
+    "bytes": 917,
+    "sha256": "09746022492048b9a83f1e1fcdd8bf2d4b60bf478bb548ce100cf55efcb233f0"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.008_warm30/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.008_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "df1b7e41912b46420655010f71f918a626a792a83fd72a9bee34f4fb77a10545"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.008_warm0/result.json": {
+    "bytes": 1369,
+    "sha256": "50a37740e482363546685c7478eef3172c0841116709d028e04e9319ae6c6535"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.008_warm0/learning_curve.json": {
+    "bytes": 912,
+    "sha256": "0b6775db0bcaf70c79ec477cf38f8832e57a4225f60eaa76367666afc3026330"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.008_warm0/acquisitions.npy": {
+    "bytes": 134864,
+    "sha256": "281a61256ea692126f1ad125fe1b96111e0abf4bc8ddc35494d0f728a0b3a718"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.016_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "704ba472157a7a5faaf06fced219421c47277f687164e286ce46343c7a788c05"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.016_warm0/result.json": {
+    "bytes": 1374,
+    "sha256": "6eccddee169913fd09d71a4ce0ba2fc3c249b45212d94ed63bd696629f2d0c18"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.016_warm0/learning_curve.json": {
+    "bytes": 915,
+    "sha256": "246210ce2176f73e2b2fffed2bcead667488d6b60be676084fcc46e76bbe6686"
+  },
+  "mainline_revision/darcy_mechanism/tuning/data_lr0.016_warm0/acquisitions.npy": {
+    "bytes": 113304,
+    "sha256": "882a317e664558b4775cbbd25f219a265d4aa8a909f40f14882041ab5578500a"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.008_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "fd51864d93deefab05e7d89a311bf4cd70bee01a8e9bb9e8f4c33e7e640dab51"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.008_warm0/result.json": {
+    "bytes": 1383,
+    "sha256": "74af73ab81cfee1e512508086fcf6f354be4eb5abba834f733c991a14cc208b2"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.008_warm0/learning_curve.json": {
+    "bytes": 914,
+    "sha256": "b237358901e704238b49ad7efe7e85c686949bcf093b631d17c7bfd14bdf36d1"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.008_warm0/acquisitions.npy": {
+    "bytes": 137160,
+    "sha256": "a5bde2f13926f2e8c6dc0cc5e42cbd0c59337659da16593493be6cf4e8a25e09"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.002_warm0/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "9f99031372e4625bee8858a8f249f405774d50e1988fe749312c33d93df1a019"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.002_warm0/result.json": {
+    "bytes": 1308,
+    "sha256": "7f46f1596eb30b7aa200b0aa81f13672dcc0a2d1c9bf8a5b0e1fcd37ba34bbcb"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.002_warm0/learning_curve.json": {
+    "bytes": 914,
+    "sha256": "13ddad31048afd9559eb1a6f89ab6b7f2d879ece20665f947866ad98bf08af0b"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.002_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.002_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "15bd110840c207fa9fc152bcdcb8d993c55ebd15150a7b116ab8915c331c56d6"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.002_warm0/result.json": {
+    "bytes": 1381,
+    "sha256": "0d416050f3df6e7f9bb2049254f81c3a48e5db07590945e68607d1211ac9af8b"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.002_warm0/learning_curve.json": {
+    "bytes": 917,
+    "sha256": "f4baa9af7cf5c83d2e8c03b2704a8dd242059cc510baac2dc46db92c5960c381"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.002_warm0/acquisitions.npy": {
+    "bytes": 136936,
+    "sha256": "c2a9b6255af8ccbd1613199a01db44450153c9a01bdd02aceaf5afe1544e8be1"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.032_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "9be58942bb1001c99d2b9213af0690ccd32f7dd2f4508b04994fdb6f224dfc76"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.032_warm0/result.json": {
+    "bytes": 1387,
+    "sha256": "7d704e2265697038b9645c419e0b69684eeb88b0b1da2084cbb0269cd7a32275"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.032_warm0/learning_curve.json": {
+    "bytes": 913,
+    "sha256": "db8a44a7e0d42daa67375d00ecfcd9454837cd1441b30a2af9373d2258315d6a"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.032_warm0/acquisitions.npy": {
+    "bytes": 136432,
+    "sha256": "ab91b90e37336bc1d1d9f4bbd4d3960b4c57a706cacdec2471c40cc1f434ae40"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.032_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "f8c9cbb3a1b6d8757e73feb4d9231a598c4e30d91861634cd627b47d96c9720d"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.032_warm0/result.json": {
+    "bytes": 1323,
+    "sha256": "8546ef767a3f6e26b257c9383396c20ecdf6572896162b5e0dee4d657d47045f"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.032_warm0/learning_curve.json": {
+    "bytes": 919,
+    "sha256": "d7cde800b1be12c25a8e2807b5eafbbddea271f01d40a3ea395b1158eba8585f"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.032_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.032_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "51022ed0053fd5f6332cf7040e17f8ab8f852a97482a59b724c587df3be6e220"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.032_warm0/result.json": {
+    "bytes": 1381,
+    "sha256": "f41bddd5e62b36776e397a920907a6b5d2ebae36bc686c27ebea0f5bc8b440f0"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.032_warm0/learning_curve.json": {
+    "bytes": 916,
+    "sha256": "9a88a0343a70f5fc8536b19f7c30fc60f78df25f58c36e77a8941f69b5960e1c"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.032_warm0/acquisitions.npy": {
+    "bytes": 137720,
+    "sha256": "f42c2d4c52939d68d4ee577998fb101026eb60ebc4dbde3159eadeb6c895dd01"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.002_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "3dbffdbe63642a6c38c1486528b4ea9db5fdcc6e85c6f7437f840ea5f33ef175"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.002_warm0/result.json": {
+    "bytes": 1322,
+    "sha256": "8a5d5e19d36e94a9f05f560f28545629fbaef9aa94ecf256b0bd6016b9dfcd22"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.002_warm0/learning_curve.json": {
+    "bytes": 921,
+    "sha256": "b6582238f2471ef116738360129f28dec70691989cb53a7edee5ee2a1bf4a77b"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.002_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.008_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "f25fe61b6799095bb34bb5688b91af0a0ddee81ad747fe3b54888d7bc22dbad1"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.008_warm0/result.json": {
+    "bytes": 1387,
+    "sha256": "75b64c7c047bcf8daa549b76cf407bf73ed65bb1b37a8e565e6fb91dfe08dfe6"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.008_warm0/learning_curve.json": {
+    "bytes": 915,
+    "sha256": "b9b3a97ba6759eb326dd9959965de122afe144ce82067c94870561ebb6b6afc4"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.008_warm0/acquisitions.npy": {
+    "bytes": 137160,
+    "sha256": "9f870ca4357f3308d67db765927b152772308f24851aef97aa3cdfc85c813bae"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.032_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "964bdbce2b5845a8b7da57a2f535224976b1d289c43ccca037d2d9a90690ae1c"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.032_warm0/result.json": {
+    "bytes": 1346,
+    "sha256": "f6ae92f7fb81fb9e6d01bbf14a0842825c8ec890d4ecf79c7b219b4ef2717203"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.032_warm0/learning_curve.json": {
+    "bytes": 906,
+    "sha256": "39b519342b99600327d525cc0512be73ca56e3afbffd4aff2e0189076f79c1e6"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.032_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.016_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "031a18be0bb3dc2daf4ee0a0932d8f50eb4c9d9f5eaf2e1092a2475a2c5a08aa"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.016_warm0/result.json": {
+    "bytes": 1318,
+    "sha256": "43a6cd75002c31a7b87ea585230c21275cf4edbc33630da1213c851af49e38fa"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.016_warm0/learning_curve.json": {
+    "bytes": 914,
+    "sha256": "643ba1cc45e85b7ec6a00efa0bdbc415faeac59c7eed31693fad8b25b2917056"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.016_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.064_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "9eaa2b67a85038b2792a1ce82d58c92d087d703c612f98fee58874e481aabd64"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.064_warm0/result.json": {
+    "bytes": 1380,
+    "sha256": "2689a1bb71288bffa7421916756b76456a9c563224795a5c6c558e7e2bf3b404"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.064_warm0/learning_curve.json": {
+    "bytes": 913,
+    "sha256": "ebe5d8b952247969a49284fb31bf694cef9485110df24d837a934c9bbebcd078"
+  },
+  "mainline_revision/darcy_mechanism/tuning/uniform_lr0.064_warm0/acquisitions.npy": {
+    "bytes": 139176,
+    "sha256": "b0e68e7f73d123ab5398ae8fdfa12d5a2a5f3f100af09dcbfd807af0dfafbda2"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.008_warm120/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "c8c6e1b08d3d0b12f83b7f56dfd938380353a15c63a08e5c1a761c62312c52b7"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.008_warm120/result.json": {
+    "bytes": 1317,
+    "sha256": "88819fecaa27553f270068860a09c78c83e91e6578577a9cb62219b7674329b2"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.008_warm120/learning_curve.json": {
+    "bytes": 912,
+    "sha256": "dc4a53bf2a1126ae112933780cbf04e67468d4e12d60cdfdb24cea665fff1ee6"
+  },
+  "mainline_revision/darcy_mechanism/tuning/pretrain_lr0.008_warm120/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.032_warm0/checkpoint.pt": {
+    "bytes": 4237749,
+    "sha256": "358c04b4eaba0e4a40a640df80db89247d1b8d98e068fdb5082740542dcd16a6"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.032_warm0/result.json": {
+    "bytes": 1310,
+    "sha256": "a03d0de22253b3a08c6d87f81ba0bbcf0e9438fe6b89a3b35d4894bd751e4390"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.032_warm0/learning_curve.json": {
+    "bytes": 917,
+    "sha256": "983883176ebf8d07b53f57c81436ba340a7340c6d64cf507d61f6a37fc36c2c1"
+  },
+  "mainline_revision/darcy_mechanism/tuning/hf_lr0.032_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.004_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "e94959fb3fe66e30b6550bcfd1ce5c2d88524db3f409bbfe73baa4def41fe33f"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.004_warm0/result.json": {
+    "bytes": 1380,
+    "sha256": "a920d4ca97ac15a0ce9e40f00d836fb487ae5c8f4522b2d3ce402e7b3a9198b0"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.004_warm0/learning_curve.json": {
+    "bytes": 913,
+    "sha256": "1ce40ebcbd8642d875a5fa2d11b879f4b88d2949c20fd502dd7e8fd15211558b"
+  },
+  "mainline_revision/darcy_mechanism/tuning/field_lr0.004_warm0/acquisitions.npy": {
+    "bytes": 138616,
+    "sha256": "d8d4639e1482388d392584d01243996b87575a1fa72717cf0ad763311b5fb204"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.064_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "5290e054a85db3de4f0f60944b57ae001e00dfcb764877419f070927e6b9d337"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.064_warm0/result.json": {
+    "bytes": 1378,
+    "sha256": "fa421fd91c2023eb880e4fe1428ef9abb5fcacff3917172506d4a07e5d034f6d"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.064_warm0/learning_curve.json": {
+    "bytes": 912,
+    "sha256": "e01d26bd13dcb18bd87bf7cd124edf8361894bd585e10e6fa703367f6f46a6f7"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.064_warm0/acquisitions.npy": {
+    "bytes": 138224,
+    "sha256": "a4188fe3aad929860e605811f53286fe9c1cb4bff92c5d14d1e3fad7e9c071c1"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.016_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "a4c268b3aabf3b93da0f5fe02ffce871667dd48402bc5901d6eaa288fcbac40c"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.016_warm0/result.json": {
+    "bytes": 1383,
+    "sha256": "917cc543d1ec5eade75c0809fe4605a0181ca346be695e359a4b3ef5d274d6db"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.016_warm0/learning_curve.json": {
+    "bytes": 912,
+    "sha256": "2a023c13e9d1d548a555b8ed364ebb23e0d4fcbebbc8b008036b6da336442bdc"
+  },
+  "mainline_revision/darcy_mechanism/tuning/gradient_lr0.016_warm0/acquisitions.npy": {
+    "bytes": 139008,
+    "sha256": "7ada506fed6f9f5b0cfb46b4b20e67cc7da1815884a9dcb845f16f5190ac427b"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.008_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "513481a83ae3c380004e915adf5b0bebd8707a717a9ba61ea3d964ef7a0a465a"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.008_warm0/result.json": {
+    "bytes": 1321,
+    "sha256": "6d07f1dcd0f196e59b22cca8c5a7e4a2ae92861017a28c2565ef859a7f34015d"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.008_warm0/learning_curve.json": {
+    "bytes": 916,
+    "sha256": "0fba7e6f77764bbbfa2d0ea3b12960a42bc04c55b16e6f78eb864e99e3c38579"
+  },
+  "mainline_revision/darcy_mechanism/tuning/author_mlmc_lr0.008_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.016_warm0/checkpoint.pt": {
+    "bytes": 4237813,
+    "sha256": "1a0f966d902c542edd55a8c893297008f4e2a9b6e2a67365b948ec920731d63f"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.016_warm0/result.json": {
+    "bytes": 1349,
+    "sha256": "5d8177655d963541f9da4f1593ca2448347509d7380ebe295b0980a20bd1ca2a"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.016_warm0/learning_curve.json": {
+    "bytes": 908,
+    "sha256": "4279a3eff3052ba1bf62d536eb704eea4ca23cfbb74639c7b0181cd516e89a02"
+  },
+  "mainline_revision/darcy_mechanism/tuning/phys_only_lr0.016_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed11_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "bc6cc81f17cc3c89ff1d8b0fa180b872b007a98964972be6c48d3c03764cad96"
+  },
+  "mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed11_warm0/result.json": {
+    "bytes": 1930,
+    "sha256": "67177764f46c1166f37627054dac3844a6ff16b6b7292655f3490740673fb16a"
+  },
+  "mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed11_warm0/learning_curve.json": {
+    "bytes": 3248,
+    "sha256": "4d0b2a490200fd9e30d46a739e275656655228a00239571234e8a22e0ca5302e"
+  },
+  "mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed11_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed11_warm0/evaluation.json": {
+    "bytes": 28276,
+    "sha256": "fff86514230a9541bdccbf0f547593a4749063c9f1a384f7e10052d736b1ec13"
+  },
+  "mainline_revision/darcy_mechanism/formal/field_lr0.008_seed22_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "8735631a4dd96d99401563e65697bd07694dcda2aaa23c06643622028e776616"
+  },
+  "mainline_revision/darcy_mechanism/formal/field_lr0.008_seed22_warm0/result.json": {
+    "bytes": 2009,
+    "sha256": "ae7d993ea8438cebeef403f0b47712caf7c91bced26485af6afd4cf531cd1bba"
+  },
+  "mainline_revision/darcy_mechanism/formal/field_lr0.008_seed22_warm0/learning_curve.json": {
+    "bytes": 3234,
+    "sha256": "0a64c7354f09c2dc943b80a61ec35ca118b218e997f6ac1e7d5496ba22fce2d1"
+  },
+  "mainline_revision/darcy_mechanism/formal/field_lr0.008_seed22_warm0/acquisitions.npy": {
+    "bytes": 422760,
+    "sha256": "3ee8e1b3d5363979ffecc8dd4ef7af32c88b213bcba597de6109223e419b6908"
+  },
+  "mainline_revision/darcy_mechanism/formal/field_lr0.008_seed22_warm0/evaluation.json": {
+    "bytes": 28335,
+    "sha256": "81c2dd5057c6d1fd7966c1b3fadcd3b66085caa256469c839066783cfdbaa577"
+  },
+  "mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed22_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "37afb23eb8e84a71d724784f44eee93d5cd96eb5f993c7be60c35f6534b0b039"
+  },
+  "mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed22_warm0/result.json": {
+    "bytes": 1967,
+    "sha256": "c3890d31ed430b32ccce8b6d798c1c954cb75fe054308f1fd0c19459ae14a14c"
+  },
+  "mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed22_warm0/learning_curve.json": {
+    "bytes": 3211,
+    "sha256": "9bb38b423ac7f28feb784b760332783a7089a40789b0288dc08057dcfdb75f46"
+  },
+  "mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed22_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed22_warm0/evaluation.json": {
+    "bytes": 28401,
+    "sha256": "1d0e11cd993e17e9f065c1b67486c768ebb2a727d3c3f406592430c14f6489b1"
+  },
+  "mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed22_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "774fd180d75bd64f882a03f5c5d6f5422d752f77a9ee8a2623ad6ee0aead555a"
+  },
+  "mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed22_warm0/result.json": {
+    "bytes": 1925,
+    "sha256": "07a5060eda115733fb1bdfb4b04240db7f19da76c6e33a272033c03d9d33c293"
+  },
+  "mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed22_warm0/learning_curve.json": {
+    "bytes": 3242,
+    "sha256": "475f8f11a2f73044ad51e701f295bb1edccee30fc777dbf0c01c099d77b9f2c9"
+  },
+  "mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed22_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed22_warm0/evaluation.json": {
+    "bytes": 28259,
+    "sha256": "aeb11b4246aca37f42c2719da91cc9f176ccfe768bfb0b82ad241163788e7d35"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed33_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "b108343a0143528a92b771539c64f57107984e89c8c898c9207dd57307e4e218"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed33_warm0/result.json": {
+    "bytes": 2019,
+    "sha256": "44675d9e7a7352ca28900fd27dccefabc90ca737b18490ae9d99ee8ae8353d4f"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed33_warm0/learning_curve.json": {
+    "bytes": 3242,
+    "sha256": "9a1e6bd515285474d6f3aa7ca39cbcd8ec4bcbac2f373a51c771fab553a8334f"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed33_warm0/acquisitions.npy": {
+    "bytes": 445048,
+    "sha256": "06dcf65677d092938d813852b7664350988a2dcfdd7c0b2b861f3d7944b63740"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed33_warm0/evaluation.json": {
+    "bytes": 28333,
+    "sha256": "3231120621712bb4e122f5f94636c563c6e719654559ca653b52f41e0b3da452"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed22_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "3346a647c17cfa9afcd5607d4893fc31afb7fe699f1694abbc6d837ca09471c7"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed22_warm0/result.json": {
+    "bytes": 2019,
+    "sha256": "6a58bd8ede8a35ce94c9ce257541b33e61f7b27491b9e5edefc63b55c58497ab"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed22_warm0/learning_curve.json": {
+    "bytes": 3238,
+    "sha256": "dbd6c09325f437f5128ea9ff5c45f2cb66996677d8e6bbb4b52ef55cf09f1d1f"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed22_warm0/acquisitions.npy": {
+    "bytes": 426456,
+    "sha256": "85d7c401f76eb5dcd3aa7b9f4ead300fb7ef0cef61eb107db32224ad8aba19fc"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed22_warm0/evaluation.json": {
+    "bytes": 28361,
+    "sha256": "440753a45f7846ff52968df5a921bf652652be46691b927113f87d01990894ee"
+  },
+  "mainline_revision/darcy_mechanism/formal/field_lr0.008_seed11_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "5986f755f3248e219e399f41db6cd3db11166ba399f7d9bce864c0908a6d2457"
+  },
+  "mainline_revision/darcy_mechanism/formal/field_lr0.008_seed11_warm0/result.json": {
+    "bytes": 2013,
+    "sha256": "3a8784fee88b87585ad45834994adbd92c911506bba8e302fb7e8a0ec096e45b"
+  },
+  "mainline_revision/darcy_mechanism/formal/field_lr0.008_seed11_warm0/learning_curve.json": {
+    "bytes": 3246,
+    "sha256": "192305e51e8f4332405e54b9418ddb51cff10f88fe981761d04c8f2eca721e37"
+  },
+  "mainline_revision/darcy_mechanism/formal/field_lr0.008_seed11_warm0/acquisitions.npy": {
+    "bytes": 432336,
+    "sha256": "ac27ef29051b8371ed50bb396f52c8a023f6d0dda1f7ad2d537c322eab0c090f"
+  },
+  "mainline_revision/darcy_mechanism/formal/field_lr0.008_seed11_warm0/evaluation.json": {
+    "bytes": 28358,
+    "sha256": "11a454b13328acb558f6e430055d357fa7de0d10364e054ef128cf8985bc1cb2"
+  },
+  "mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed33_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "5770ffc805940928cf3dec87e5079b50c909eb8302c0a38a6a3fef701528f318"
+  },
+  "mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed33_warm0/result.json": {
+    "bytes": 1972,
+    "sha256": "89436b88396d8ce135f7dd767b6ab9b14cc30ef4930fdb9394cb2815d3451193"
+  },
+  "mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed33_warm0/learning_curve.json": {
+    "bytes": 3209,
+    "sha256": "0a09dd5d885f316130115b3858f9b99d919ee834de9f1ade2490fdc9ca96c3cb"
+  },
+  "mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed33_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed33_warm0/evaluation.json": {
+    "bytes": 28322,
+    "sha256": "97ae683fe82b2e0a71cb1a8621f7fa5449d8acacf59ebeade0ba8525201530fe"
+  },
+  "mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed11_warm120/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "685ab8c6579ae05cc504fe56b8dac1ec79f47d7c54e36038a22dd1447e3c7f03"
+  },
+  "mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed11_warm120/result.json": {
+    "bytes": 1922,
+    "sha256": "37428cb256417513edb97436ad492e32bd90db569ea739dc266db9b46bb0c56e"
+  },
+  "mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed11_warm120/learning_curve.json": {
+    "bytes": 3238,
+    "sha256": "4a7dce2d139ae3f7ddb2ae84152769adba80e5402136f8c0af1689cfef5ddc1e"
+  },
+  "mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed11_warm120/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed11_warm120/evaluation.json": {
+    "bytes": 28305,
+    "sha256": "0a1ab8f6d3d45d80f0f0d7bd8ee2b8a8c49e83a08ba6ffec7a8b717e90a5ea7f"
+  },
+  "mainline_revision/darcy_mechanism/formal/field_lr0.008_seed33_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "640371190b2e3cdc481e25be3ea6dbe954b7857b75738751af50da0d2d646d78"
+  },
+  "mainline_revision/darcy_mechanism/formal/field_lr0.008_seed33_warm0/result.json": {
+    "bytes": 2011,
+    "sha256": "d36972232033fa0e218f4881833ad3b0fa8ac6e4b26d1441f5f47b40b1644ae0"
+  },
+  "mainline_revision/darcy_mechanism/formal/field_lr0.008_seed33_warm0/learning_curve.json": {
+    "bytes": 3239,
+    "sha256": "da2225a9b032de06f37cf7e2f7bcdec7bbe4952feab6a8d114f99f51569bbdb6"
+  },
+  "mainline_revision/darcy_mechanism/formal/field_lr0.008_seed33_warm0/acquisitions.npy": {
+    "bytes": 443480,
+    "sha256": "a3f556745e86413784deece3e7e17ce468791484005db0436711cda9386e89a1"
+  },
+  "mainline_revision/darcy_mechanism/formal/field_lr0.008_seed33_warm0/evaluation.json": {
+    "bytes": 28286,
+    "sha256": "8f10ff52baacd44aa3691f04cc18f354e88e9e242efb5977e037ee938b96e8d4"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed22_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "200f60c06e97720b447dff960e91cf32bee7029ba372892c59ad825df7b1966d"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed22_warm0/result.json": {
+    "bytes": 2018,
+    "sha256": "36774d1b74c0e48bbc58eda63c76a424aec0542610e515d06554de5d85f17a38"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed22_warm0/learning_curve.json": {
+    "bytes": 3239,
+    "sha256": "11fb975632575670bf152737b67fbf7bb99f5bd5e19ac327a1ea589db48632f5"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed22_warm0/acquisitions.npy": {
+    "bytes": 426456,
+    "sha256": "fa5605093c4eed44c67eba322b4dd3bc61433f4c1a33521f5b3b50cbaf21aca6"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed22_warm0/evaluation.json": {
+    "bytes": 28378,
+    "sha256": "c6746fdabfbdca997998e77d302ed51f6e4a36982c4def625e9516b44d5b940c"
+  },
+  "mainline_revision/darcy_mechanism/formal/data_lr0.008_seed33_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "bd456980b716d6b0e416eeccf092080f31d17c527695567cc6d21b0d3783cffe"
+  },
+  "mainline_revision/darcy_mechanism/formal/data_lr0.008_seed33_warm0/result.json": {
+    "bytes": 2006,
+    "sha256": "3d1f313e60378046bc7e279770b15ffb5067a243b27ee400e9f4dcaf789c7509"
+  },
+  "mainline_revision/darcy_mechanism/formal/data_lr0.008_seed33_warm0/learning_curve.json": {
+    "bytes": 3237,
+    "sha256": "ea35d7a189f061dc36c79b0913433f5c4d9b428b50e947cdfd896fa5ba4ad487"
+  },
+  "mainline_revision/darcy_mechanism/formal/data_lr0.008_seed33_warm0/acquisitions.npy": {
+    "bytes": 282032,
+    "sha256": "2487b5955634c5c5577439d9b508f3bb4d3bafe5109aa98949dd8582d2d40d1f"
+  },
+  "mainline_revision/darcy_mechanism/formal/data_lr0.008_seed33_warm0/evaluation.json": {
+    "bytes": 28317,
+    "sha256": "cbbcba26ad354ed04b9e5f2ad4d40ef783123f2a2d1eb53dd3d5420e6bb9f03e"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed11_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "82678e5dc64121b54368f301f6fc8ce10085677bc930de644ba75e68fac60c78"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed11_warm0/result.json": {
+    "bytes": 2012,
+    "sha256": "b2074b214082af6348704cbf6efa68ec86e8637cd5eff773285983b5f200db3f"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed11_warm0/learning_curve.json": {
+    "bytes": 3248,
+    "sha256": "2641cf0dbc572627dd965fc8c6e31934109af8d24fe2bf86c24faca38636d0cc"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed11_warm0/acquisitions.npy": {
+    "bytes": 437040,
+    "sha256": "6643b048b1c3582551ab63d27469cf4de04f2b587a4e63c96da6451b289fea4b"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed11_warm0/evaluation.json": {
+    "bytes": 28364,
+    "sha256": "877c6192e4bcbc879b30ec12562a4e353fae7d0748a1137ca200100d6319df0e"
+  },
+  "mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed22_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "aec43e4c6bbb384c102443cf3370ed535714eaeaf54e54960ce778510ad690fa"
+  },
+  "mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed22_warm0/result.json": {
+    "bytes": 1916,
+    "sha256": "cbf67314df5cd5daa02f18c572b27be669479f26d5a41893201a67c7ceb183db"
+  },
+  "mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed22_warm0/learning_curve.json": {
+    "bytes": 3252,
+    "sha256": "94a4858b7320ba4dac64709765e451f385314da8f24389546639d469d76e3ad1"
+  },
+  "mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed22_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed22_warm0/evaluation.json": {
+    "bytes": 28332,
+    "sha256": "6f36a7222867ef0f58bd07f28ad334d86a7d95f74870d9ecff5164feb8893430"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed22_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "abfc5996005f996024c1ead28b9a3446f0f2d264ae75f77f76f141cc768252cc"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed22_warm0/result.json": {
+    "bytes": 2021,
+    "sha256": "3a029c1a04a1a962c3025a813f5b7d50fa0c975a6f54fceaf27b8d149e8b4907"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed22_warm0/learning_curve.json": {
+    "bytes": 3241,
+    "sha256": "e38f7ff1e05b373706db1d35354761f6a9cca96f5e10f6fa118c337dc91c960c"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed22_warm0/acquisitions.npy": {
+    "bytes": 426456,
+    "sha256": "87a5178f7ed7b233285f1d137655c12feef65c8856b8a67f12c2ef15a117d8f2"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed22_warm0/evaluation.json": {
+    "bytes": 28313,
+    "sha256": "55390abb8ecef0180804dd2fb75758e102b5570ba1fcbcb7718a915550dea6af"
+  },
+  "mainline_revision/darcy_mechanism/formal/data_lr0.008_seed11_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "340b04d87e3200c68dc02ff7e7e7c998c9d49a6b88b314c402101748bc0e3f0b"
+  },
+  "mainline_revision/darcy_mechanism/formal/data_lr0.008_seed11_warm0/result.json": {
+    "bytes": 2016,
+    "sha256": "6bb9bb18da9901cc1334076d5972548ed56d2186712f56348684959b55e74779"
+  },
+  "mainline_revision/darcy_mechanism/formal/data_lr0.008_seed11_warm0/learning_curve.json": {
+    "bytes": 3243,
+    "sha256": "6eac7bd2553b8cd5e8e4081e53bb302caefd0efe87c432d74b37520e16253ba5"
+  },
+  "mainline_revision/darcy_mechanism/formal/data_lr0.008_seed11_warm0/acquisitions.npy": {
+    "bytes": 250280,
+    "sha256": "6a582ac4c07de7502375bb4ec942c0f4e4d9a86614a383f340bdc182e9f6215a"
+  },
+  "mainline_revision/darcy_mechanism/formal/data_lr0.008_seed11_warm0/evaluation.json": {
+    "bytes": 28383,
+    "sha256": "b40995605ec7e8399440011d48241c8aedc87ffc9fbf564cafb6ef9a2001f11a"
+  },
+  "mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed22_warm120/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "9f36f42f6f34bdf0c0f05098c37ad764eb9bc04620d099a74d5d180e81848498"
+  },
+  "mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed22_warm120/result.json": {
+    "bytes": 1923,
+    "sha256": "ce7060a809955c9d076aa843710eea8eef748c00c0099583fea835289434b625"
+  },
+  "mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed22_warm120/learning_curve.json": {
+    "bytes": 3245,
+    "sha256": "c554388fe67076257df8aec8ea1bf4d10d0064f2c8ef084d3cffa4bc837147e7"
+  },
+  "mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed22_warm120/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed22_warm120/evaluation.json": {
+    "bytes": 28276,
+    "sha256": "6b3226dce4aefa13305103cfa68c7f422ac7efe692dd4889a0f44656ae8557e6"
+  },
+  "mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed11_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "257f0a1b637de0cf3c9743116d53cae57349a10f4aba5314740eded20d412556"
+  },
+  "mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed11_warm0/result.json": {
+    "bytes": 1912,
+    "sha256": "7d8a026ab09580c6ec40d94c1ae3812b44a4b93c4b41ba5de35f6958aeb31a17"
+  },
+  "mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed11_warm0/learning_curve.json": {
+    "bytes": 3250,
+    "sha256": "be072739eb26621bcd5334f4ee9096044858f2bd2ac7ca401a295a2196e11ec5"
+  },
+  "mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed11_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed11_warm0/evaluation.json": {
+    "bytes": 28343,
+    "sha256": "1088dbe286abee8d3922d5f2496318c227e856d22f118e45e710bd17f7825fdd"
+  },
+  "mainline_revision/darcy_mechanism/formal/data_lr0.008_seed22_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "8fd9732945b92b4c564ad25d864f2805b7944ab71ad0e514a33f36a60b1f91d1"
+  },
+  "mainline_revision/darcy_mechanism/formal/data_lr0.008_seed22_warm0/result.json": {
+    "bytes": 2005,
+    "sha256": "84777f02a4b544560253f444eec51aafa97267134a6516eeb301c9aed0a5d01d"
+  },
+  "mainline_revision/darcy_mechanism/formal/data_lr0.008_seed22_warm0/learning_curve.json": {
+    "bytes": 3246,
+    "sha256": "975afbec653f3667752f1d2b41e4c07180a8ed7efbf7b7cdaae9eab155931453"
+  },
+  "mainline_revision/darcy_mechanism/formal/data_lr0.008_seed22_warm0/acquisitions.npy": {
+    "bytes": 226592,
+    "sha256": "55ee27537e9f519e9b7971d95cb4dfe80d00ac600782682a8a9bcb49f109036c"
+  },
+  "mainline_revision/darcy_mechanism/formal/data_lr0.008_seed22_warm0/evaluation.json": {
+    "bytes": 28389,
+    "sha256": "157defb7db906bf8137cc3ef72af8c39270c509931c488e7dcfdd993ea2f00b7"
+  },
+  "mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed33_warm120/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "addb31e2f7c0034409e7926588647068c264c6a8ac4f5a3feadb0bf71e7292e2"
+  },
+  "mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed33_warm120/result.json": {
+    "bytes": 1928,
+    "sha256": "dd451b213370d7f1ec2b1e28fc22a2cb01704cf56ce0e0ac7503cab0ecc5e9f6"
+  },
+  "mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed33_warm120/learning_curve.json": {
+    "bytes": 3240,
+    "sha256": "2c4d4195b2242ae85f304996e4f12e20ac7e8094c8ecd77d24cc42b975ca7aee"
+  },
+  "mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed33_warm120/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/formal/pretrain_lr0.016_seed33_warm120/evaluation.json": {
+    "bytes": 28285,
+    "sha256": "340a5136c7554660c85efa970a1c7ca90c4acf9b5e79c60bde61573792b0e1fd"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed22_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "96d9f1934a9895c7d33f310d0b8ec8b0eef10b429334c51745b655d119bda2d8"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed22_warm0/result.json": {
+    "bytes": 2019,
+    "sha256": "798a9de6d41685ce78d46e6617da091bd2f8880ff719d12d47f1fbc7a9f0ab76"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed22_warm0/learning_curve.json": {
+    "bytes": 3242,
+    "sha256": "e3f51295351467e169a34983e8d8328362babc5c99ec36721c965406c9b21ca8"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed22_warm0/acquisitions.npy": {
+    "bytes": 423488,
+    "sha256": "3bb62c1bd30ad010087497adf119bedb0d795b0d09e8ccc005197354714acd75"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed22_warm0/evaluation.json": {
+    "bytes": 28322,
+    "sha256": "0c4360918cdd64de02798a517aa57df4afb253364f565fa571497f46a740fe2f"
+  },
+  "mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed11_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "beacf9a5225f0140ee9aef825768615745d9d71ef2c42d8b077d8803a9c2db11"
+  },
+  "mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed11_warm0/result.json": {
+    "bytes": 1968,
+    "sha256": "f1cc0d1df6c453b3d5ecbf9ee05b212d9c3ee041e4482b9baf76da1af7d8a5aa"
+  },
+  "mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed11_warm0/learning_curve.json": {
+    "bytes": 3206,
+    "sha256": "c5b7922a342f71f94ca073b5366917b58755325bc45150aa2903c98bf03c7607"
+  },
+  "mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed11_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/formal/phys_only_lr0.008_seed11_warm0/evaluation.json": {
+    "bytes": 28387,
+    "sha256": "925c5d7a11fef8b4da61202a6ee8b69dfb9ee8bf980273d24eaaeeb4d04810eb"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed11_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "8b7d9009afcae7a7900d780cdbc9932849e4827c8875e52e703521b6b1172ace"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed11_warm0/result.json": {
+    "bytes": 2009,
+    "sha256": "c82089c90bddb27fa3586ea641d457d403dd88e604632194e5439732651c5a23"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed11_warm0/learning_curve.json": {
+    "bytes": 3238,
+    "sha256": "e17774ad3b09383b1cb8846cc24b8fdd2540d081f16d0423ec060e1cf4636754"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed11_warm0/acquisitions.npy": {
+    "bytes": 432952,
+    "sha256": "4e3b492ec60ca362f8ac364ff58c04ece942e7d3a5f3e104184f5654186c41c5"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed11_warm0/evaluation.json": {
+    "bytes": 28358,
+    "sha256": "a0c6d17e4ce68429e21d29161d059be700cdff2ff2f48bbb1c865efdf1235407"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed33_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "1b0ca1327221dde9877b7a9ab87a78ab90398a7c1fff9573a5aa47da5eceb345"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed33_warm0/result.json": {
+    "bytes": 2016,
+    "sha256": "f337dca07486b2e3e111c63b87524f763dc12fb1ca9741ef6347d2ee0a8622ec"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed33_warm0/learning_curve.json": {
+    "bytes": 3245,
+    "sha256": "a118b01cd7b8634639a735db9e183e43f31ffc57b2941923962cde60429fe865"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed33_warm0/acquisitions.npy": {
+    "bytes": 438160,
+    "sha256": "fbfb1f9ef574e5e312c0f2ce4e941b947b79b44137dc63bc09c269de2bb15eec"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.008_seed33_warm0/evaluation.json": {
+    "bytes": 28307,
+    "sha256": "9f6e515fc8e9484b0d08cf519fa59b641225ed1fe8ceab72495f20a6b8990ed9"
+  },
+  "mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed33_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "9ce48a44fa40d4fb88685d184d7b97b3c6c8e8ed160647abd80d6bae5445fc8a"
+  },
+  "mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed33_warm0/result.json": {
+    "bytes": 1926,
+    "sha256": "ae0d82d4ff51b2d89420cef26aba3148e3a5f3ccd7c94d9908382febf4cd1199"
+  },
+  "mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed33_warm0/learning_curve.json": {
+    "bytes": 3250,
+    "sha256": "c6ba394a20fda75fb1c52f1c0e998ab0dbc017001bf54057de73e0bc58a5db5d"
+  },
+  "mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed33_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/formal/author_mlmc_lr0.004_seed33_warm0/evaluation.json": {
+    "bytes": 28264,
+    "sha256": "b42d59b965910a4c004dea80af73487d009a0df54e99f090a90443f3240013e5"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed11_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "b89e5c79d531098d31b64155af531ac63120ef2e02592b6752f2217566b8a43b"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed11_warm0/result.json": {
+    "bytes": 2012,
+    "sha256": "8dc74c52b759cd7da165f6f10001c06ae2b0dde33dda3862a42b8f53409dbf2c"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed11_warm0/learning_curve.json": {
+    "bytes": 3246,
+    "sha256": "28a7362ab6a84bffdbe3eacaa857a20207e0469dc33bac876e0a82cd8a85231e"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed11_warm0/acquisitions.npy": {
+    "bytes": 436984,
+    "sha256": "a42ad102fb586755f14fb8b1459ac945b70e9b432b73d42de59e9b722146598e"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.008_seed11_warm0/evaluation.json": {
+    "bytes": 28372,
+    "sha256": "f7634d086962c3391da3ca0fdcc517c56d362f628db87ac9c197f9578c01521b"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed33_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "e4621f7d870c7bae757b2caf54ab269f0d898731c5b15fb1312c248598836ff0"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed33_warm0/result.json": {
+    "bytes": 2016,
+    "sha256": "174f5b266e878d937e64c668fb451f26b0f7039137bbbf8d10cfff15d27aaa01"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed33_warm0/learning_curve.json": {
+    "bytes": 3238,
+    "sha256": "80888c345a14acc9dd72b7f287b5be21b44e146354c410bd5332173e515a5153"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed33_warm0/acquisitions.npy": {
+    "bytes": 441520,
+    "sha256": "93231492c32ca106820f7134054725f136725ce234cd732dc8424be89e21885e"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed33_warm0/evaluation.json": {
+    "bytes": 28333,
+    "sha256": "3b0d8686bbbef97631484050b682df24f0ee0706b8b5cd2c80e4efbd77ebc7cd"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed11_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "fdcd40d3c3d23f3236bc731b77790bd1eff4d2e2ee53698e11ac96aeebd1802c"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed11_warm0/result.json": {
+    "bytes": 2019,
+    "sha256": "105da5f5a61ea7d5cae8aeb428ecb9404e495edc804a168f6bc7e603aa3dea4a"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed11_warm0/learning_curve.json": {
+    "bytes": 3240,
+    "sha256": "82f5025e84fffb71c58a084115e2d1664541f9d207c418ba24cc8c5fa03896ef"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed11_warm0/acquisitions.npy": {
+    "bytes": 435920,
+    "sha256": "e3c4483f776d2950d662abde98c0f5edf8f9a1413ed136ad065315ae16a156f7"
+  },
+  "mainline_revision/darcy_mechanism/formal/uniform_lr0.016_seed11_warm0/evaluation.json": {
+    "bytes": 28299,
+    "sha256": "ca40e75cb20fb589700da643b1932245c56d143135cfe355d0b8c40677a59760"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed33_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "25a267427e02d70bb4cb2f068715749b303b616361e7a6a9b7d691a6a0202ff9"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed33_warm0/result.json": {
+    "bytes": 2013,
+    "sha256": "851583c9b425822b17bc019d958875bc63ab36c0cf53ffd81498924a19104abe"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed33_warm0/learning_curve.json": {
+    "bytes": 3246,
+    "sha256": "f9531b0856fd995ba1a0e002c0a5c38873094590694d6e55f1778f33c7417d7d"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed33_warm0/acquisitions.npy": {
+    "bytes": 434856,
+    "sha256": "1d5725b9e844800a1d8d20617db13802f89ef80d18230cc7626dacf344157ce5"
+  },
+  "mainline_revision/darcy_mechanism/formal/gradient_lr0.004_seed33_warm0/evaluation.json": {
+    "bytes": 28334,
+    "sha256": "65c4b77909e77f835b0eaa1229649ddff5e8347761be8d170882a740a6c853bb"
+  },
+  "mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed33_warm0/checkpoint.pt": {
+    "bytes": 8474037,
+    "sha256": "d14f590da629517b23f545315f6176ccf8969280170ce5e002c418e4fe19ed1f"
+  },
+  "mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed33_warm0/result.json": {
+    "bytes": 1914,
+    "sha256": "eda723e9b851dd2a67e2aa6d6160943f8d17555da740a4fd0aeacd7ba91e5be4"
+  },
+  "mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed33_warm0/learning_curve.json": {
+    "bytes": 3250,
+    "sha256": "81b1bc29b59e37ca75c1cc911091d2bf422c4081d0060331370f490fed2c67f3"
+  },
+  "mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed33_warm0/acquisitions.npy": {
+    "bytes": 128,
+    "sha256": "fdee2f2368bf2af9c942f32cce9d982e48dfc46889bf923e99bc9ac834a4ba46"
+  },
+  "mainline_revision/darcy_mechanism/formal/hf_lr0.008_seed33_warm0/evaluation.json": {
+    "bytes": 28287,
+    "sha256": "b9a1b4f608ce6fc172a0610584c2a2391680611d7e8201acb527621be2aa2d08"
+  }
+}

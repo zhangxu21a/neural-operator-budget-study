@@ -1,0 +1,24 @@
+\section{Replicated construction-budget comparison with efficient HF solves}
+This prospective experiment fixes coefficient gain two and a 512-interval numerical grid, with a common 129-by-129 output. Coarse spaces have eight or 32 intervals. HF methods are independent of this choice and are not counted twice. Five independent channel-data pools and optimization seeds are paired across seven arms. All methods use the same 32 initial HF labels; the 128-label reuse arm purchases an additional 96 labels. The reuse arms then optimize only on their fixed HF set. A pool of 8192 inputs limits saturation. HF labels use MG-preconditioned CG at relative residual tolerance $10^{-8}$, including setup and geometry preparation within each run.
+Each arm receives three 60-second trials at learning rates 0.002, 0.008, and 0.032; validation selects one configuration, giving 180 seconds of tuning per arm. Formal trajectories last 180 seconds and contain a dependent 120-second checkpoint. All runs execute serially with one CPU thread. New validation/ID/OOD sets contain 32/128/64 inputs; OOD Gaussian coefficients are multiplied by 1.25. These are short-construction-budget experiments, not evidence of long-horizon convergence. Data pools and testing protocol differ from the earlier experiment.
+\begin{table}[ht]\centering\small
+\caption{New MG-based experiment at 180 seconds: five independent training units. Errors are percentages (mean $\pm$ sample SD).}
+\begin{tabular}{lrrrr}\toprule Method & LR & ID error & OOD error & HF labels\\\midrule
+Coarse 8 & 0.032 & $55.649\pm3.737$ & $60.616\pm3.683$ & 32.0\\
+Coarse 32 & 0.002 & $16.449\pm1.494$ & $19.645\pm1.758$ & 32.0\\
+Corrected 8 & 0.008 & $24.792\pm1.594$ & $29.276\pm1.837$ & 32.0\\
+Corrected 32 & 0.008 & $18.909\pm1.461$ & $21.687\pm1.752$ & 32.0\\
+HF online & 0.008 & $20.155\pm1.207$ & $23.328\pm0.615$ & 798.0\\
+HF reuse 32 & 0.008 & $22.766\pm1.263$ & $26.349\pm0.990$ & 32.0\\
+HF reuse 128 & 0.002 & $14.253\pm0.528$ & $17.374\pm0.273$ & 128.0\\
+\bottomrule\end{tabular}\end{table}
+\begin{figure}[ht]\centering\includegraphics[width=\linewidth]{images/formal_mg.pdf}\caption{All five paired training units at the 180-second endpoint. Points show runs, horizontal segments show means. Different ID/OOD vertical scales are labeled.}\end{figure}
+\paragraph{Paired effects.} Negative differences favor the first method. Differences below are percentage points of ID error at 180 seconds, with approximate paired Student-$t$ 95\% intervals over five training units; they are not multiplicity-adjusted.
+Corrected 32 versus Coarse 32: 2.460, interval [1.095, 3.824], with 0 of five pairs favoring the first arm.\par
+Corrected 8 versus Coarse 8: -30.857, interval [-36.090, -25.624], with 5 of five pairs favoring the first arm.\par
+Corrected 32 versus Corrected 8: -5.883, interval [-9.068, -2.698], with 5 of five pairs favoring the first arm.\par
+HF reuse 32 versus HF online: 2.612, interval [1.008, 4.215], with 0 of five pairs favoring the first arm.\par
+HF reuse 128 versus HF online: -5.902, interval [-7.728, -4.076], with 5 of five pairs favoring the first arm.\par
+Corrected 32 versus HF reuse 32: -3.858, interval [-6.933, -0.782], with 4 of five pairs favoring the first arm.\par
+Corrected 32 versus HF reuse 128: 4.656, interval [2.661, 6.651], with 0 of five pairs favoring the first arm.\par
+The two-sided exact sign test cannot attain $p<0.05$ with only five non-tied pairs. Error intervals are conditional on the shared evaluation set. The tuning horizon is shorter than the formal horizon; selected configurations support a policy comparison, not attribution to a single mechanism. No negative or divergent trial is discarded. The result does not establish a universal allocation rule or a cross-PDE ranking.

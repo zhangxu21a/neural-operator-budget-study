@@ -1,0 +1,189 @@
+{
+  "architecture": "fno",
+  "arms": [
+    "coarse32",
+    "phys32"
+  ],
+  "rates": [
+    0.002,
+    0.008
+  ],
+  "seeds": [
+    2101,
+    2202,
+    2303,
+    2404,
+    2505
+  ],
+  "parameter_seeds": [
+    93101,
+    93202,
+    93303,
+    93404,
+    93505
+  ],
+  "jobs": [
+    [
+      2101,
+      0.002,
+      "phys32"
+    ],
+    [
+      2101,
+      0.008,
+      "coarse32"
+    ],
+    [
+      2101,
+      0.002,
+      "coarse32"
+    ],
+    [
+      2101,
+      0.008,
+      "phys32"
+    ],
+    [
+      2202,
+      0.002,
+      "coarse32"
+    ],
+    [
+      2202,
+      0.008,
+      "phys32"
+    ],
+    [
+      2202,
+      0.008,
+      "coarse32"
+    ],
+    [
+      2202,
+      0.002,
+      "phys32"
+    ],
+    [
+      2303,
+      0.002,
+      "phys32"
+    ],
+    [
+      2303,
+      0.008,
+      "coarse32"
+    ],
+    [
+      2303,
+      0.002,
+      "coarse32"
+    ],
+    [
+      2303,
+      0.008,
+      "phys32"
+    ],
+    [
+      2404,
+      0.008,
+      "coarse32"
+    ],
+    [
+      2404,
+      0.008,
+      "phys32"
+    ],
+    [
+      2404,
+      0.002,
+      "phys32"
+    ],
+    [
+      2404,
+      0.002,
+      "coarse32"
+    ],
+    [
+      2505,
+      0.002,
+      "phys32"
+    ],
+    [
+      2505,
+      0.008,
+      "coarse32"
+    ],
+    [
+      2505,
+      0.002,
+      "coarse32"
+    ],
+    [
+      2505,
+      0.008,
+      "phys32"
+    ]
+  ],
+  "budget": 600,
+  "checkpoints": [
+    120,
+    180,
+    360,
+    600
+  ],
+  "pool": 8192,
+  "reference_seeds": [
+    83001,
+    83002,
+    83003
+  ],
+  "reference_counts": [
+    32,
+    128,
+    64
+  ],
+  "ood_multiplier": 1.25,
+  "gain": 2,
+  "nf": 512,
+  "nc": 32,
+  "input_output_grid": 129,
+  "new_tuning_trials": 0,
+  "common_initial_hf": 32,
+  "sources": {
+    "/Volumes/MacShare/Something/research_q1_20261024/publication_track/formal_mg_v1/core.py": "7478e4650d9d073aa7475a111169438e594882db43a6737477e6950a85acfc72",
+    "/Volumes/MacShare/Something/research_q1_20261024/publication_track/formal_mg_v1/pipeline.py": "70b4efb1f7cd540b31b31691dffa2d2725ab564b445d733fb8e5eb00e33319ac",
+    "/Volumes/MacShare/Something/research_q1_20261024/publication_track/formal_mg_v1/analyze.py": "890eb053cc970f3ff7382be0adfadf7d53d89a25f1081561054c01b13b55dc47",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy_optimized/vendor/mlmc_optim/mlmc_optim/batcher.py": "ebc927d8d2917add229a94766342bef13e98ec351e9e8417b32beedd15e70ea4",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy_optimized/vendor/mlmc_optim/mlmc_optim/gradient.py": "9f0b9472a75406deadb7140aafae07066d12c5541317fb79f8268a9755858b95",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy_optimized/vendor/mlmc_optim/examples/examples_src/models/fno.py": "4a65749bf5f5d7f55cd072f21b8ab7e84ce5f07f187025434e844efbaf3ba519",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy_mechanism/runner.py": "96fbcda4da300752cc952ba670cc1a138423d6b67f65217c540375d4a175ece6",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy_mechanism/policies.py": "8671cc9a1b1995291c842affdd4e81734b295b52eecd90d18aa23807bc35b499",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy_mechanism/bootstrap.py": "546b7fc17a1e3bd0e542513df987902e97fd6ac02f0fbc1c9c918ea98c4cce62",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy_mechanism/pipeline.py": "b0b4532889763de2d323ecb3285964ad2317399f1dd8f311f255b0506cee0df8",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy_mechanism/evaluate.py": "64da2a50e95b61c7e0caed52721339ceba3a537e72f2c22b5b8ccf560db62983",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy_mechanism/prepare_reference.py": "6690d5029318d581065594ce324507c54a6e1e081fc80302b91f437d24a01ce0",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy_mechanism/validate.py": "8a417967bf9a73faea58e9a04bb4829658f930c74aa695f6867a128e5185b3f9",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy_mechanism/post_validation.py": "db748547813c8b9929e2b5ce4725c01299e9920d2f123257abe64222aced14cf",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy_optimized/scoring.py": "9a91f1153cf89d4fc358ce57dd63068f0773e8ca4bc94f02fe3cf3e6be56b47a",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy_optimized/fno_model.py": "35069689bba2a98f0a860f4a63677b9fdb72834d1e75c26b2cd10d08c9084de3",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy_optimized/fno_scoring.py": "ae7cb5201fb3caf4076f747f01be29a9800075ee9141fdfd96c32f509c7c509e",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy_optimized/author.py": "2b024604e8f44ea2187385903e8d0dc255fc9d5182d1e17c184350a64171649f",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy/solver.py": "e17b7da3485c2c750fcbc59626503d1c7452aa967d3063aa1856894362d937e5",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy/teacher.py": "9ecd6c81aeed57c5e29834e854ea469ac376b3647601ed2656da22da2f2291d6",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy/model.py": "819e3f5e899a7d5bfce34f92b2c2f243150ea9daf679e2d6982dc52b88e9ef7d",
+    "/Volumes/MacShare/Something/research_q1_20261024/mainline_revision/darcy/runtime.py": "4fd060675182b1edf20b8f548e18b3242539a5be366e57bd18c4532882cecfda",
+    "/Volumes/MacShare/Something/research_q1_20261024/publication_track/architecture_horizon_v2/study_engine.py": "4cde297d0f17a859d058a5ae7b674604fa24a8b9e4d52199da0a09470ffcba6e",
+    "/Volumes/MacShare/Something/research_q1_20261024/publication_track/architecture_horizon_v2/study_analysis.py": "6520461001a4426a8f35e168a6f229d894d1aa921132918360c824306774a299",
+    "/Volumes/MacShare/Something/research_q1_20261024/publication_track/architecture_horizon_v2/study_pipeline.py": "24a3f6d39c93e4ad2b575cb06ddc45ca4b7dc81f526fff808e27f27b5c0783e7",
+    "/Volumes/MacShare/Something/research_q1_20261024/publication_track/architecture_horizon_v2/preflight.py": "72414693f8d0c59b02011bebb599b5d46db24cbea55b1e5bf62969987b0ae4fe",
+    "/Volumes/MacShare/Something/research_q1_20261024/publication_track/matched_rate_v3/run_study.py": "67a61007c4312cfacbf97667128e53c08700052199b20276bd6d6b285e91981e",
+    "/Volumes/MacShare/Something/research_q1_20261024/publication_track/matched_rate_v3/analyze_study.py": "99549410be5909bc644993c86f26d2509136340f22d86c71f5a3a998f5fe8cee"
+  },
+  "primary_contrast": "corrected minus coarse within each fixed learning rate; both rates retained",
+  "secondary_contrast": "difference of correction contrasts across rates; within-trajectory horizon changes",
+  "retention": "All seeds, nonfinite loss flags and competing-load runs retained; no test-based rate selection or automatic replacements",
+  "timing": "Single thread, serial random blocks; 12-second reserve; real label costs; competing Python commands monitored every5s",
+  "scope": "Matching learning rate does not separate correction bias from correction cost and update count",
+  "engine_path": "/Volumes/MacShare/Something/research_q1_20261024/publication_track/architecture_horizon_v2/study_engine.py",
+  "analysis_path": "/Volumes/MacShare/Something/research_q1_20261024/publication_track/matched_rate_v3/analyze_study.py"
+}

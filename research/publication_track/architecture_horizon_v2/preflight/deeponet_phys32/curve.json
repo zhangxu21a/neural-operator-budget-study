@@ -1,0 +1,20 @@
+[
+  {
+    "decision_ready": 0.021025499794632196,
+    "steps": 0,
+    "validation": 0.992123655974865,
+    "hf": 0
+  },
+  {
+    "decision_ready": 5.037747207796201,
+    "steps": 0,
+    "validation": 0.992123655974865,
+    "hf": 32
+  },
+  {
+    "decision_ready": 13.198860707925633,
+    "steps": 26,
+    "validation": 0.5581868309527636,
+    "hf": 32
+  }
+]

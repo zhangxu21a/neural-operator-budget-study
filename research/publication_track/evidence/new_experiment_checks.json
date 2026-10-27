@@ -1,0 +1,8 @@
+{
+  "numerical_rows": 72,
+  "six_paired_inputs": true,
+  "max_direct_residual": 6.48476405507175e-11,
+  "all_finite": true,
+  "pilot_runs": 6,
+  "all_pilot_caps_pass": true
+}

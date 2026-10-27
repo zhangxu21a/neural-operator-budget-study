@@ -1,0 +1,87 @@
+{
+  "started_at_unix": 1793039728.578627,
+  "architecture": "deeponet",
+  "arm": "hf_online",
+  "seed": 1303,
+  "train_parameter_seed": 92303,
+  "lr": 0.002,
+  "phase": "formal",
+  "pool": 8192,
+  "budget": 180,
+  "wall": 168.60046275006607,
+  "nonfinite_loss": false,
+  "initial_complete": true,
+  "steps": 138,
+  "validation": 0.4751608660444617,
+  "counts": {
+    "hf": 1066,
+    "coarse8": 0,
+    "coarse32": 0,
+    "phys8": 0,
+    "phys32": 0
+  },
+  "timings": {
+    "hf": 161.99634097050875,
+    "coarse8": 0.0,
+    "coarse32": 0.0,
+    "phys8": 0.0,
+    "phys32": 0.0,
+    "input": 1.7867678285110742,
+    "training": 1.1497635077685118,
+    "validation": 0.13934995676390827,
+    "checkpoint": 0.00271491683088243
+  },
+  "max_hf_residual": 1.000030221470189e-08,
+  "max_hf_iterations": 11,
+  "milestones": {
+    "120": {
+      "validation": 0.4818938821554184,
+      "selected_steps": 85,
+      "decision_ready": 108.9062632501591,
+      "counts": {
+        "hf": 689,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 104.49027726240456,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 1.1342032894026488,
+        "training": 0.706230586161837,
+        "validation": 0.08772495575249195,
+        "checkpoint": 0.002103250939399004
+      },
+      "steps_completed": 85
+    },
+    "180": {
+      "validation": 0.4751608660444617,
+      "selected_steps": 102,
+      "decision_ready": 168.60045712511055,
+      "counts": {
+        "hf": 1066,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 161.99634097050875,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 1.7867678285110742,
+        "training": 1.1497635077685118,
+        "validation": 0.13934995676390827,
+        "checkpoint": 0.00271491683088243
+      },
+      "steps_completed": 138
+    }
+  },
+  "export_seconds": 0.028020499972626567
+}

@@ -1,0 +1,10 @@
+{
+  "architecture": "deeponet",
+  "arm": "coarse32",
+  "seed": 1303,
+  "budget": 180,
+  "decision_ready": 168.02141704200767,
+  "steps": 14271,
+  "validation": 0.35846061538904905,
+  "hf": 32
+}

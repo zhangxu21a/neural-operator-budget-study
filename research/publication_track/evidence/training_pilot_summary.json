@@ -1,0 +1,56 @@
+[
+  {
+    "scenario": "resolved",
+    "method": "coarse",
+    "test_percent": 5.900282762013376,
+    "validation_percent": 5.887457239441574,
+    "updates": 129,
+    "fine_labels": 32,
+    "wall_seconds": 75.28931545908563
+  },
+  {
+    "scenario": "resolved",
+    "method": "hf",
+    "test_percent": 21.3215425144881,
+    "validation_percent": 24.137393198907375,
+    "updates": 11,
+    "fine_labels": 96,
+    "wall_seconds": 77.77848408394493
+  },
+  {
+    "scenario": "resolved",
+    "method": "phys_only",
+    "test_percent": 8.84812748990953,
+    "validation_percent": 8.731437847018242,
+    "updates": 99,
+    "fine_labels": 32,
+    "wall_seconds": 75.55872149998322
+  },
+  {
+    "scenario": "stress",
+    "method": "coarse",
+    "test_percent": 66.99598981067538,
+    "validation_percent": 67.01132040470839,
+    "updates": 131,
+    "fine_labels": 32,
+    "wall_seconds": 75.51702354196459
+  },
+  {
+    "scenario": "stress",
+    "method": "hf",
+    "test_percent": 43.31300985068083,
+    "validation_percent": 44.72744036465883,
+    "updates": 11,
+    "fine_labels": 96,
+    "wall_seconds": 77.29672054201365
+  },
+  {
+    "scenario": "stress",
+    "method": "phys_only",
+    "test_percent": 21.284386795014143,
+    "validation_percent": 24.06656974926591,
+    "updates": 100,
+    "fine_labels": 32,
+    "wall_seconds": 75.53122441610321
+  }
+]

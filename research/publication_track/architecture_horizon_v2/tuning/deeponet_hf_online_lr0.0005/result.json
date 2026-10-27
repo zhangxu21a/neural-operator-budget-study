@@ -1,0 +1,63 @@
+{
+  "started_at_unix": 1793031691.994245,
+  "architecture": "deeponet",
+  "arm": "hf_online",
+  "seed": 1017,
+  "train_parameter_seed": 93017,
+  "lr": 0.0005,
+  "phase": "tuning",
+  "pool": 8192,
+  "budget": 60,
+  "wall": 48.91037233406678,
+  "nonfinite_loss": false,
+  "initial_complete": true,
+  "steps": 35,
+  "validation": 0.6654569897800684,
+  "counts": {
+    "hf": 303,
+    "coarse8": 0,
+    "coarse32": 0,
+    "phys8": 0,
+    "phys32": 0
+  },
+  "timings": {
+    "hf": 46.99896599468775,
+    "coarse8": 0.0,
+    "coarse32": 0.0,
+    "phys8": 0.0,
+    "phys32": 0.0,
+    "input": 0.46403912059031427,
+    "training": 0.31064174976199865,
+    "validation": 0.051972832065075636,
+    "checkpoint": 0.0012514172121882439
+  },
+  "max_hf_residual": 9.978927643748338e-09,
+  "max_hf_iterations": 11,
+  "milestones": {
+    "60": {
+      "validation": 0.6654569897800684,
+      "selected_steps": 35,
+      "decision_ready": 48.91036679199897,
+      "counts": {
+        "hf": 303,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 46.99896599468775,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 0.46403912059031427,
+        "training": 0.31064174976199865,
+        "validation": 0.051972832065075636,
+        "checkpoint": 0.0012514172121882439
+      },
+      "steps_completed": 35
+    }
+  },
+  "export_seconds": 0.08789575006812811
+}

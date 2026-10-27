@@ -1,0 +1,14 @@
+{
+  "completed_at_utc": "2026-10-26T15:27:36.381799+00:00",
+  "primary_tuning": 21,
+  "formal_trajectories": 35,
+  "independent_training_units_per_arm": 5,
+  "dependent_budget_points": 70,
+  "timing_diagnostics": 2,
+  "all_caps_pass": true,
+  "all_frozen_sources_match": true,
+  "tracked_original_files_unchanged": 440,
+  "full_legacy_tree_immutability_claimed": false,
+  "legacy_derived_report_incident": "analysis_import_incident.json",
+  "manuscript_compilation": "success"
+}

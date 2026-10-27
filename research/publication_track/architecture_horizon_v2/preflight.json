@@ -1,0 +1,70 @@
+{
+  "architectures": {
+    "fno": {
+      "parameters": 532993,
+      "input_shape": [
+        2,
+        1,
+        129,
+        129
+      ],
+      "output_shape": [
+        2,
+        16641
+      ]
+    },
+    "deeponet": {
+      "parameters": 22560,
+      "input_shape": [
+        2,
+        1,
+        129,
+        129
+      ],
+      "output_shape": [
+        2,
+        16641
+      ]
+    }
+  },
+  "runs": [
+    {
+      "architecture": "fno",
+      "arm": "coarse32",
+      "wall": 13.196565832942724,
+      "steps": 18,
+      "initial_complete": true,
+      "max_hf_residual": 9.092771415631924e-09
+    },
+    {
+      "architecture": "fno",
+      "arm": "hf_online",
+      "wall": 14.020382041111588,
+      "steps": 6,
+      "initial_complete": true,
+      "max_hf_residual": 9.704794304754401e-09
+    },
+    {
+      "architecture": "deeponet",
+      "arm": "phys32",
+      "wall": 13.203560041962191,
+      "steps": 26,
+      "initial_complete": true,
+      "max_hf_residual": 9.092771415631924e-09
+    },
+    {
+      "architecture": "deeponet",
+      "arm": "hf128",
+      "wall": 33.51868395903148,
+      "steps": 1640,
+      "initial_complete": true,
+      "max_hf_residual": 9.619238348336706e-09
+    }
+  ],
+  "source_hashes": {
+    "/Volumes/MacShare/Something/research_q1_20261024/publication_track/architecture_horizon_v2/study_engine.py": "4cde297d0f17a859d058a5ae7b674604fa24a8b9e4d52199da0a09470ffcba6e",
+    "/Volumes/MacShare/Something/research_q1_20261024/publication_track/architecture_horizon_v2/study_analysis.py": "6520461001a4426a8f35e168a6f229d894d1aa921132918360c824306774a299",
+    "/Volumes/MacShare/Something/research_q1_20261024/publication_track/architecture_horizon_v2/study_pipeline.py": "24a3f6d39c93e4ad2b575cb06ddc45ca4b7dc81f526fff808e27f27b5c0783e7"
+  },
+  "passed": true
+}

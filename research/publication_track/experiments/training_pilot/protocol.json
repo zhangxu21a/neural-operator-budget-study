@@ -1,0 +1,41 @@
+{
+  "status": "prospective feasibility pilot",
+  "seeds": [
+    11
+  ],
+  "lr": 0.008,
+  "budget_seconds": 90,
+  "pool": 256,
+  "validation_size": 16,
+  "test_size": 32,
+  "initial_hf": 32,
+  "arms": [
+    "coarse",
+    "hf",
+    "phys_only"
+  ],
+  "scenarios": [
+    {
+      "name": "resolved",
+      "gain": 1,
+      "nc": 32,
+      "nf": 512
+    },
+    {
+      "name": "stress",
+      "gain": 2,
+      "nc": 8,
+      "nf": 512
+    }
+  ],
+  "source_sha256": "4b0348db507857f8b2162ce11e4580ba9fcfebb75dd6798e6861fd309176e85c",
+  "adaptation_max_absolute_errors": {
+    "coarse": 0.0,
+    "fine": 0.0,
+    "physics": 3.725290298461914e-09
+  },
+  "training_seed": 53001,
+  "validation_seed": 53002,
+  "test_seed": 53003,
+  "scope": "Extremes chosen after numerical screen; no isolated-factor or method superiority claim. Shared reference generation and post-run test evaluation excluded from per-run online budget and logged separately. No hyperparameter selection. Randomized serial arm order. Labels solved on 512 grid and restricted to 129 output; does not establish full-resolution operator accuracy."
+}

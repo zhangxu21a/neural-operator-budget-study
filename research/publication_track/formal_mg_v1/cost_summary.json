@@ -1,0 +1,51 @@
+[
+  {
+    "arm": "coarse8",
+    "label_seconds": 16.157032403163612,
+    "training_seconds": 143.4915873986203,
+    "steps": 387,
+    "ready": 168.65286124190317
+  },
+  {
+    "arm": "coarse32",
+    "label_seconds": 18.416053955024108,
+    "training_seconds": 141.38904535355977,
+    "steps": 381.8,
+    "ready": 168.75078549147582
+  },
+  {
+    "arm": "phys8",
+    "label_seconds": 86.75101093091071,
+    "training_seconds": 75.05389338610694,
+    "steps": 203.4,
+    "ready": 168.8273838916328
+  },
+  {
+    "arm": "phys32",
+    "label_seconds": 90.57009439491667,
+    "training_seconds": 71.549006266566,
+    "steps": 193,
+    "ready": 169.0557086498011
+  },
+  {
+    "arm": "hf_online",
+    "label_seconds": 125.2631048771087,
+    "training_seconds": 38.4087958491873,
+    "steps": 100.8,
+    "ready": 169.49126452491618
+  },
+  {
+    "arm": "hf32",
+    "label_seconds": 5.0526348411105575,
+    "training_seconds": 159.05891296667977,
+    "steps": 478,
+    "ready": 168.686292658234
+  },
+  {
+    "arm": "hf128",
+    "label_seconds": 20.015901127969848,
+    "training_seconds": 144.57386217312887,
+    "steps": 400.6,
+    "ready": 168.76258555823006
+  }
+]

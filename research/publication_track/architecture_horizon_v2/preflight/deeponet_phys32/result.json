@@ -1,0 +1,87 @@
+{
+  "started_at_unix": 1793030379.6006021,
+  "architecture": "deeponet",
+  "arm": "phys32",
+  "seed": 71,
+  "train_parameter_seed": 92071,
+  "lr": 0.002,
+  "phase": "smoke",
+  "pool": 256,
+  "budget": 25,
+  "wall": 13.203560041962191,
+  "nonfinite_loss": false,
+  "initial_complete": true,
+  "steps": 26,
+  "validation": 0.5581868309527636,
+  "counts": {
+    "hf": 32,
+    "coarse8": 0,
+    "coarse32": 0,
+    "phys8": 0,
+    "phys32": 128
+  },
+  "timings": {
+    "hf": 4.956586170010269,
+    "coarse8": 0.0,
+    "coarse32": 0.0,
+    "phys8": 0.0,
+    "phys32": 7.704214913304895,
+    "input": 0.24728733208030462,
+    "training": 0.19595696148462594,
+    "validation": 0.013834041776135564,
+    "checkpoint": 0.002513208193704486
+  },
+  "max_hf_residual": 9.092771415631924e-09,
+  "max_hf_iterations": 11,
+  "milestones": {
+    "15": {
+      "validation": 0.992123655974865,
+      "selected_steps": 0,
+      "decision_ready": 5.042544291820377,
+      "counts": {
+        "hf": 32,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 4.956586170010269,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 0.0,
+        "training": 0.0,
+        "validation": 0.009483708767220378,
+        "checkpoint": 0.0004599990788847208
+      },
+      "steps_completed": 0
+    },
+    "25": {
+      "validation": 0.5581868309527636,
+      "selected_steps": 26,
+      "decision_ready": 13.203556791879237,
+      "counts": {
+        "hf": 32,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 128
+      },
+      "timings": {
+        "hf": 4.956586170010269,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 7.704214913304895,
+        "input": 0.24728733208030462,
+        "training": 0.19595696148462594,
+        "validation": 0.013834041776135564,
+        "checkpoint": 0.002513208193704486
+      },
+      "steps_completed": 26
+    }
+  },
+  "export_seconds": 0.011181874899193645
+}

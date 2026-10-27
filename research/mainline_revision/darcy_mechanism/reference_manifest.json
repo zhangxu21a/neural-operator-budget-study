@@ -1,0 +1,9 @@
+{
+  "test_seed": 39191,
+  "test_count": 256,
+  "ood_seed": 39291,
+  "ood_count": 128,
+  "generation_seconds": 10.32025383412838,
+  "sha256": "21a1b7ccbb5990579d30e5309f74e056a4999caa019ac5d6c1516d1b5ec86901",
+  "use": "evaluation only; never training or hyperparameter selection"
+}

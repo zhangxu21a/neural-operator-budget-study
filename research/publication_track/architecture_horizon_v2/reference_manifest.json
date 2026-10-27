@@ -1,0 +1,22 @@
+{
+  "seconds": 37.42131487512961,
+  "splits": {
+    "validation": {
+      "seconds": 5.14134241710417,
+      "max_residual": 9.892536249826854e-09,
+      "max_iterations": 11
+    },
+    "test": {
+      "seconds": 20.429882042109966,
+      "max_residual": 9.96882530647033e-09,
+      "max_iterations": 11
+    },
+    "ood": {
+      "seconds": 10.152813374996185,
+      "max_residual": 9.726318993037324e-09,
+      "max_iterations": 11
+    }
+  },
+  "sha256": "1bf77e0def7fb75fd54b27fdb034d019bbf4961376efb1ddf10a80d4f5cc2ae6",
+  "budget_exclusion": true
+}

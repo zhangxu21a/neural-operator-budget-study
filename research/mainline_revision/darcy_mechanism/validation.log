@@ -1,0 +1,9 @@
+{"method": "data", "warmup_seconds": 0, "rate_policy": "adaptive", "arch": "fno", "seed": 71, "budget": 30, "wall": 16.27668762509711, "steps": 33, "fine": 41, "val": 0.13498316967161372}
+{"method": "gradient", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 71, "budget": 30, "wall": 16.119216166902333, "steps": 34, "fine": 53, "val": 0.12257742241490632}
+{"method": "uniform", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 71, "budget": 30, "wall": 16.351126707857475, "steps": 35, "fine": 52, "val": 0.12696187681285664}
+{"method": "field", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 71, "budget": 30, "wall": 16.413061250001192, "steps": 35, "fine": 53, "val": 0.13212412112625316}
+{"method": "pretrain", "warmup_seconds": 4, "rate_policy": "none", "arch": "fno", "seed": 71, "budget": 30, "wall": 16.300740292062983, "steps": 34, "fine": 64, "val": 0.11426393873989582}
+{"method": "hf", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 71, "budget": 30, "wall": 16.263418375048786, "steps": 34, "fine": 64, "val": 0.11921943409834057}
+{"method": "phys_only", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 71, "budget": 30, "wall": 16.46230770787224, "steps": 36, "fine": 32, "val": 0.1300977289211005}
+{"method": "author_mlmc", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 71, "budget": 30, "wall": 16.32199149997905, "steps": 55, "fine": 64, "val": 0.10823186597554013}
+ALL VALIDATIONS AND REAL TRAINING SMOKES PASSED

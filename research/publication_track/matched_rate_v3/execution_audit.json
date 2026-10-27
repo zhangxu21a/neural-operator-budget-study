@@ -1,0 +1,166 @@
+{
+  "runs": [
+    {
+      "run": "coarse32_lr0.002_s2101",
+      "samples": 116,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 589.551404792117,
+      "unattributed_wall": 9.019032600801438
+    },
+    {
+      "run": "coarse32_lr0.002_s2202",
+      "samples": 117,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 589.3238510419615,
+      "unattributed_wall": 7.790014935424551
+    },
+    {
+      "run": "coarse32_lr0.002_s2303",
+      "samples": 116,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 589.2906265419442,
+      "unattributed_wall": 6.822889862349257
+    },
+    {
+      "run": "coarse32_lr0.002_s2404",
+      "samples": 117,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 588.6393750000279,
+      "unattributed_wall": 5.370128733571619
+    },
+    {
+      "run": "coarse32_lr0.002_s2505",
+      "samples": 116,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 588.6244158749469,
+      "unattributed_wall": 4.079031178262085
+    },
+    {
+      "run": "coarse32_lr0.008_s2101",
+      "samples": 117,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 589.6347921669949,
+      "unattributed_wall": 6.566125779878348
+    },
+    {
+      "run": "coarse32_lr0.008_s2202",
+      "samples": 117,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 588.6420687921345,
+      "unattributed_wall": 3.911584448767826
+    },
+    {
+      "run": "coarse32_lr0.008_s2303",
+      "samples": 117,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 589.3573507079855,
+      "unattributed_wall": 5.0175525362137705
+    },
+    {
+      "run": "coarse32_lr0.008_s2404",
+      "samples": 117,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 589.1455890000798,
+      "unattributed_wall": 8.644792805425823
+    },
+    {
+      "run": "coarse32_lr0.008_s2505",
+      "samples": 117,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 588.9563293750398,
+      "unattributed_wall": 4.6313796292524785
+    },
+    {
+      "run": "phys32_lr0.002_s2101",
+      "samples": 117,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 589.4890127500985,
+      "unattributed_wall": 5.620827696053311
+    },
+    {
+      "run": "phys32_lr0.002_s2202",
+      "samples": 116,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 588.7504550828598,
+      "unattributed_wall": 5.03922136942856
+    },
+    {
+      "run": "phys32_lr0.002_s2303",
+      "samples": 117,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 588.8495718748309,
+      "unattributed_wall": 4.2683763657696545
+    },
+    {
+      "run": "phys32_lr0.002_s2404",
+      "samples": 117,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 589.4999309999403,
+      "unattributed_wall": 7.327876188093796
+    },
+    {
+      "run": "phys32_lr0.002_s2505",
+      "samples": 116,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 588.7221623749938,
+      "unattributed_wall": 5.307930303737521
+    },
+    {
+      "run": "phys32_lr0.008_s2101",
+      "samples": 117,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 589.6476970829535,
+      "unattributed_wall": 7.800068534445018
+    },
+    {
+      "run": "phys32_lr0.008_s2202",
+      "samples": 116,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 589.5036227500532,
+      "unattributed_wall": 5.943744835909456
+    },
+    {
+      "run": "phys32_lr0.008_s2303",
+      "samples": 117,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 589.327135541942,
+      "unattributed_wall": 8.7410320607014
+    },
+    {
+      "run": "phys32_lr0.008_s2404",
+      "samples": 116,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 589.2650882080197,
+      "unattributed_wall": 7.128489502239972
+    },
+    {
+      "run": "phys32_lr0.008_s2505",
+      "samples": 117,
+      "flagged_samples": 0,
+      "flagged_details": [],
+      "wall": 589.6524734578561,
+      "unattributed_wall": 4.82704123808071
+    }
+  ],
+  "flagged_runs": 0,
+  "scope": "Python observations cannot certify whole-host or thermal isolation; no flagged runs removed."
+}

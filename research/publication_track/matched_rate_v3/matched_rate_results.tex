@@ -1,0 +1,51 @@
+\section{Matched-learning-rate follow-up}
+
+The prior FNO comparison selected learning rates 0.002 for coarse targets and 0.008 for corrected targets. We therefore fix both rates in a complete two-by-two comparison of coarse32 and corrected32. Each cell has five new paired training pools and optimization seeds, with a fresh validation/ID/OOD reference set (32/128/64 inputs). Twenty trajectories run from scratch to 600 seconds and contain dependent 120/180/360-second checkpoints. All numerical targets, architectures, optimizer schedules, initialization labels, sensor/output grids, and accounting rules use the frozen follow-up engine. There is no new hyperparameter search or test-based rate selection; both rate-specific outcomes are reported. The existing DeepONet coarse/corrected comparison already matched rate 0.008 and is not rerun.
+
+\begin{table}[ht]\centering\small
+
+\caption{Matched-rate FNO results. ID errors are percentages (mean $\pm$ sample SD). Differences are paired corrected-minus-coarse percentage points; negative values favor correction.}
+
+\begin{tabular}{rrllrr}\toprule LR & Cap (s) & Coarse ID & Corrected ID & Difference & Wins\\\midrule
+
+0.002 & 180 & $17.086\pm0.863$ & $17.915\pm1.159$ & 0.829 & 2/5\\
+
+0.002 & 360 & $14.688\pm0.884$ & $15.474\pm1.053$ & 0.786 & 2/5\\
+
+0.002 & 600 & $13.994\pm0.643$ & $13.792\pm1.025$ & -0.202 & 3/5\\
+
+0.008 & 180 & $19.435\pm2.545$ & $18.976\pm1.518$ & -0.460 & 3/5\\
+
+0.008 & 360 & $16.928\pm2.731$ & $15.614\pm2.493$ & -1.314 & 3/5\\
+
+0.008 & 600 & $15.726\pm2.413$ & $13.811\pm2.161$ & -1.915 & 5/5\\
+
+\bottomrule\end{tabular}\end{table}
+
+\paragraph{Paired effects and uncertainty.} The following approximate paired Student-$t$ intervals use five training units and are not multiplicity-adjusted. Five non-tied pairs have minimum exact two-sided sign-test $p=0.0625$.
+
+Rate 0.002, 180 s, ID: corrected-minus-coarse 0.829 percentage points, interval [-1.292, 2.949], correction favored in 2/5 pairs.\par
+
+Rate 0.002, 180 s, OOD: corrected-minus-coarse 1.731 percentage points, interval [-0.786, 4.249], correction favored in 1/5 pairs.\par
+
+Rate 0.008, 180 s, ID: corrected-minus-coarse -0.460 percentage points, interval [-3.835, 2.916], correction favored in 3/5 pairs.\par
+
+Rate 0.008, 180 s, OOD: corrected-minus-coarse -0.743 percentage points, interval [-3.896, 2.411], correction favored in 3/5 pairs.\par
+
+Rate 0.002, 600 s, ID: corrected-minus-coarse -0.202 percentage points, interval [-1.444, 1.040], correction favored in 3/5 pairs.\par
+
+Rate 0.002, 600 s, OOD: corrected-minus-coarse -0.542 percentage points, interval [-1.504, 0.420], correction favored in 4/5 pairs.\par
+
+Rate 0.008, 600 s, ID: corrected-minus-coarse -1.915 percentage points, interval [-3.362, -0.467], correction favored in 5/5 pairs.\par
+
+Rate 0.008, 600 s, OOD: corrected-minus-coarse -2.295 percentage points, interval [-3.733, -0.857], correction favored in 5/5 pairs.\par
+
+\paragraph{Rate sensitivity.} The difference between the two rate-specific correction contrasts is reported without choosing a preferred rate after testing.
+
+At 180 s, the ID difference-of-differences (rate 0.008 minus 0.002) is -1.288 percentage points, approximate interval [-3.831, 1.254].
+
+At 600 s, the ID difference-of-differences (rate 0.008 minus 0.002) is -1.712 percentage points, approximate interval [-3.526, 0.101].
+
+Matching the rate removes this particular configuration difference but does not isolate correction bias from its numerical cost and the resulting number of updates. These remain budget-policy comparisons, not a pure causal estimate of label fidelity. New evaluation inputs prevent pooling these runs with earlier cohorts. All adverse outcomes remain in the release.
+
+\begin{figure}[ht]\centering\includegraphics[width=\linewidth]{images/matched_rate.pdf}\caption{Matched-rate FNO comparisons. Bold curves are means; faint curves are the five individual trajectories. Both panels share a vertical scale. Within-trajectory checkpoints are dependent.}\end{figure}

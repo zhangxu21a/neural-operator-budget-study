@@ -1,0 +1,654 @@
+{
+  "runs": [
+    {
+      "phase": "tuning",
+      "run": "deeponet_coarse32_lr0.0005",
+      "observations": 9,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.55833058292046,
+      "unattributed_wall": 0.665837389184162
+    },
+    {
+      "phase": "tuning",
+      "run": "deeponet_coarse32_lr0.002",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.02555987494998,
+      "unattributed_wall": 0.5925681546796113
+    },
+    {
+      "phase": "tuning",
+      "run": "deeponet_coarse32_lr0.008",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.53445699997246,
+      "unattributed_wall": 1.140916911419481
+    },
+    {
+      "phase": "tuning",
+      "run": "deeponet_hf128_lr0.0005",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.523310999851674,
+      "unattributed_wall": 0.6565398189704865
+    },
+    {
+      "phase": "tuning",
+      "run": "deeponet_hf128_lr0.002",
+      "observations": 9,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.22685666708276,
+      "unattributed_wall": 0.3747464397456497
+    },
+    {
+      "phase": "tuning",
+      "run": "deeponet_hf128_lr0.008",
+      "observations": 9,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.02889637509361,
+      "unattributed_wall": 0.16857510316185653
+    },
+    {
+      "phase": "tuning",
+      "run": "deeponet_hf32_lr0.0005",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.022777041886,
+      "unattributed_wall": 0.7195188668556511
+    },
+    {
+      "phase": "tuning",
+      "run": "deeponet_hf32_lr0.002",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.7120239159558,
+      "unattributed_wall": 1.6541548324748874
+    },
+    {
+      "phase": "tuning",
+      "run": "deeponet_hf32_lr0.008",
+      "observations": 9,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.02568291616626,
+      "unattributed_wall": 0.8006273212376982
+    },
+    {
+      "phase": "tuning",
+      "run": "deeponet_hf_online_lr0.0005",
+      "observations": 9,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.91037233406678,
+      "unattributed_wall": 1.0835012197494507
+    },
+    {
+      "phase": "tuning",
+      "run": "deeponet_hf_online_lr0.002",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 49.09033199981786,
+      "unattributed_wall": 0.5652143678162247
+    },
+    {
+      "phase": "tuning",
+      "run": "deeponet_hf_online_lr0.008",
+      "observations": 9,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.59554195799865,
+      "unattributed_wall": 1.0972964609973133
+    },
+    {
+      "phase": "tuning",
+      "run": "deeponet_phys32_lr0.0005",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.601958416868,
+      "unattributed_wall": 1.06627385946922
+    },
+    {
+      "phase": "tuning",
+      "run": "deeponet_phys32_lr0.002",
+      "observations": 9,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.28176837484352,
+      "unattributed_wall": 0.5574512896127999
+    },
+    {
+      "phase": "tuning",
+      "run": "deeponet_phys32_lr0.008",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.85278824996203,
+      "unattributed_wall": 1.2161092916503549
+    },
+    {
+      "phase": "tuning",
+      "run": "fno_coarse32_lr0.002",
+      "observations": 9,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 49.09401458292268,
+      "unattributed_wall": 0.5827181048225611
+    },
+    {
+      "phase": "tuning",
+      "run": "fno_coarse32_lr0.008",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 49.39622512506321,
+      "unattributed_wall": 0.5440063641872257
+    },
+    {
+      "phase": "tuning",
+      "run": "fno_coarse32_lr0.032",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.632787459064275,
+      "unattributed_wall": 0.5505037924740463
+    },
+    {
+      "phase": "tuning",
+      "run": "fno_hf128_lr0.002",
+      "observations": 9,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 49.09055245784111,
+      "unattributed_wall": 0.5462279210332781
+    },
+    {
+      "phase": "tuning",
+      "run": "fno_hf128_lr0.008",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 49.197298916988075,
+      "unattributed_wall": 0.5536138319876045
+    },
+    {
+      "phase": "tuning",
+      "run": "fno_hf128_lr0.032",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 49.37947620800696,
+      "unattributed_wall": 0.5438805278390646
+    },
+    {
+      "phase": "tuning",
+      "run": "fno_hf_online_lr0.002",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 50.037813666975126,
+      "unattributed_wall": 0.543735419632867
+    },
+    {
+      "phase": "tuning",
+      "run": "fno_hf_online_lr0.008",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 49.56746295816265,
+      "unattributed_wall": 0.5908782030455768
+    },
+    {
+      "phase": "tuning",
+      "run": "fno_hf_online_lr0.032",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.884759083157405,
+      "unattributed_wall": 0.09146484662778676
+    },
+    {
+      "phase": "tuning",
+      "run": "fno_phys32_lr0.002",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 49.62306650006212,
+      "unattributed_wall": 1.0481041276361793
+    },
+    {
+      "phase": "tuning",
+      "run": "fno_phys32_lr0.008",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 48.92517716716975,
+      "unattributed_wall": 0.5476724167820066
+    },
+    {
+      "phase": "tuning",
+      "run": "fno_phys32_lr0.032",
+      "observations": 10,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 49.139818832976744,
+      "unattributed_wall": 1.0463547522667795
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_coarse32_s1101",
+      "observations": 34,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.0269767078571,
+      "unattributed_wall": 3.103272477397695
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_coarse32_s1202",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.52725041587837,
+      "unattributed_wall": 3.991056099301204
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_coarse32_s1303",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.5311987500172,
+      "unattributed_wall": 4.202265151543543
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_coarse32_s1404",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.55152179091237,
+      "unattributed_wall": 1.7652167703490704
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_coarse32_s1505",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.02662604185753,
+      "unattributed_wall": 3.159442211035639
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_hf128_s1101",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.53605862520635,
+      "unattributed_wall": 2.7411271543242037
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_hf128_s1202",
+      "observations": 34,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.53699241694994,
+      "unattributed_wall": 1.705292496131733
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_hf128_s1303",
+      "observations": 34,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.02930416702293,
+      "unattributed_wall": 0.6890196783933789
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_hf128_s1404",
+      "observations": 34,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.53853762499057,
+      "unattributed_wall": 3.2569378360640258
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_hf128_s1505",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.54206654196605,
+      "unattributed_wall": 3.224098584149033
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_hf32_s1101",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.02419533394277,
+      "unattributed_wall": 3.4598744129762053
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_hf32_s1202",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.02626029099338,
+      "unattributed_wall": 3.2790935803204775
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_hf32_s1303",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.53154683299363,
+      "unattributed_wall": 4.332773397210985
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_hf32_s1404",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.0273265419528,
+      "unattributed_wall": 3.319844369776547
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_hf32_s1505",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.52978162490763,
+      "unattributed_wall": 1.3216858860105276
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_hf_online_s1101",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 169.11423041601665,
+      "unattributed_wall": 3.1374415706377476
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_hf_online_s1202",
+      "observations": 34,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.0511496248655,
+      "unattributed_wall": 3.1805209261365235
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_hf_online_s1303",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.60046275006607,
+      "unattributed_wall": 3.525525569682941
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_hf_online_s1404",
+      "observations": 34,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 169.4373532498721,
+      "unattributed_wall": 3.862657079938799
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_hf_online_s1505",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.26893620821647,
+      "unattributed_wall": 2.6620672901626676
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_phys32_s1101",
+      "observations": 34,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.8228194580879,
+      "unattributed_wall": 1.9489671199116856
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_phys32_s1202",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.19130270881578,
+      "unattributed_wall": 2.0474477177485824
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_phys32_s1303",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.5921891250182,
+      "unattributed_wall": 2.1316230695229024
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_phys32_s1404",
+      "observations": 33,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.14061887492426,
+      "unattributed_wall": 2.2964518077205867
+    },
+    {
+      "phase": "formal",
+      "run": "deeponet_phys32_s1505",
+      "observations": 34,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 168.20112187508494,
+      "unattributed_wall": 2.8247137817088515
+    },
+    {
+      "phase": "formal",
+      "run": "fno_coarse32_s1101",
+      "observations": 117,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 589.125388750108,
+      "unattributed_wall": 8.293867924250662
+    },
+    {
+      "phase": "formal",
+      "run": "fno_coarse32_s1202",
+      "observations": 117,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 588.6508300409187,
+      "unattributed_wall": 5.421343234367669
+    },
+    {
+      "phase": "formal",
+      "run": "fno_coarse32_s1303",
+      "observations": 116,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 588.7430610000156,
+      "unattributed_wall": 9.705164031358436
+    },
+    {
+      "phase": "formal",
+      "run": "fno_coarse32_s1404",
+      "observations": 116,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 588.8840234589297,
+      "unattributed_wall": 4.5635497234761715
+    },
+    {
+      "phase": "formal",
+      "run": "fno_coarse32_s1505",
+      "observations": 117,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 589.1222243749071,
+      "unattributed_wall": 8.364744837395847
+    },
+    {
+      "phase": "formal",
+      "run": "fno_hf128_s1101",
+      "observations": 116,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 589.1222659170162,
+      "unattributed_wall": 5.048640149878338
+    },
+    {
+      "phase": "formal",
+      "run": "fno_hf128_s1202",
+      "observations": 117,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 589.1340984171256,
+      "unattributed_wall": 5.248703595483676
+    },
+    {
+      "phase": "formal",
+      "run": "fno_hf128_s1303",
+      "observations": 116,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 588.8870615828782,
+      "unattributed_wall": 6.951229225611314
+    },
+    {
+      "phase": "formal",
+      "run": "fno_hf128_s1404",
+      "observations": 117,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 589.1521702080499,
+      "unattributed_wall": 6.701014347374439
+    },
+    {
+      "phase": "formal",
+      "run": "fno_hf128_s1505",
+      "observations": 117,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 588.6023216661997,
+      "unattributed_wall": 7.025924098212272
+    },
+    {
+      "phase": "formal",
+      "run": "fno_hf_online_s1101",
+      "observations": 116,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 588.7845646250062,
+      "unattributed_wall": 6.723138192668557
+    },
+    {
+      "phase": "formal",
+      "run": "fno_hf_online_s1202",
+      "observations": 117,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 589.9068210418336,
+      "unattributed_wall": 7.845003708731383
+    },
+    {
+      "phase": "formal",
+      "run": "fno_hf_online_s1303",
+      "observations": 117,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 589.3076347499155,
+      "unattributed_wall": 7.474305621348321
+    },
+    {
+      "phase": "formal",
+      "run": "fno_hf_online_s1404",
+      "observations": 116,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 589.2632530829869,
+      "unattributed_wall": 6.975089209387079
+    },
+    {
+      "phase": "formal",
+      "run": "fno_hf_online_s1505",
+      "observations": 117,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 589.1361332919914,
+      "unattributed_wall": 7.799006374785677
+    },
+    {
+      "phase": "formal",
+      "run": "fno_phys32_s1101",
+      "observations": 116,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 589.0153192498256,
+      "unattributed_wall": 6.8886457399930805
+    },
+    {
+      "phase": "formal",
+      "run": "fno_phys32_s1202",
+      "observations": 116,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 589.1034152500797,
+      "unattributed_wall": 8.06679402384907
+    },
+    {
+      "phase": "formal",
+      "run": "fno_phys32_s1303",
+      "observations": 117,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 588.9233768749982,
+      "unattributed_wall": 5.99268861557357
+    },
+    {
+      "phase": "formal",
+      "run": "fno_phys32_s1404",
+      "observations": 117,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 589.039116458036,
+      "unattributed_wall": 5.82167968689464
+    },
+    {
+      "phase": "formal",
+      "run": "fno_phys32_s1505",
+      "observations": 116,
+      "flagged_observations": 0,
+      "competing_details": [],
+      "wall": 589.5700527078006,
+      "unattributed_wall": 7.778327087406069
+    }
+  ],
+  "flagged_runs": 0,
+  "caveat": "Five-second Python process observations do not certify whole-host or thermal isolation. No flagged run removed."
+}

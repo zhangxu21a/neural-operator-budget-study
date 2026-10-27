@@ -1,0 +1,258 @@
+{"method": "pretrain", "warmup_seconds": 30, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.17608408397064, "steps": 327, "fine": 1345, "val": 0.03427923924755305}
+{"method": "hf", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.3643980419729, "steps": 322, "fine": 1486, "val": 0.10189465677831322}
+{"method": "field", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.27294233301654, "steps": 371, "fine": 645, "val": 0.03366879143868573}
+{"method": "author_mlmc", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.24992829211988, "steps": 523, "fine": 1564, "val": 0.5549086378887296}
+{"method": "phys_only", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.12043237499893, "steps": 385, "fine": 32, "val": 0.03008502462762408}
+{"method": "data", "warmup_seconds": 0, "rate_policy": "adaptive", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.50643924996257, "steps": 346, "fine": 942, "val": 0.04079129779711366}
+{"method": "gradient", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.4676912080031, "steps": 369, "fine": 636, "val": 0.03911729939864017}
+{"method": "field", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.37705854186788, "steps": 372, "fine": 645, "val": 0.09158957679755986}
+{"method": "phys_only", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.13749512494542, "steps": 385, "fine": 32, "val": 0.09805352811235934}
+{"method": "author_mlmc", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.1263620830141, "steps": 519, "fine": 1563, "val": 0.03489023394649848}
+{"method": "gradient", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.34131045802496, "steps": 366, "fine": 642, "val": 0.03496576065663248}
+{"method": "pretrain", "warmup_seconds": 120, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.2438982091844, "steps": 375, "fine": 589, "val": 0.03295062651159242}
+{"method": "phys_only", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.42344566690736, "steps": 386, "fine": 32, "val": 0.033355361796566285}
+{"method": "uniform", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.41469487501308, "steps": 370, "fine": 649, "val": 0.032055238509201445}
+{"method": "field", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.11668287497014, "steps": 371, "fine": 643, "val": 0.04321294548572041}
+{"method": "pretrain", "warmup_seconds": 120, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.17210704204626, "steps": 376, "fine": 586, "val": 0.030973685483331792}
+{"method": "data", "warmup_seconds": 0, "rate_policy": "adaptive", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.17928116722032, "steps": 355, "fine": 779, "val": 0.033577782014617696}
+{"method": "hf", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.31996262492612, "steps": 321, "fine": 1485, "val": 0.037276041199220344}
+{"method": "gradient", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.33564066584222, "steps": 366, "fine": 641, "val": 0.033993587392615154}
+{"method": "uniform", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.15423941705376, "steps": 370, "fine": 649, "val": 0.03432685926964041}
+{"method": "hf", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.15686183306389, "steps": 322, "fine": 1486, "val": 0.031708675538538955}
+{"method": "uniform", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.40108999982476, "steps": 371, "fine": 650, "val": 0.03812017512973398}
+{"method": "hf", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.34004295780323, "steps": 323, "fine": 1488, "val": 0.033117908431449905}
+{"method": "phys_only", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.3039015000686, "steps": 388, "fine": 32, "val": 0.0376411936013028}
+{"method": "data", "warmup_seconds": 0, "rate_policy": "adaptive", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.22017858317122, "steps": 365, "fine": 619, "val": 0.09981735068140551}
+{"method": "data", "warmup_seconds": 0, "rate_policy": "adaptive", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.36167000001296, "steps": 368, "fine": 582, "val": 0.03879696206422523}
+{"method": "pretrain", "warmup_seconds": 30, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.31908216699958, "steps": 329, "fine": 1347, "val": 0.03739445139945019}
+{"method": "pretrain", "warmup_seconds": 30, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.34572787513025, "steps": 330, "fine": 1346, "val": 0.03362650804047007}
+{"method": "data", "warmup_seconds": 0, "rate_policy": "adaptive", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.16369970911182, "steps": 356, "fine": 772, "val": 0.03109439290710725}
+{"method": "data", "warmup_seconds": 0, "rate_policy": "adaptive", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.16364141600206, "steps": 335, "fine": 1120, "val": 0.03476924172719009}
+{"method": "field", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.2051716670394, "steps": 372, "fine": 645, "val": 0.03194181223807391}
+{"method": "hf", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.44800041709095, "steps": 324, "fine": 1489, "val": 0.04142317749210633}
+{"method": "field", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.20490262494422, "steps": 371, "fine": 645, "val": 0.03956717604887672}
+{"method": "gradient", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.52132054185495, "steps": 364, "fine": 643, "val": 0.04460607859073207}
+{"method": "author_mlmc", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.23898583417758, "steps": 519, "fine": 1563, "val": 0.05284862368716858}
+{"method": "uniform", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.34280933393165, "steps": 369, "fine": 649, "val": 0.046542480849893764}
+{"method": "author_mlmc", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.25629208306782, "steps": 520, "fine": 1563, "val": 0.035593621505540796}
+{"method": "uniform", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.4450702080503, "steps": 366, "fine": 647, "val": 0.032111013104440644}
+{"method": "phys_only", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.2412537909113, "steps": 388, "fine": 32, "val": 0.04970646381843835}
+{"method": "author_mlmc", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.2378019168973, "steps": 518, "fine": 1563, "val": 0.04214911052258685}
+{"method": "uniform", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.35336195793934, "steps": 374, "fine": 654, "val": 0.08912618830800056}
+{"method": "pretrain", "warmup_seconds": 120, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.13101704209112, "steps": 378, "fine": 592, "val": 0.03139197491691448}
+{"method": "hf", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.31697554211132, "steps": 327, "fine": 1494, "val": 0.04743911369587295}
+{"method": "field", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.2153958331328, "steps": 377, "fine": 649, "val": 0.03362065499823075}
+{"method": "gradient", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.49546220805496, "steps": 373, "fine": 641, "val": 0.09657155384775251}
+{"method": "gradient", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.28595033288002, "steps": 372, "fine": 645, "val": 0.03478540487412829}
+{"method": "author_mlmc", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.3333839168772, "steps": 534, "fine": 1573, "val": 0.03912126398063265}
+{"method": "phys_only", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 101, "budget": 180, "wall": 166.44716754206456, "steps": 395, "fine": 32, "val": 0.03295664009056054}
+{"method": "author_mlmc", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 11, "budget": 1200, "wall": 1186.2858424999285, "steps": 5131, "fine": 2048, "val": 0.018085921044985298}
+{"evaluated": "author_mlmc_lr0.004_seed11_warm0", "test": {"300": 0.025418455763428938, "1200": 0.017511194901089766}}
+{"method": "field", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 22, "budget": 1200, "wall": 1186.21585245803, "steps": 3061, "fine": 1945, "val": 0.01614041336142691}
+{"evaluated": "field_lr0.008_seed22_warm0", "test": {"300": 0.029927598719950765, "1200": 0.016379281330955564}}
+{"method": "phys_only", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 22, "budget": 1200, "wall": 1186.4289764999412, "steps": 3167, "fine": 32, "val": 0.01489271191530861}
+{"evaluated": "phys_only_lr0.008_seed22_warm0", "test": {"300": 0.023150109831476584, "1200": 0.014898698156684986}}
+{"method": "author_mlmc", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 22, "budget": 1200, "wall": 1186.1376844581682, "steps": 5227, "fine": 2048, "val": 0.019303317545563914}
+{"evaluated": "author_mlmc_lr0.004_seed22_warm0", "test": {"300": 0.028821052805142244, "1200": 0.019487794234009925}}
+{"method": "uniform", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 33, "budget": 1200, "wall": 1186.1727660000324, "steps": 3068, "fine": 1953, "val": 0.016368073840567376}
+{"evaluated": "uniform_lr0.008_seed33_warm0", "test": {"300": 0.028824126300605712, "1200": 0.016540444508791552}}
+{"method": "gradient", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 22, "budget": 1200, "wall": 1186.2494640001096, "steps": 3051, "fine": 1935, "val": 0.01646111810259754}
+{"evaluated": "gradient_lr0.008_seed22_warm0", "test": {"300": 0.0262213571331813, "1200": 0.016189102731004823}}
+{"method": "field", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 11, "budget": 1200, "wall": 1186.3663352499716, "steps": 3065, "fine": 1942, "val": 0.016021820330934133}
+{"evaluated": "field_lr0.008_seed11_warm0", "test": {"300": 0.02705092834366951, "1200": 0.015171727500273846}}
+{"method": "phys_only", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 33, "budget": 1200, "wall": 1186.3305031249765, "steps": 3162, "fine": 32, "val": 0.015331283197156154}
+{"evaluated": "phys_only_lr0.008_seed33_warm0", "test": {"300": 0.024771560809313087, "1200": 0.015528539594015456}}
+{"method": "pretrain", "warmup_seconds": 120, "rate_policy": "none", "arch": "fno", "seed": 11, "budget": 1200, "wall": 1186.152524374891, "steps": 3061, "fine": 2048, "val": 0.016637031534628477}
+{"evaluated": "pretrain_lr0.016_seed11_warm120", "test": {"300": 0.02556492292933399, "1200": 0.01663659530277073}}
+{"method": "field", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 33, "budget": 1200, "wall": 1186.3557522920892, "steps": 3068, "fine": 1946, "val": 0.016683051420841366}
+{"evaluated": "field_lr0.008_seed33_warm0", "test": {"300": 0.03409397714858642, "1200": 0.01628908769816917}}
+{"method": "uniform", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 22, "budget": 1200, "wall": 1186.1982399998233, "steps": 3068, "fine": 1932, "val": 0.0158915999927558}
+{"evaluated": "uniform_lr0.008_seed22_warm0", "test": {"300": 0.025139410343399504, "1200": 0.015213070995741873}}
+{"method": "data", "warmup_seconds": 0, "rate_policy": "adaptive", "arch": "fno", "seed": 33, "budget": 1200, "wall": 1186.277237250004, "steps": 3038, "fine": 2048, "val": 0.015928026623441838}
+{"evaluated": "data_lr0.008_seed33_warm0", "test": {"300": 0.026718602875916986, "1200": 0.01598805900903244}}
+{"method": "gradient", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 11, "budget": 1200, "wall": 1186.0855003329925, "steps": 3047, "fine": 1947, "val": 0.016606583791144658}
+{"evaluated": "gradient_lr0.004_seed11_warm0", "test": {"300": 0.02516943386035564, "1200": 0.01632501032690925}}
+{"method": "hf", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 22, "budget": 1200, "wall": 1186.2300490420312, "steps": 3071, "fine": 2048, "val": 0.015671575238229707}
+{"evaluated": "hf_lr0.008_seed22_warm0", "test": {"300": 0.02658772644281271, "1200": 0.015533883813986904}}
+{"method": "uniform", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 22, "budget": 1200, "wall": 1186.2406052090228, "steps": 3068, "fine": 1932, "val": 0.01821429093979532}
+{"evaluated": "uniform_lr0.016_seed22_warm0", "test": {"300": 0.027484652488055872, "1200": 0.018168568256442086}}
+{"method": "data", "warmup_seconds": 0, "rate_policy": "adaptive", "arch": "fno", "seed": 11, "budget": 1200, "wall": 1186.2824178331066, "steps": 3043, "fine": 2048, "val": 0.014773049944778904}
+{"evaluated": "data_lr0.008_seed11_warm0", "test": {"300": 0.024993538325361442, "1200": 0.01482511106041784}}
+{"method": "pretrain", "warmup_seconds": 120, "rate_policy": "none", "arch": "fno", "seed": 22, "budget": 1200, "wall": 1186.0963581670076, "steps": 3064, "fine": 2048, "val": 0.017221726753632538}
+{"evaluated": "pretrain_lr0.016_seed22_warm120", "test": {"300": 0.025825004391663242, "1200": 0.017412013821740402}}
+{"method": "hf", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 11, "budget": 1200, "wall": 1186.172966666054, "steps": 3070, "fine": 2048, "val": 0.014706025118357502}
+{"evaluated": "hf_lr0.008_seed11_warm0", "test": {"300": 0.023786846657458227, "1200": 0.014204009477907675}}
+{"method": "data", "warmup_seconds": 0, "rate_policy": "adaptive", "arch": "fno", "seed": 22, "budget": 1200, "wall": 1186.1507098339498, "steps": 3041, "fine": 2048, "val": 0.015522841895290185}
+{"evaluated": "data_lr0.008_seed22_warm0", "test": {"300": 0.024641927710035816, "1200": 0.015423421094965306}}
+{"method": "pretrain", "warmup_seconds": 120, "rate_policy": "none", "arch": "fno", "seed": 33, "budget": 1200, "wall": 1186.2878894580062, "steps": 3066, "fine": 2048, "val": 0.017750246137438808}
+{"evaluated": "pretrain_lr0.016_seed33_warm120", "test": {"300": 0.026560766160400817, "1200": 0.01736800105391012}}
+{"method": "gradient", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 22, "budget": 1200, "wall": 1186.1107725000475, "steps": 3051, "fine": 1928, "val": 0.017800416360842064}
+{"evaluated": "gradient_lr0.004_seed22_warm0", "test": {"300": 0.026594648865284398, "1200": 0.017208371144079138}}
+{"method": "phys_only", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 11, "budget": 1200, "wall": 1186.3148162087891, "steps": 3164, "fine": 32, "val": 0.014721384017320815}
+{"evaluated": "phys_only_lr0.008_seed11_warm0", "test": {"300": 0.022900990436028223, "1200": 0.01419634283047344}}
+{"method": "gradient", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 11, "budget": 1200, "wall": 1186.1172022498213, "steps": 3028, "fine": 1926, "val": 0.015439879331097472}
+{"evaluated": "gradient_lr0.008_seed11_warm0", "test": {"300": 0.026145817744691158, "1200": 0.01523131380781706}}
+{"method": "gradient", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 33, "budget": 1200, "wall": 1186.3337812081445, "steps": 3043, "fine": 1945, "val": 0.01626678980392171}
+{"evaluated": "gradient_lr0.008_seed33_warm0", "test": {"300": 0.02957889212484588, "1200": 0.01624218917459075}}
+{"method": "author_mlmc", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 33, "budget": 1200, "wall": 1186.1728538339958, "steps": 5057, "fine": 2048, "val": 0.018478434365533758}
+{"evaluated": "author_mlmc_lr0.004_seed33_warm0", "test": {"300": 0.027208723204239504, "1200": 0.01811157146403275}}
+{"method": "uniform", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 11, "budget": 1200, "wall": 1186.2016563331708, "steps": 2963, "fine": 1934, "val": 0.015876006400503684}
+{"evaluated": "uniform_lr0.008_seed11_warm0", "test": {"300": 0.025808702994254418, "1200": 0.015516505012783455}}
+{"method": "uniform", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 33, "budget": 1200, "wall": 1186.3621404580772, "steps": 2940, "fine": 1936, "val": 0.018436234509863425}
+{"evaluated": "uniform_lr0.016_seed33_warm0", "test": {"300": 0.02632995838939678, "1200": 0.017664366296230583}}
+{"method": "uniform", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 11, "budget": 1200, "wall": 1186.3829870000482, "steps": 2935, "fine": 1925, "val": 0.018022564458078705}
+{"evaluated": "uniform_lr0.016_seed11_warm0", "test": {"300": 0.029191111847467255, "1200": 0.018125078349839896}}
+{"method": "gradient", "warmup_seconds": 0, "rate_policy": "fixed .25", "arch": "fno", "seed": 33, "budget": 1200, "wall": 1186.4782030829228, "steps": 2899, "fine": 1945, "val": 0.017208322817168664}
+{"evaluated": "gradient_lr0.004_seed33_warm0", "test": {"300": 0.025511839594400954, "1200": 0.016278046987281414}}
+{"method": "hf", "warmup_seconds": 0, "rate_policy": "none", "arch": "fno", "seed": 33, "budget": 1200, "wall": 1186.1915522499476, "steps": 2976, "fine": 2048, "val": 0.015737014342448674}
+{"evaluated": "hf_lr0.008_seed33_warm0", "test": {"300": 0.027811961001134478, "1200": 0.01613228406131384}}
+{
+  "formal_complete": 30,
+  "paired": {
+    "selected_300_gradient_vs_uniform": {
+      "relative_improvement_mean": 0.06707475290903649,
+      "seed_values": [
+        0.13777063402470413,
+        0.03238184012543899,
+        0.031071784576966355
+      ],
+      "wins": 3
+    },
+    "selected_300_gradient_vs_field": {
+      "relative_improvement_mean": 0.1442136443187962,
+      "seed_values": [
+        0.06955378608121532,
+        0.11136709917339638,
+        0.2517200477017769
+      ],
+      "wins": 3
+    },
+    "selected_300_data_vs_hf": {
+      "relative_improvement_mean": 0.02058908141595935,
+      "seed_values": [
+        -0.05072936674962181,
+        0.07318409631459444,
+        0.03931251468290542
+      ],
+      "wins": 2
+    },
+    "selected_300_data_vs_pretrain": {
+      "relative_improvement_mean": 0.020739715410487875,
+      "seed_values": [
+        0.02235033547927978,
+        0.04581128675468271,
+        -0.005942476002498864
+      ],
+      "wins": 2
+    },
+    "selected_300_data_vs_author_mlmc": {
+      "relative_improvement_mean": 0.059910917511400874,
+      "seed_values": [
+        0.01671688642387359,
+        0.1450025133835774,
+        0.01801335272675164
+      ],
+      "wins": 3
+    },
+    "selected_1200_gradient_vs_uniform": {
+      "relative_improvement_mean": 0.07688138223956893,
+      "seed_values": [
+        0.0993136685087238,
+        0.05284935493045739,
+        0.07848112327952561
+      ],
+      "wins": 3
+    },
+    "selected_1200_gradient_vs_field": {
+      "relative_improvement_mean": -0.041985222546368384,
+      "seed_values": [
+        -0.07601526105808243,
+        -0.05061820457022481,
+        0.0006777979892020891
+      ],
+      "wins": 1
+    },
+    "selected_1200_data_vs_hf": {
+      "relative_improvement_mean": -0.009225322906548983,
+      "seed_values": [
+        -0.04372720135650421,
+        0.007111081835318944,
+        0.008940150801538316
+      ],
+      "wins": 2
+    },
+    "selected_1200_data_vs_pretrain": {
+      "relative_improvement_mean": 0.10084890935350084,
+      "seed_values": [
+        0.1088855146973009,
+        0.11420808340343525,
+        0.07945312995976639
+      ],
+      "wins": 3
+    },
+    "selected_1200_data_vs_author_mlmc": {
+      "relative_improvement_mean": 0.15973282986130066,
+      "seed_values": [
+        0.15339237875222123,
+        0.2085599370682759,
+        0.11724617376340485
+      ],
+      "wins": 3
+    },
+    "matched_300_gradient_vs_uniform": {
+      "relative_improvement_mean": -0.027428380820240978,
+      "seed_values": [
+        -0.013062057032148688,
+        -0.043037874596206116,
+        -0.026185210832368133
+      ],
+      "wins": 0
+    },
+    "matched_300_gradient_vs_field": {
+      "relative_improvement_mean": 0.0965767791300088,
+      "seed_values": [
+        0.033459502294314714,
+        0.1238402593355663,
+        0.13243057576014539
+      ],
+      "wins": 3
+    },
+    "matched_300_data_vs_hf": {
+      "relative_improvement_mean": 0.02058908141595935,
+      "seed_values": [
+        -0.05072936674962181,
+        0.07318409631459444,
+        0.03931251468290542
+      ],
+      "wins": 2
+    },
+    "matched_1200_gradient_vs_uniform": {
+      "relative_improvement_mean": -0.009248566864301791,
+      "seed_values": [
+        0.018379860975872964,
+        -0.06415744299991366,
+        0.01803188143113532
+      ],
+      "wins": 2
+    },
+    "matched_1200_gradient_vs_field": {
+      "relative_improvement_mean": 0.0035208683580961373,
+      "seed_values": [
+        -0.003927457011216218,
+        0.011610924564273706,
+        0.0028791375212309234
+      ],
+      "wins": 2
+    },
+    "matched_1200_data_vs_hf": {
+      "relative_improvement_mean": -0.009225322906548983,
+      "seed_values": [
+        -0.04372720135650421,
+        0.007111081835318944,
+        0.008940150801538316
+      ],
+      "wins": 2
+    }
+  }
+}
+Matplotlib is building the font cache; this may take a moment.

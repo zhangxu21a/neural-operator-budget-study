@@ -1,0 +1,87 @@
+{
+  "started_at_unix": 1793034760.235904,
+  "architecture": "deeponet",
+  "arm": "hf32",
+  "seed": 1101,
+  "train_parameter_seed": 92101,
+  "lr": 0.002,
+  "phase": "formal",
+  "pool": 8192,
+  "budget": 180,
+  "wall": 168.02419533394277,
+  "nonfinite_loss": false,
+  "initial_complete": true,
+  "steps": 22768,
+  "validation": 0.3481056815944612,
+  "counts": {
+    "hf": 32,
+    "coarse8": 0,
+    "coarse32": 0,
+    "phys8": 0,
+    "phys32": 0
+  },
+  "timings": {
+    "hf": 4.976121458457783,
+    "coarse8": 0.0,
+    "coarse32": 0.0,
+    "phys8": 0.0,
+    "phys32": 0.0,
+    "input": 0.88125258567743,
+    "training": 158.5626698359847,
+    "validation": 0.1425438318401575,
+    "checkpoint": 0.0017332090064883232
+  },
+  "max_hf_residual": 9.981645977581962e-09,
+  "max_hf_iterations": 10,
+  "milestones": {
+    "120": {
+      "validation": 0.3481056815944612,
+      "selected_steps": 8534,
+      "decision_ready": 108.02531504211947,
+      "counts": {
+        "hf": 32,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 4.976121458457783,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 0.5778258633799851,
+        "training": 100.19891162705608,
+        "validation": 0.0915353330783546,
+        "checkpoint": 0.0014772920403629541
+      },
+      "steps_completed": 14385
+    },
+    "180": {
+      "validation": 0.3481056815944612,
+      "selected_steps": 8534,
+      "decision_ready": 168.02419158397242,
+      "counts": {
+        "hf": 32,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 4.976121458457783,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 0.88125258567743,
+        "training": 158.5626698359847,
+        "validation": 0.1425438318401575,
+        "checkpoint": 0.0017332090064883232
+      },
+      "steps_completed": 22768
+    }
+  },
+  "export_seconds": 0.012760208919644356
+}

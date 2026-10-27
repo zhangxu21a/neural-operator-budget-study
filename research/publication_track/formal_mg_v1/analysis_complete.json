@@ -1,0 +1,9 @@
+{
+  "complete": true,
+  "interpretation_complete": true,
+  "compilation_success": true,
+  "manuscript_updated": "/Volumes/MacShare/Something/research_q1_20261024/publication_track/manuscript/paper/main.tex",
+  "analysis_entrypoint": "run_completed_analysis.py",
+  "incident": "analysis_import_incident.json",
+  "pending": null
+}

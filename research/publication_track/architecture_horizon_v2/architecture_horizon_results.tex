@@ -1,0 +1,81 @@
+\section{Prospective architecture and horizon replication}
+
+The follow-up uses new independent training pools and new validation/ID/OOD reference sets (32/128/64 inputs), preserving the gain-two channel family, 512-interval fine solve and 129-by-129 observation grid. All inputs use the same 129-grid log-coefficient sensors. The second architecture is the archived convolutional-branch DeepONet with rank 32; this is not a parameter-count-matched architecture ranking. Both architectures receive three 60-second learning-rate trials per method, using validation only. The FNO grid is 0.002/0.008/0.032; the DeepONet grid is 0.0005/0.002/0.008, chosen from its historical search range before the new results. This is equal allocated search time, not exhaustive architecture optimization.
+
+Five new data-pool/optimization seeds are paired across methods and architectures. DeepONet runs five methods to 180 seconds, with a 120-second checkpoint. FNO runs four methods from scratch to 600 seconds, with 120/180/360-second checkpoints. It does not resume archived best-model checkpoints without optimizer state. Learning rates retain the common wall-time decay, with no retuning at long endpoints. Thus this is a fixed-policy horizon test, not a claim of converged performance. Shared reference construction and offline testing are separately recorded; labels, initialization, training inputs, validation and checkpoints remain inside each run timer.
+
+\begin{table}[ht]\centering\small
+
+\caption{DEEPONET at the 180-second cap: five independent training units. Errors are percentages, mean $\pm$ sample SD.}
+
+\begin{tabular}{lrrrr}\toprule Method & ID & OOD & HF labels & Updates\\\midrule
+
+Coarse 32 & $31.268\pm2.809$ & $35.915\pm3.327$ & 32.0 & 14352.8\\
+
+Corrected 32 & $40.470\pm1.039$ & $47.153\pm0.920$ & 32.0 & 384.0\\
+
+HF online & $49.921\pm0.519$ & $56.504\pm0.657$ & 1064.8 & 138.2\\
+
+HF reuse 32 & $37.757\pm1.795$ & $42.850\pm3.247$ & 32.0 & 22850.4\\
+
+HF reuse 128 & $31.105\pm0.861$ & $37.130\pm2.289$ & 128.0 & 20176.0\\
+
+\bottomrule\end{tabular}\end{table}
+
+\begin{table}[ht]\centering\small
+
+\caption{FNO at the 180-second cap: five independent training units. Errors are percentages, mean $\pm$ sample SD.}
+
+\begin{tabular}{lrrrr}\toprule Method & ID & OOD & HF labels & Updates\\\midrule
+
+Coarse 32 & $18.224\pm2.157$ & $20.153\pm2.518$ & 32.0 & 379.8\\
+
+Corrected 32 & $19.195\pm1.562$ & $21.374\pm1.888$ & 32.0 & 191.2\\
+
+HF online & $21.700\pm2.432$ & $24.802\pm2.448$ & 805.2 & 101.6\\
+
+HF reuse 128 & $15.741\pm0.884$ & $18.052\pm1.196$ & 128.0 & 401.0\\
+
+\bottomrule\end{tabular}\end{table}
+
+\begin{table}[ht]\centering\small
+
+\caption{FNO at the 600-second cap: five independent training units. Errors are percentages, mean $\pm$ sample SD.}
+
+\begin{tabular}{lrrrr}\toprule Method & ID & OOD & HF labels & Updates\\\midrule
+
+Coarse 32 & $15.805\pm0.579$ & $16.159\pm1.404$ & 32.0 & 1422.0\\
+
+Corrected 32 & $14.222\pm1.779$ & $15.990\pm2.230$ & 32.0 & 791.2\\
+
+HF online & $15.884\pm1.166$ & $17.918\pm1.386$ & 2699.6 & 403.6\\
+
+HF reuse 128 & $13.453\pm0.647$ & $15.618\pm0.880$ & 128.0 & 1532.0\\
+
+\bottomrule\end{tabular}\end{table}
+
+\paragraph{Predeclared paired comparisons.} Differences below are ID percentage points, first minus second; negative values favor the first method. The paired intervals in the machine-readable release are exploratory and not multiplicity-adjusted. Five non-tied pairs cannot attain a two-sided exact sign-test $p<0.05$.
+
+DEEPONET at 180 s, Corrected 32 versus Coarse 32: 9.203 percentage points, 0/5 pairs favoring the first method.\par
+
+DEEPONET at 180 s, HF reuse 128 versus HF online: -18.816 percentage points, 5/5 pairs favoring the first method.\par
+
+DEEPONET at 180 s, Corrected 32 versus HF reuse 128: 9.365 percentage points, 0/5 pairs favoring the first method.\par
+
+DEEPONET at 180 s, HF reuse 32 versus HF online: -12.164 percentage points, 5/5 pairs favoring the first method.\par
+
+FNO at 180 s, Corrected 32 versus Coarse 32: 0.971 percentage points, 2/5 pairs favoring the first method.\par
+
+FNO at 180 s, HF reuse 128 versus HF online: -5.959 percentage points, 5/5 pairs favoring the first method.\par
+
+FNO at 180 s, Corrected 32 versus HF reuse 128: 3.454 percentage points, 0/5 pairs favoring the first method.\par
+
+FNO at 600 s, Corrected 32 versus Coarse 32: -1.583 percentage points, 5/5 pairs favoring the first method.\par
+
+FNO at 600 s, HF reuse 128 versus HF online: -2.431 percentage points, 5/5 pairs favoring the first method.\par
+
+FNO at 600 s, Corrected 32 versus HF reuse 128: 0.769 percentage points, 1/5 pairs favoring the first method.\par
+
+\begin{figure}[ht]\centering\includegraphics[width=\linewidth]{images/architecture_horizon.pdf}\caption{Left: all five DeepONet training units. Right: FNO means (bold) and individual trajectories (faint). Checkpoints on each trajectory are dependent. Vertical scales differ.}\end{figure}
+
+These results remain limited to one PDE family. They test transfer to one additional architecture and a longer finite construction horizon, not cross-PDE universality, complete convergence, or numerical-solver optimality. No test-driven parameter reselection, seed deletion or failed-run replacement is performed.

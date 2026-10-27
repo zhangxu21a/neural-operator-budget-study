@@ -1,0 +1,77 @@
+{
+  "nonfinite_loss": false,
+  "method": "phys_only",
+  "warmup_seconds": 0,
+  "rate_policy": "none",
+  "arch": "fno",
+  "seed": 33,
+  "lr": 0.008,
+  "phase": "formal",
+  "pool": 2048,
+  "allocated_wall": 1200,
+  "wall": 1186.3305031249765,
+  "counts": {
+    "coarse": 2048,
+    "fine": 32,
+    "physics": 2016
+  },
+  "timings": {
+    "coarse": 3.0568958602380008,
+    "fine": 0.7879348360002041,
+    "physics": 10.596129360143095,
+    "teacher": 0.0,
+    "scoring": 0.0,
+    "training": 1144.0762598796282,
+    "validation": 22.6819124170579,
+    "checkpoint": 1.1728278484661132
+  },
+  "steps": 3162,
+  "validation": 0.015331283197156154,
+  "checkpoint_policy": "validation best only, charged inside budget",
+  "milestones": {
+    "300": {
+      "validation": 0.024280735713546164,
+      "selected_state_ready": 285.3449108749628,
+      "selected_steps": 726,
+      "decision_ready": 286.4139745000284,
+      "counts": {
+        "coarse": 1919,
+        "fine": 32,
+        "physics": 1887
+      },
+      "timings": {
+        "coarse": 2.8317950379569083,
+        "fine": 0.7879348360002041,
+        "physics": 9.896889532450587,
+        "teacher": 0.0,
+        "scoring": 0.0,
+        "training": 262.5839851538185,
+        "validation": 6.496086292201653,
+        "checkpoint": 0.27798345941118896
+      },
+      "steps_completed": 726
+    },
+    "1200": {
+      "validation": 0.015331283197156154,
+      "selected_state_ready": 1142.8869725419208,
+      "selected_steps": 3049,
+      "decision_ready": 1186.3304839578923,
+      "counts": {
+        "coarse": 2048,
+        "fine": 32,
+        "physics": 2016
+      },
+      "timings": {
+        "coarse": 3.0568958602380008,
+        "fine": 0.7879348360002041,
+        "physics": 10.596129360143095,
+        "teacher": 0.0,
+        "scoring": 0.0,
+        "training": 1144.0762598796282,
+        "validation": 22.6819124170579,
+        "checkpoint": 1.1728278484661132
+      },
+      "steps_completed": 3162
+    }
+  }
+}

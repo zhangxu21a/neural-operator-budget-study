@@ -1,0 +1,30 @@
+{
+  "runs": 100,
+  "endpoints": 280,
+  "cohort_endpoints": {
+    "formal_mg_v1": 70,
+    "architecture_horizon_v2": 130,
+    "matched_rate_v3": 80
+  },
+  "all_budgets_and_ledgers_pass": true,
+  "selection_bookkeeping_replayed_for_all_endpoints": true,
+  "all_input_hashes_unchanged": true,
+  "input_files": 305,
+  "no_training_or_new_test_evaluation": true,
+  "posthoc_analysis": true,
+  "exact_per_update_lr_available": false,
+  "exact_sample_exposure_available": false,
+  "frozen_sources_checked": 28,
+  "all_frozen_sources_match": true,
+  "reviewed_at": "2026-10-27T16:00:38.303657+09:00",
+  "manuscript_compile": "success: Codex desktop built-in compiler",
+  "figure_review": {
+    "main": "All 20 selected models shown; completed/selected updates separated; common ID scale; no clipping.",
+    "schedule": "All 20 runs, line styles distinguish methods; assessment proxy explicitly labeled in caption, not per-update LR."
+  },
+  "unresolved": [
+    "Xu full timing/tuning definitions and verified code unavailable; no first-joint-budget claim",
+    "Exact per-update rates, input exposure and unretained last-iterate test errors unavailable",
+    "Causal mechanism requires intervention if such a claim is pursued"
+  ]
+}

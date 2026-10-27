@@ -1,0 +1,85 @@
+{
+  "arm": "phys8",
+  "seed": 202,
+  "train_parameter_seed": 71202,
+  "lr": 0.008,
+  "phase": "formal",
+  "pool": 8192,
+  "budget": 180,
+  "wall": 168.87773629208095,
+  "nonfinite_loss": false,
+  "initial_complete": true,
+  "steps": 201,
+  "validation": 0.23610581178218126,
+  "counts": {
+    "hf": 32,
+    "coarse8": 0,
+    "coarse32": 0,
+    "phys8": 1463,
+    "phys32": 0
+  },
+  "timings": {
+    "hf": 5.051183542236686,
+    "coarse8": 0.0,
+    "coarse32": 0.0,
+    "phys8": 82.26089782966301,
+    "phys32": 0.0,
+    "input": 2.543039287440479,
+    "training": 74.53503212309442,
+    "validation": 4.428596207872033,
+    "checkpoint": 0.002675876021385193
+  },
+  "max_hf_residual": 9.967438035511929e-09,
+  "max_hf_iterations": 10,
+  "milestones": {
+    "120": {
+      "validation": 0.2672235439531505,
+      "selected_steps": 113,
+      "decision_ready": 109.07200416713022,
+      "counts": {
+        "hf": 32,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 951,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 5.051183542236686,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 52.86409262684174,
+        "phys32": 0.0,
+        "input": 1.6511742083821446,
+        "training": 46.677206041291356,
+        "validation": 2.7829804997891188,
+        "checkpoint": 0.0014447090215981007
+      },
+      "steps_completed": 126
+    },
+    "180": {
+      "validation": 0.23610581178218126,
+      "selected_steps": 201,
+      "decision_ready": 168.87773287505843,
+      "counts": {
+        "hf": 32,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 1463,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 5.051183542236686,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 82.26089782966301,
+        "phys32": 0.0,
+        "input": 2.543039287440479,
+        "training": 74.53503212309442,
+        "validation": 4.428596207872033,
+        "checkpoint": 0.002675876021385193
+      },
+      "steps_completed": 201
+    }
+  },
+  "export_seconds": 0.7002517499495298
+}

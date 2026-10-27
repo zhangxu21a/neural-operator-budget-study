@@ -1,0 +1,23 @@
+{
+  "seed": 51001,
+  "samples": 6,
+  "family": "channel",
+  "gain": [
+    1,
+    2
+  ],
+  "fine_grids": [
+    128,
+    512
+  ],
+  "coarsest_grid": 8,
+  "jacobi_sweeps": 3,
+  "omega": 0.65,
+  "rtol": 1e-08,
+  "atol": 0,
+  "maxiter": 200,
+  "costs_include": "coefficient evaluation, matrix assembly, preconditioner setup, solve",
+  "direct_repeats": "fresh direct solve per case, not reused pilot timing",
+  "order": "direct and MG first alternated by sample",
+  "source_sha256": "8ecac03d2e57a4d17fe39f52723c2fb30fb992f43bac060b30add776bb983dc5"
+}

@@ -1,0 +1,85 @@
+{
+  "arm": "hf_online",
+  "seed": 202,
+  "train_parameter_seed": 71202,
+  "lr": 0.008,
+  "phase": "formal",
+  "pool": 8192,
+  "budget": 180,
+  "wall": 169.8241800419055,
+  "nonfinite_loss": false,
+  "initial_complete": true,
+  "steps": 101,
+  "validation": 0.2181955692358315,
+  "counts": {
+    "hf": 801,
+    "coarse8": 0,
+    "coarse32": 0,
+    "phys8": 0,
+    "phys32": 0
+  },
+  "timings": {
+    "hf": 125.73624184448272,
+    "coarse8": 0.0,
+    "coarse32": 0.0,
+    "phys8": 0.0,
+    "phys32": 0.0,
+    "input": 1.336994539014995,
+    "training": 38.28560038120486,
+    "validation": 4.421437917277217,
+    "checkpoint": 0.008980665821582079
+  },
+  "max_hf_residual": 9.977280280890434e-09,
+  "max_hf_iterations": 11,
+  "milestones": {
+    "120": {
+      "validation": 0.24935108982026577,
+      "selected_steps": 63,
+      "decision_ready": 109.87782824994065,
+      "counts": {
+        "hf": 523,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 82.31002085260116,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 0.8543304987251759,
+        "training": 23.912023421609774,
+        "validation": 2.7690547914244235,
+        "checkpoint": 0.0018728747963905334
+      },
+      "steps_completed": 63
+    },
+    "180": {
+      "validation": 0.2181955692358315,
+      "selected_steps": 101,
+      "decision_ready": 169.82417533383705,
+      "counts": {
+        "hf": 801,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 125.73624184448272,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 1.336994539014995,
+        "training": 38.28560038120486,
+        "validation": 4.421437917277217,
+        "checkpoint": 0.008980665821582079
+      },
+      "steps_completed": 101
+    }
+  },
+  "export_seconds": 0.6855993750505149
+}

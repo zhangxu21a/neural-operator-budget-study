@@ -1,0 +1,11 @@
+{
+  "complete": true,
+  "tuning_runs": 27,
+  "formal_runs": 45,
+  "budget_points": 130,
+  "completed_at_unix": 1793048146.077966,
+  "pending_editorial": null,
+  "editorial_review_complete": true,
+  "manuscript_compile": "success",
+  "pending": null
+}

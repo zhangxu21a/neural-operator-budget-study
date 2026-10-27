@@ -1,0 +1,85 @@
+{
+  "arm": "hf128",
+  "seed": 101,
+  "train_parameter_seed": 71101,
+  "lr": 0.002,
+  "phase": "formal",
+  "pool": 8192,
+  "budget": 180,
+  "wall": 168.85524054220878,
+  "nonfinite_loss": false,
+  "initial_complete": true,
+  "steps": 403,
+  "validation": 0.13783157663419843,
+  "counts": {
+    "hf": 128,
+    "coarse8": 0,
+    "coarse32": 0,
+    "phys8": 0,
+    "phys32": 0
+  },
+  "timings": {
+    "hf": 20.083712669322267,
+    "coarse8": 0.0,
+    "coarse32": 0.0,
+    "phys8": 0.0,
+    "phys32": 0.0,
+    "input": 0.2468903346452862,
+    "training": 144.6040742006153,
+    "validation": 3.865020082099363,
+    "checkpoint": 0.0035849586129188538
+  },
+  "max_hf_residual": 9.934970879792004e-09,
+  "max_hf_iterations": 11,
+  "milestones": {
+    "120": {
+      "validation": 0.16773881460539997,
+      "selected_steps": 239,
+      "decision_ready": 108.72121262503788,
+      "counts": {
+        "hf": 128,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 20.083712669322267,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 0.23737366730347276,
+        "training": 86.14003170467913,
+        "validation": 2.2164838321041316,
+        "checkpoint": 0.002279541688039899
+      },
+      "steps_completed": 239
+    },
+    "180": {
+      "validation": 0.13783157663419843,
+      "selected_steps": 403,
+      "decision_ready": 168.8552372502163,
+      "counts": {
+        "hf": 128,
+        "coarse8": 0,
+        "coarse32": 0,
+        "phys8": 0,
+        "phys32": 0
+      },
+      "timings": {
+        "hf": 20.083712669322267,
+        "coarse8": 0.0,
+        "coarse32": 0.0,
+        "phys8": 0.0,
+        "phys32": 0.0,
+        "input": 0.2468903346452862,
+        "training": 144.6040742006153,
+        "validation": 3.865020082099363,
+        "checkpoint": 0.0035849586129188538
+      },
+      "steps_completed": 403
+    }
+  },
+  "export_seconds": 0.7011664160527289
+}

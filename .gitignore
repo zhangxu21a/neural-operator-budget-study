@@ -1,0 +1,15 @@
+# Platform metadata and local environments
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+# Large assets belong in the versioned data archive
+*.pt
+*.pth
+*.npz
+*.npy
+*.tar
+*.zip
