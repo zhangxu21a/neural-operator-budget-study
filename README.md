@@ -32,9 +32,9 @@ The findings concern the tested Darcy family and CPU budgets. Correction is not 
 
 ## Large model and reference assets
 
-The 358 model/reference assets are distributed as **47 independent `model_assets_NNN.tar.gz` archives**, about 24–47 MB each (1.72 GB total), rather than one 1.88 GB transfer. This allows individual failed uploads/downloads to be retried. Every unpacked asset was verified against its original SHA-256 hash. These archives are unnecessary for saved-record analysis and are excluded from Git.
+The 358 model/reference assets are retained locally as **47 independent `model_assets_NNN.tar.gz` archives**, about 24–47 MB each (1.72 GB total). Every unpacked asset was verified against its original SHA-256 hash. These archives are unnecessary for saved-record analysis and are excluded from Git; they are not currently publicly hosted.
 
-See [`asset_download/README_BATCHES.txt`](asset_download/README_BATCHES.txt) and its accompanying part manifest/checksums. Zenodo deposition is still in progress; reserved DOI `10.5281/zenodo.23686142` is **not a verified published download link**. Do not treat an incomplete draft as a complete release.
+See [`asset_download/README_BATCHES.txt`](asset_download/README_BATCHES.txt) and its accompanying part manifest/checksums. The Zenodo upload has been stopped and no public Zenodo record is claimed. The corresponding author can provide the retained archives on request; allow time for transfer of the large files.
 
 Once every archive is available, verify and extract them from the repository root:
 
@@ -71,6 +71,6 @@ This checks frozen source hashes, initial-state identities, batch and per-step l
 
 Large v9/v10/v12 arrays and checkpoints are additional to the original 358 assets. Their independent archives and exact member hashes are listed in `asset_download/cmwa_v12_assets_manifest.json`. Extract each archive into the repository root (no strip-components), then optionally add `--verify-assets` to the v12 audit. This is a different extraction convention from the legacy `model_assets_*` archives. Never concatenate independent gzip archives.
 
-Zenodo remains an unpublished, incomplete draft while upload verification is in progress. No new public DOI or complete remote data release is claimed. GitHub contains lightweight records and code; raw tensors are external assets. Negative and uncertain results remain: one high-rate short-run corrected target pair worsens, one longer coarse run worsens, and interaction intervals are imprecise. Matched updates do not causally decompose the older wall-clock gaps or establish an optimal HF cache size.
+The public GitHub release contains lightweight records and code; raw tensors and checkpoints are retained locally and are available from the corresponding author on reasonable request. No public full-asset archive or DOI is claimed. Negative and uncertain results remain: one high-rate short-run corrected target pair worsens, one longer coarse run worsens, and interaction intervals are imprecise. Matched updates do not causally decompose the older wall-clock gaps or establish an optimal HF cache size.
 
 The fixed-update figure can be regenerated with NumPy/Matplotlib installed: `python3 tools/plot_fixed_v12.py --out ../cmwa-v12-figures`. Its PNG was checked pixel-identical to the manuscript figure. Verification outputs are in `verification_cmwa_v12/`.
