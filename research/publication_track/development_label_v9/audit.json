@@ -1,0 +1,25 @@
+{
+  "checks": [
+    {
+      "cohort": "formal_mg_v1",
+      "n": 32,
+      "reference_parameters_and_targets_identical": true,
+      "independent_error_recomputation": true
+    },
+    {
+      "cohort": "architecture_horizon_v2",
+      "n": 32,
+      "reference_parameters_and_targets_identical": true,
+      "independent_error_recomputation": true
+    },
+    {
+      "cohort": "matched_rate_v3",
+      "n": 32,
+      "reference_parameters_and_targets_identical": true,
+      "independent_error_recomputation": true
+    }
+  ],
+  "all_96_inputs_retained": true,
+  "no_test_selection": true,
+  "plot": "All paired points, common logarithmic scale, no confidence intervals"
+}

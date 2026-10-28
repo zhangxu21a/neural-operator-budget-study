@@ -1,0 +1,9 @@
+{
+  "complete": true,
+  "pairs": 96,
+  "new_label_targets": 192,
+  "new_training": false,
+  "test_or_ood_used": false,
+  "sources_and_references_unchanged": true,
+  "elapsed_seconds": 7.104404166806489
+}

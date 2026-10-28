@@ -1,0 +1,1137 @@
+{"time": 1793098699.138591, "competing_python": []}
+{"time": 1793098714.182251, "competing_python": []}
+{"time": 1793098729.22046, "competing_python": []}
+{"time": 1793098744.71008, "competing_python": []}
+{"time": 1793098765.367249, "competing_python": []}
+{"time": 1793098780.55309, "competing_python": []}
+{"time": 1793098795.587462, "competing_python": []}
+{"time": 1793098810.634685, "competing_python": []}
+{"time": 1793098825.661545, "competing_python": []}
+{"time": 1793098840.692927, "competing_python": []}
+{"time": 1793098855.723985, "competing_python": []}
+{"time": 1793098870.7552671, "competing_python": []}
+{"time": 1793098885.784328, "competing_python": []}
+{"time": 1793098900.8198578, "competing_python": []}
+{"time": 1793098915.849904, "competing_python": []}
+{"time": 1793098930.880796, "competing_python": []}
+{"time": 1793098945.909902, "competing_python": []}
+{"time": 1793098960.936629, "competing_python": []}
+{"time": 1793098975.9660192, "competing_python": []}
+{"time": 1793098990.993377, "competing_python": []}
+{"time": 1793099006.02402, "competing_python": []}
+{"time": 1793099021.0543969, "competing_python": []}
+{"time": 1793099036.084314, "competing_python": []}
+{"time": 1793099051.110254, "competing_python": []}
+{"time": 1793099066.141757, "competing_python": []}
+{"time": 1793099081.176672, "competing_python": []}
+{"time": 1793099096.228085, "competing_python": [{"pid": 53589, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53590, "cpu": 99.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53591, "cpu": 97.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53593, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099111.2712698, "competing_python": [{"pid": 53589, "cpu": 96.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53590, "cpu": 96.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53591, "cpu": 96.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53593, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099126.3188548, "competing_python": [{"pid": 53589, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53590, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53591, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53593, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099141.359912, "competing_python": [{"pid": 53589, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53590, "cpu": 99.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53591, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53593, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099156.41081, "competing_python": [{"pid": 53589, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53590, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53591, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53593, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099171.44623, "competing_python": [{"pid": 53589, "cpu": 90.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53590, "cpu": 94.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53591, "cpu": 95.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53593, "cpu": 96.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099186.493688, "competing_python": [{"pid": 53589, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53590, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53591, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53593, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099201.542062, "competing_python": [{"pid": 53589, "cpu": 94.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53590, "cpu": 95.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53591, "cpu": 95.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53593, "cpu": 95.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099216.5796008, "competing_python": [{"pid": 53589, "cpu": 94.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53590, "cpu": 94.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53591, "cpu": 94.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53593, "cpu": 95.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099231.623179, "competing_python": [{"pid": 53589, "cpu": 97.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53590, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53591, "cpu": 96.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53593, "cpu": 96.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099246.661509, "competing_python": [{"pid": 53589, "cpu": 92.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53590, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53591, "cpu": 96.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 60918, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099261.69401, "competing_python": [{"pid": 53589, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53590, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53591, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 60918, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099276.736556, "competing_python": [{"pid": 53589, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53590, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 53591, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 60918, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099291.788108, "competing_python": [{"pid": 53590, "cpu": 96.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 60918, "cpu": 99.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 63143, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 63210, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099306.8251781, "competing_python": [{"pid": 60918, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 63143, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 63210, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 64146, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099321.8788202, "competing_python": [{"pid": 60918, "cpu": 96.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 63143, "cpu": 96.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 63210, "cpu": 96.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 64146, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099336.924305, "competing_python": [{"pid": 60918, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 63143, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 63210, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 64146, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099351.9654558, "competing_python": [{"pid": 60918, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 63143, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 63210, "cpu": 99.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 64146, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099367.0139918, "competing_python": [{"pid": 60918, "cpu": 99.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 63143, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 63210, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 64146, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099382.054823, "competing_python": [{"pid": 60918, "cpu": 99.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 63143, "cpu": 96.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 63210, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 64146, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099397.092074, "competing_python": [{"pid": 63143, "cpu": 96.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 63210, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 64146, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 68269, "cpu": 97.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099412.12546, "competing_python": [{"pid": 63210, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 64146, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 68269, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 69302, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099427.166684, "competing_python": [{"pid": 63210, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 64146, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 68269, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 69302, "cpu": 97.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099442.2212732, "competing_python": [{"pid": 63210, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 64146, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 68269, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 69302, "cpu": 97.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099457.255533, "competing_python": [{"pid": 63210, "cpu": 97.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 64146, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 68269, "cpu": 96.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 69302, "cpu": 97.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099472.294544, "competing_python": [{"pid": 63210, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 68269, "cpu": 97.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 69302, "cpu": 97.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 71881, "cpu": 96.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099487.3397171, "competing_python": [{"pid": 63210, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 68269, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 69302, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 71881, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099502.3779771, "competing_python": [{"pid": 68269, "cpu": 97.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 69302, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 71881, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 73343, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099517.426107, "competing_python": [{"pid": 68269, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 69302, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 71881, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 73343, "cpu": 96.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099532.476758, "competing_python": [{"pid": 68269, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 69302, "cpu": 37.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 71881, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 73343, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099547.5236459, "competing_python": [{"pid": 68269, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 69302, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 71881, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 73343, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099562.563424, "competing_python": [{"pid": 68269, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 71881, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 73343, "cpu": 99.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099577.603578, "competing_python": [{"pid": 68269, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 71881, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 73343, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76724, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099592.6590269, "competing_python": [{"pid": 68269, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 71881, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 73343, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76724, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099607.704473, "competing_python": [{"pid": 71881, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 73343, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76724, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 78835, "cpu": 45.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099622.749808, "competing_python": [{"pid": 71881, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76724, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 78835, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 79375, "cpu": 97.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099637.8074958, "competing_python": [{"pid": 71881, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76724, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 78835, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 79375, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099652.854846, "competing_python": [{"pid": 76724, "cpu": 96.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 78835, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 79375, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 80868, "cpu": 95.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099667.9154, "competing_python": [{"pid": 76724, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 78835, "cpu": 96.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 79375, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 80868, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099682.947316, "competing_python": [{"pid": 76724, "cpu": 96.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 78835, "cpu": 96.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 79375, "cpu": 95.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 80868, "cpu": 97.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099697.993887, "competing_python": [{"pid": 78835, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 79375, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 80868, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 82729, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099713.038273, "competing_python": [{"pid": 78835, "cpu": 96.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 79375, "cpu": 96.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 80868, "cpu": 96.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 82729, "cpu": 96.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099728.087127, "competing_python": [{"pid": 78835, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 79375, "cpu": 97.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 80868, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 82729, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099743.1335301, "competing_python": [{"pid": 78835, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 79375, "cpu": 97.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 80868, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 82729, "cpu": 99.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099758.174509, "competing_python": [{"pid": 78835, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 79375, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 80868, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 82729, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099773.210784, "competing_python": [{"pid": 79375, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 80868, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 82729, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 86590, "cpu": 96.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099788.248259, "competing_python": [{"pid": 80868, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 82729, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 86590, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87043, "cpu": 99.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099803.2946482, "competing_python": [{"pid": 80868, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 82729, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 86590, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87043, "cpu": 97.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099818.342087, "competing_python": [{"pid": 82729, "cpu": 96.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 86590, "cpu": 95.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87043, "cpu": 95.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 88547, "cpu": 95.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099833.384602, "competing_python": [{"pid": 82729, "cpu": 92.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 86590, "cpu": 93.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87043, "cpu": 94.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 88547, "cpu": 92.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099848.4212322, "competing_python": [{"pid": 86590, "cpu": 99.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87043, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 88547, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 90053, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099863.461045, "competing_python": [{"pid": 86590, "cpu": 99.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87043, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 88547, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 90053, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099878.505743, "competing_python": [{"pid": 86590, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87043, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 88547, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 90053, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099893.544443, "competing_python": [{"pid": 86590, "cpu": 96.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87043, "cpu": 96.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 88547, "cpu": 96.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 90053, "cpu": 95.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099908.584749, "competing_python": [{"pid": 86590, "cpu": 95.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87043, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 88547, "cpu": 96.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 90053, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099923.631571, "competing_python": [{"pid": 86590, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87043, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 88547, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 90053, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099938.6778991, "competing_python": [{"pid": 86590, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87043, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 88547, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 90053, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099953.726582, "competing_python": [{"pid": 86590, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87043, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 88547, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 90053, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099968.768808, "competing_python": [{"pid": 86590, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 88547, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 90053, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 95946, "cpu": 95.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099983.810807, "competing_python": [{"pid": 88547, "cpu": 97.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 90053, "cpu": 97.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 95946, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96812, "cpu": 84.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793099998.85598, "competing_python": [{"pid": 95946, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96812, "cpu": 99.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97492, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97551, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100013.916202, "competing_python": [{"pid": 95946, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96812, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97492, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97551, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100028.964446, "competing_python": [{"pid": 95946, "cpu": 95.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96812, "cpu": 96.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97492, "cpu": 96.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97551, "cpu": 97.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100044.0088809, "competing_python": [{"pid": 95946, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96812, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97492, "cpu": 96.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97551, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100059.043912, "competing_python": [{"pid": 95946, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96812, "cpu": 83.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97492, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97551, "cpu": 97.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100074.08227, "competing_python": [{"pid": 95946, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96812, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97492, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97551, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100089.127319, "competing_python": [{"pid": 95946, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96812, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97492, "cpu": 99.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97551, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100104.162117, "competing_python": [{"pid": 95946, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96812, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97492, "cpu": 97.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97551, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100119.202782, "competing_python": [{"pid": 95946, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96812, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97492, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97551, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100134.239309, "competing_python": [{"pid": 4759, "cpu": 76.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 95946, "cpu": 96.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97492, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97551, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100149.288575, "competing_python": [{"pid": 4759, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 5470, "cpu": 91.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 95946, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97551, "cpu": 99.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100164.318778, "competing_python": [{"pid": 4759, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 5470, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 95946, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97551, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100179.368833, "competing_python": [{"pid": 4759, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 5470, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 95946, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97551, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100194.410849, "competing_python": [{"pid": 4759, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 5470, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 7260, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97551, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100209.452993, "competing_python": [{"pid": 4759, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 5470, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 7260, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8536, "cpu": 77.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100224.5036821, "competing_python": [{"pid": 4759, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 5470, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 7260, "cpu": 96.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8536, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100239.55057, "competing_python": [{"pid": 4759, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 5470, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 7260, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8536, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100254.5967739, "competing_python": [{"pid": 4759, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 5470, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 7260, "cpu": 97.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8536, "cpu": 96.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100269.643744, "competing_python": [{"pid": 4759, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 5470, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 7260, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8536, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100284.6822872, "competing_python": [{"pid": 5470, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 7260, "cpu": 96.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8536, "cpu": 96.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 11877, "cpu": 96.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100299.7222111, "competing_python": [{"pid": 5470, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 7260, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8536, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 11877, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100314.756366, "competing_python": [{"pid": 5470, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 7260, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8536, "cpu": 99.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 11877, "cpu": 99.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100329.798893, "competing_python": [{"pid": 5470, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 7260, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8536, "cpu": 97.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 11877, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100344.8373802, "competing_python": [{"pid": 5470, "cpu": 97.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8536, "cpu": 97.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 11877, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15232, "cpu": 64.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100359.876149, "competing_python": [{"pid": 8536, "cpu": 95.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 11877, "cpu": 96.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15232, "cpu": 95.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15688, "cpu": 95.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100374.921621, "competing_python": [{"pid": 8536, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 11877, "cpu": 96.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15232, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15688, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100389.96868, "competing_python": [{"pid": 8536, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 11877, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15232, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15688, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100405.022092, "competing_python": [{"pid": 8536, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 11877, "cpu": 99.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15232, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15688, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100420.0670998, "competing_python": [{"pid": 11877, "cpu": 95.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15232, "cpu": 96.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15688, "cpu": 95.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 18594, "cpu": 96.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100435.115459, "competing_python": [{"pid": 11877, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15232, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15688, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 18594, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100450.165101, "competing_python": [{"pid": 11877, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15232, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15688, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 18594, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100465.203874, "competing_python": [{"pid": 11877, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15232, "cpu": 96.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 15688, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 18594, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100480.240016, "competing_python": [{"pid": 15688, "cpu": 94.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 18594, "cpu": 95.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 21489, "cpu": 95.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 22058, "cpu": 75.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100495.279138, "competing_python": [{"pid": 15688, "cpu": 99.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 18594, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 21489, "cpu": 99.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 22058, "cpu": 94.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100510.324472, "competing_python": [{"pid": 15688, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 18594, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 21489, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 22058, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100525.362859, "competing_python": [{"pid": 18594, "cpu": 96.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 21489, "cpu": 96.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 22058, "cpu": 96.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 23677, "cpu": 96.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100540.4022589, "competing_python": [{"pid": 18594, "cpu": 97.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 21489, "cpu": 96.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 22058, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 23677, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100555.4376671, "competing_python": [{"pid": 18594, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 21489, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 22058, "cpu": 99.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 23677, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100570.4850602, "competing_python": [{"pid": 18594, "cpu": 96.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 21489, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 22058, "cpu": 97.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 23677, "cpu": 95.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100585.5218718, "competing_python": [{"pid": 18594, "cpu": 97.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 21489, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 22058, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 23677, "cpu": 96.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100600.571521, "competing_python": [{"pid": 21489, "cpu": 96.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 22058, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 23677, "cpu": 96.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 27840, "cpu": 87.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100615.709047, "competing_python": [{"pid": 21489, "cpu": 63.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 22058, "cpu": 64.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 23677, "cpu": 63.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 27840, "cpu": 62.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100630.799965, "competing_python": [{"pid": 22058, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 23677, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 27840, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100645.835082, "competing_python": [{"pid": 22058, "cpu": 96.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 23677, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 27840, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 29466, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100660.872261, "competing_python": [{"pid": 22058, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 23677, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 27840, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 29466, "cpu": 30.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100675.9055219, "competing_python": [{"pid": 22058, "cpu": 96.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 27840, "cpu": 95.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 29466, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 31700, "cpu": 76.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100690.9404328, "competing_python": [{"pid": 27840, "cpu": 97.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 29466, "cpu": 99.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 31700, "cpu": 89.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 32293, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100705.985605, "competing_python": [{"pid": 27840, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 29466, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 31700, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 32293, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100721.0190132, "competing_python": [{"pid": 27840, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 29466, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 31700, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 32293, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100736.061451, "competing_python": [{"pid": 27840, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 29466, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 31700, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 32293, "cpu": 97.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100751.100238, "competing_python": [{"pid": 27840, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 29466, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 31700, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 32293, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100766.138272, "competing_python": [{"pid": 29466, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 31700, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 32293, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 35786, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100781.174927, "competing_python": [{"pid": 29466, "cpu": 99.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 31700, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 32293, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 35786, "cpu": 75.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100796.216757, "competing_python": [{"pid": 29466, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 31700, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 32293, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 35786, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100811.265698, "competing_python": [{"pid": 29466, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 31700, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 32293, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 35786, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100826.300809, "competing_python": [{"pid": 29466, "cpu": 96.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 32293, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 35786, "cpu": 97.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 38799, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100841.340503, "competing_python": [{"pid": 29466, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 32293, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 35786, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 38799, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100856.391383, "competing_python": [{"pid": 32293, "cpu": 97.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 35786, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 38799, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 40278, "cpu": 97.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100871.441789, "competing_python": [{"pid": 32293, "cpu": 96.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 35786, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 38799, "cpu": 99.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 40278, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100886.474626, "competing_python": [{"pid": 38799, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 40278, "cpu": 99.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 41924, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 42291, "cpu": 73.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100901.537668, "competing_python": [{"pid": 38799, "cpu": 97.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 40278, "cpu": 97.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 41924, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 42291, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100916.588769, "competing_python": [{"pid": 38799, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 40278, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 41924, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 42291, "cpu": 97.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100931.6251562, "competing_python": [{"pid": 38799, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 40278, "cpu": 96.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 41924, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 42291, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100946.664851, "competing_python": [{"pid": 40278, "cpu": 55.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 41924, "cpu": 55.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 42291, "cpu": 55.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 44976, "cpu": 54.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100961.7027671, "competing_python": [{"pid": 40278, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 41924, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 42291, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 44976, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100976.74103, "competing_python": [{"pid": 40278, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 41924, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 42291, "cpu": 96.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 44976, "cpu": 96.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793100991.7743628, "competing_python": [{"pid": 40278, "cpu": 95.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 41924, "cpu": 97.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 42291, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 44976, "cpu": 94.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101006.807474, "competing_python": [{"pid": 40278, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 41924, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 42291, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 44976, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101021.848042, "competing_python": [{"pid": 40278, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 41924, "cpu": 99.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 42291, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 44976, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101036.88342, "competing_python": [{"pid": 40278, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 41924, "cpu": 96.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 42291, "cpu": 97.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 44976, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101051.930357, "competing_python": [{"pid": 40278, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 41924, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 44976, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 49817, "cpu": 96.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101066.9637709, "competing_python": [{"pid": 44976, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 49817, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 50724, "cpu": 96.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 51099, "cpu": 95.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101082.0013812, "competing_python": [{"pid": 44976, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 49817, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 50724, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 51099, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101097.0382981, "competing_python": [{"pid": 44976, "cpu": 84.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 49817, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 50724, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 51099, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101112.082436, "competing_python": [{"pid": 44976, "cpu": 99.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 49817, "cpu": 99.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 50724, "cpu": 99.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 51099, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101127.1379251, "competing_python": [{"pid": 44976, "cpu": 96.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 49817, "cpu": 96.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 50724, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 51099, "cpu": 95.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101142.1747189, "competing_python": [{"pid": 44976, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 49817, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 50724, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 51099, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101157.209441, "competing_python": [{"pid": 49817, "cpu": 97.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 50724, "cpu": 97.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 51099, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 55238, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101172.250296, "competing_python": [{"pid": 50724, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 51099, "cpu": 99.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 55238, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 56029, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101187.291946, "competing_python": [{"pid": 50724, "cpu": 97.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 51099, "cpu": 99.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 55238, "cpu": 99.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 56029, "cpu": 99.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101202.32915, "competing_python": [{"pid": 50724, "cpu": 99.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 51099, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 55238, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 56029, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101217.373182, "competing_python": [{"pid": 55238, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 56029, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58120, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101232.4086049, "competing_python": [{"pid": 55238, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 56029, "cpu": 97.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58120, "cpu": 96.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58491, "cpu": 96.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101247.4478002, "competing_python": [{"pid": 55238, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 56029, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58120, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58491, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101262.485686, "competing_python": [{"pid": 55238, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 56029, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58120, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58491, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101277.5201821, "competing_python": [{"pid": 55238, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 56029, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58120, "cpu": 96.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58491, "cpu": 97.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101292.5558422, "competing_python": [{"pid": 55238, "cpu": 95.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 56029, "cpu": 95.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58120, "cpu": 95.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58491, "cpu": 94.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 62012, "cpu": 73.6, "name": "research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101307.6004019, "competing_python": [{"pid": 55238, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 56029, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58120, "cpu": 99.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58491, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101322.646664, "competing_python": [{"pid": 55238, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 56029, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58120, "cpu": 96.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58491, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101337.680021, "competing_python": [{"pid": 55238, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 56029, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58120, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58491, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101352.720775, "competing_python": [{"pid": 55238, "cpu": 96.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 56029, "cpu": 95.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58120, "cpu": 96.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58491, "cpu": 96.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101367.767479, "competing_python": [{"pid": 56029, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 58120, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65430, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65494, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101382.805859, "competing_python": [{"pid": 58120, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65430, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65494, "cpu": 99.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 66353, "cpu": 89.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101397.837794, "competing_python": [{"pid": 58120, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65430, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65494, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 66353, "cpu": 99.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101412.874207, "competing_python": [{"pid": 58120, "cpu": 63.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65430, "cpu": 63.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65494, "cpu": 68.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 66353, "cpu": 63.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101427.9248881, "competing_python": [{"pid": 58120, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65430, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65494, "cpu": 95.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 66353, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101442.971634, "competing_python": [{"pid": 65430, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65494, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 66353, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 68908, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101458.0205061, "competing_python": [{"pid": 65430, "cpu": 86.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65494, "cpu": 86.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 66353, "cpu": 86.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 68908, "cpu": 85.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101473.054556, "competing_python": [{"pid": 65430, "cpu": 97.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65494, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 66353, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 68908, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101488.098953, "competing_python": [{"pid": 65430, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65494, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 66353, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 68908, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101503.137928, "competing_python": [{"pid": 65430, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65494, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 66353, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 68908, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101518.1711218, "competing_python": [{"pid": 65430, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65494, "cpu": 99.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 66353, "cpu": 99.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 68908, "cpu": 99.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101533.208309, "competing_python": [{"pid": 65430, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65494, "cpu": 97.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 66353, "cpu": 97.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 68908, "cpu": 97.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101548.250731, "competing_python": [{"pid": 65430, "cpu": 99.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65494, "cpu": 99.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 66353, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 68908, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101563.3053818, "competing_python": [{"pid": 65430, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65494, "cpu": 99.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 66353, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 68908, "cpu": 99.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101578.3469062, "competing_python": [{"pid": 65430, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 65494, "cpu": 99.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 66353, "cpu": 96.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101593.381579, "competing_python": [{"pid": 66353, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76154, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76386, "cpu": 99.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76445, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101608.416301, "competing_python": [{"pid": 76154, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76386, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76445, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 77217, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101623.463371, "competing_python": [{"pid": 76154, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76386, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76445, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 77217, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101638.498802, "competing_python": [{"pid": 76154, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76386, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76445, "cpu": 96.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 77217, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101653.5427918, "competing_python": [{"pid": 76154, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76386, "cpu": 97.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76445, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 77217, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101668.574965, "competing_python": [{"pid": 76154, "cpu": 67.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76386, "cpu": 64.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76445, "cpu": 66.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 77217, "cpu": 64.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101683.621114, "competing_python": [{"pid": 76154, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76386, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76445, "cpu": 97.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 77217, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101698.6613371, "competing_python": [{"pid": 76154, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76386, "cpu": 99.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76445, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 77217, "cpu": 99.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101713.696641, "competing_python": [{"pid": 76154, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76386, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76445, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 77217, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101728.745215, "competing_python": [{"pid": 76154, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76386, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76445, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 77217, "cpu": 92.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101743.777148, "competing_python": [{"pid": 76154, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76386, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76445, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 77217, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101758.832097, "competing_python": [{"pid": 76154, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76386, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76445, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 77217, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101773.8715599, "competing_python": [{"pid": 76386, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 76445, "cpu": 93.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 77217, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 85808, "cpu": 96.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101788.919758, "competing_python": [{"pid": 85808, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 86854, "cpu": 91.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101803.952618, "competing_python": [{"pid": 85808, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 86854, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87053, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87054, "cpu": 96.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101818.9969752, "competing_python": [{"pid": 85808, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 86854, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87053, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87054, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101834.031945, "competing_python": [{"pid": 85808, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 86854, "cpu": 96.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87053, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87054, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101849.0732448, "competing_python": [{"pid": 85808, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 86854, "cpu": 93.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87053, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87054, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101864.120511, "competing_python": [{"pid": 85808, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 86854, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87053, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87054, "cpu": 91.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101879.161985, "competing_python": [{"pid": 85808, "cpu": 99.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 86854, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87053, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87054, "cpu": 99.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101894.19504, "competing_python": [{"pid": 85808, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 86854, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87053, "cpu": 99.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87054, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101909.233939, "competing_python": [{"pid": 85808, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 86854, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87053, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87054, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101924.282458, "competing_python": [{"pid": 86854, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87053, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87054, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 93941, "cpu": 79.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101939.3360682, "competing_python": [{"pid": 86854, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87053, "cpu": 97.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87054, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 93941, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101954.377252, "competing_python": [{"pid": 86854, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87053, "cpu": 97.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87054, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 93941, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101969.41255, "competing_python": [{"pid": 87053, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87054, "cpu": 99.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 93941, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96299, "cpu": 75.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101984.44248, "competing_python": [{"pid": 87053, "cpu": 96.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 87054, "cpu": 96.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 93941, "cpu": 96.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96299, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793101999.485791, "competing_python": [{"pid": 93941, "cpu": 97.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96299, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97335, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97925, "cpu": 80.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102014.5335932, "competing_python": [{"pid": 93941, "cpu": 96.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96299, "cpu": 68.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97335, "cpu": 94.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97925, "cpu": 71.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102029.574996, "competing_python": [{"pid": 93941, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96299, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97335, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97925, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102044.615433, "competing_python": [{"pid": 93941, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96299, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97335, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97925, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102059.655324, "competing_python": [{"pid": 96299, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97335, "cpu": 99.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97925, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102074.694585, "competing_python": [{"pid": 1334, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 96299, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97335, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97925, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102089.738741, "competing_python": [{"pid": 1334, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97335, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97925, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102104.78091, "competing_python": [{"pid": 1334, "cpu": 96.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 3009, "cpu": 96.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97335, "cpu": 95.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97925, "cpu": 96.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102119.816326, "competing_python": [{"pid": 1334, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 3009, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97335, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97925, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102134.8507578, "competing_python": [{"pid": 1334, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 3009, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97335, "cpu": 99.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97925, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102149.899838, "competing_python": [{"pid": 1334, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 3009, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97335, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97925, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102164.934907, "competing_python": [{"pid": 1334, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 3009, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97335, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97925, "cpu": 99.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102179.9853802, "competing_python": [{"pid": 1334, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 3009, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97335, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97925, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102195.025595, "competing_python": [{"pid": 1334, "cpu": 97.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 3009, "cpu": 93.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8270, "cpu": 60.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 97925, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102210.058995, "competing_python": [{"pid": 1334, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 3009, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8270, "cpu": 99.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8711, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102225.0973032, "competing_python": [{"pid": 1334, "cpu": 99.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 3009, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8270, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8711, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102240.1388102, "competing_python": [{"pid": 1334, "cpu": 96.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 3009, "cpu": 96.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8270, "cpu": 96.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8711, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102255.1774569, "competing_python": [{"pid": 1334, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 3009, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8270, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8711, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102270.217098, "competing_python": [{"pid": 3009, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8270, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8711, "cpu": 99.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102285.257609, "competing_python": [{"pid": 3009, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8270, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8711, "cpu": 99.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 12155, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102300.296215, "competing_python": [{"pid": 3009, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8270, "cpu": 96.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8711, "cpu": 96.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 12155, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102315.330774, "competing_python": [{"pid": 8270, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 8711, "cpu": 99.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 12155, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102330.365215, "competing_python": [{"pid": 8711, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 12155, "cpu": 96.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14275, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14680, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102345.4015481, "competing_python": [{"pid": 8711, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 12155, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14275, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14680, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102360.437184, "competing_python": [{"pid": 12155, "cpu": 93.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14275, "cpu": 94.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14680, "cpu": 96.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 16403, "cpu": 95.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102375.472427, "competing_python": [{"pid": 12155, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14275, "cpu": 99.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14680, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 16403, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102390.510988, "competing_python": [{"pid": 12155, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14275, "cpu": 98.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14680, "cpu": 98.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 16403, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102405.552143, "competing_python": [{"pid": 12155, "cpu": 96.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14275, "cpu": 96.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14680, "cpu": 95.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 16403, "cpu": 96.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102420.5851169, "competing_python": [{"pid": 14275, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14680, "cpu": 99.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 16403, "cpu": 99.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 19387, "cpu": 98.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102435.6178749, "competing_python": [{"pid": 14275, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14680, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 16403, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 19387, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102450.664172, "competing_python": [{"pid": 14275, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14680, "cpu": 97.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 16403, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 19387, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102465.707948, "competing_python": [{"pid": 14275, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14680, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 16403, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 19387, "cpu": 96.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102480.764437, "competing_python": [{"pid": 14275, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14680, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 16403, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 19387, "cpu": 98.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102495.805142, "competing_python": [{"pid": 14275, "cpu": 97.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14680, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 16403, "cpu": 97.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 19387, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102510.848861, "competing_python": [{"pid": 14275, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 14680, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 19387, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 23855, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102525.883165, "competing_python": [{"pid": 14680, "cpu": 98.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 19387, "cpu": 97.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 23855, "cpu": 97.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 24390, "cpu": 99.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102540.92452, "competing_python": [{"pid": 19387, "cpu": 98.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 23855, "cpu": 99.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 24390, "cpu": 98.9, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102555.9653602, "competing_python": [{"pid": 23855, "cpu": 99.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 24390, "cpu": 97.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102570.9967601, "competing_python": [{"pid": 23855, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 24390, "cpu": 100.0, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102586.02837, "competing_python": [{"pid": 23855, "cpu": 98.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 24390, "cpu": 98.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102603.584355, "competing_python": [{"pid": 23855, "cpu": 99.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 24390, "cpu": 98.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102625.487443, "competing_python": [{"pid": 24390, "cpu": 93.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793102640.518873, "competing_python": []}
+{"time": 1793102655.549578, "competing_python": []}
+{"time": 1793102670.5805151, "competing_python": []}
+{"time": 1793102685.6080372, "competing_python": []}
+{"time": 1793102700.63952, "competing_python": []}
+{"time": 1793102715.671765, "competing_python": []}
+{"time": 1793102730.710378, "competing_python": []}
+{"time": 1793102745.8174431, "competing_python": []}
+{"time": 1793102760.8462899, "competing_python": []}
+{"time": 1793102775.878743, "competing_python": []}
+{"time": 1793102790.9062731, "competing_python": []}
+{"time": 1793102805.9377432, "competing_python": []}
+{"time": 1793102820.9679549, "competing_python": []}
+{"time": 1793102835.99866, "competing_python": []}
+{"time": 1793102851.028557, "competing_python": []}
+{"time": 1793102866.056383, "competing_python": []}
+{"time": 1793102881.085236, "competing_python": []}
+{"time": 1793102896.116129, "competing_python": []}
+{"time": 1793102911.146343, "competing_python": []}
+{"time": 1793102926.173126, "competing_python": []}
+{"time": 1793102941.2028532, "competing_python": []}
+{"time": 1793102956.232686, "competing_python": []}
+{"time": 1793102971.263357, "competing_python": []}
+{"time": 1793102986.293504, "competing_python": []}
+{"time": 1793103001.318891, "competing_python": []}
+{"time": 1793103016.349749, "competing_python": []}
+{"time": 1793103031.379831, "competing_python": []}
+{"time": 1793103046.407825, "competing_python": []}
+{"time": 1793103061.44098, "competing_python": []}
+{"time": 1793103076.469155, "competing_python": []}
+{"time": 1793103091.496027, "competing_python": []}
+{"time": 1793103106.525759, "competing_python": []}
+{"time": 1793103121.550335, "competing_python": []}
+{"time": 1793103136.576071, "competing_python": []}
+{"time": 1793103151.611385, "competing_python": []}
+{"time": 1793103166.6496608, "competing_python": []}
+{"time": 1793103181.682967, "competing_python": []}
+{"time": 1793103196.716297, "competing_python": []}
+{"time": 1793103211.7553852, "competing_python": []}
+{"time": 1793103226.790608, "competing_python": []}
+{"time": 1793103241.8187861, "competing_python": []}
+{"time": 1793103256.850389, "competing_python": []}
+{"time": 1793103271.883913, "competing_python": []}
+{"time": 1793103286.9292958, "competing_python": []}
+{"time": 1793103301.965109, "competing_python": []}
+{"time": 1793103316.9996018, "competing_python": []}
+{"time": 1793103332.03519, "competing_python": []}
+{"time": 1793103347.063921, "competing_python": []}
+{"time": 1793103362.100378, "competing_python": []}
+{"time": 1793103377.132203, "competing_python": []}
+{"time": 1793103392.168003, "competing_python": []}
+{"time": 1793103407.197346, "competing_python": []}
+{"time": 1793103422.232954, "competing_python": []}
+{"time": 1793103437.2691379, "competing_python": []}
+{"time": 1793103452.2996008, "competing_python": []}
+{"time": 1793103467.331351, "competing_python": []}
+{"time": 1793103482.3642461, "competing_python": []}
+{"time": 1793103497.397704, "competing_python": []}
+{"time": 1793103512.4329479, "competing_python": []}
+{"time": 1793103527.4662678, "competing_python": []}
+{"time": 1793103542.501249, "competing_python": []}
+{"time": 1793103557.532943, "competing_python": []}
+{"time": 1793103572.566292, "competing_python": []}
+{"time": 1793103587.5996149, "competing_python": []}
+{"time": 1793103602.632024, "competing_python": []}
+{"time": 1793103617.666274, "competing_python": []}
+{"time": 1793103632.698724, "competing_python": []}
+{"time": 1793103647.732952, "competing_python": []}
+{"time": 1793103662.7662709, "competing_python": []}
+{"time": 1793103677.801955, "competing_python": []}
+{"time": 1793103692.836098, "competing_python": []}
+{"time": 1793103707.870274, "competing_python": []}
+{"time": 1793103722.899616, "competing_python": []}
+{"time": 1793103737.928268, "competing_python": []}
+{"time": 1793103752.96147, "competing_python": []}
+{"time": 1793103767.999628, "competing_python": []}
+{"time": 1793103783.032964, "competing_python": []}
+{"time": 1793103798.066349, "competing_python": []}
+{"time": 1793103813.099509, "competing_python": []}
+{"time": 1793103828.1329532, "competing_python": []}
+{"time": 1793103843.1662772, "competing_python": []}
+{"time": 1793103858.199612, "competing_python": []}
+{"time": 1793103873.232321, "competing_python": []}
+{"time": 1793103888.264308, "competing_python": []}
+{"time": 1793103903.299825, "competing_python": []}
+{"time": 1793103918.335194, "competing_python": []}
+{"time": 1793103933.3694441, "competing_python": []}
+{"time": 1793103948.3982358, "competing_python": []}
+{"time": 1793103963.432972, "competing_python": []}
+{"time": 1793103978.4654772, "competing_python": []}
+{"time": 1793103993.4961731, "competing_python": []}
+{"time": 1793104008.529469, "competing_python": []}
+{"time": 1793104023.5548291, "competing_python": []}
+{"time": 1793104038.5858061, "competing_python": []}
+{"time": 1793104053.6123571, "competing_python": []}
+{"time": 1793104068.642993, "competing_python": []}
+{"time": 1793104083.668596, "competing_python": []}
+{"time": 1793104098.70441, "competing_python": []}
+{"time": 1793104113.7278001, "competing_python": []}
+{"time": 1793104128.762099, "competing_python": []}
+{"time": 1793104143.789058, "competing_python": []}
+{"time": 1793104158.8245919, "competing_python": []}
+{"time": 1793104173.861286, "competing_python": []}
+{"time": 1793104188.8912342, "competing_python": []}
+{"time": 1793104203.924899, "competing_python": []}
+{"time": 1793104218.9565089, "competing_python": []}
+{"time": 1793104233.9906392, "competing_python": []}
+{"time": 1793104249.024483, "competing_python": []}
+{"time": 1793104264.057068, "competing_python": []}
+{"time": 1793104279.091038, "competing_python": []}
+{"time": 1793104294.124444, "competing_python": []}
+{"time": 1793104309.149107, "competing_python": []}
+{"time": 1793104324.173215, "competing_python": []}
+{"time": 1793104339.2067351, "competing_python": []}
+{"time": 1793104354.239139, "competing_python": []}
+{"time": 1793104369.2727401, "competing_python": []}
+{"time": 1793104384.299605, "competing_python": []}
+{"time": 1793104399.324285, "competing_python": []}
+{"time": 1793104414.477729, "competing_python": []}
+{"time": 1793104429.5111182, "competing_python": []}
+{"time": 1793104444.544876, "competing_python": []}
+{"time": 1793104459.5877109, "competing_python": []}
+{"time": 1793104474.6188538, "competing_python": []}
+{"time": 1793104489.649791, "competing_python": []}
+{"time": 1793104504.680963, "competing_python": []}
+{"time": 1793104519.7142751, "competing_python": []}
+{"time": 1793104534.7408059, "competing_python": []}
+{"time": 1793104549.768126, "competing_python": []}
+{"time": 1793104564.801166, "competing_python": []}
+{"time": 1793104579.833396, "competing_python": []}
+{"time": 1793104594.866813, "competing_python": []}
+{"time": 1793104609.901079, "competing_python": []}
+{"time": 1793104624.930309, "competing_python": []}
+{"time": 1793104639.964304, "competing_python": []}
+{"time": 1793104654.997783, "competing_python": []}
+{"time": 1793104670.023007, "competing_python": []}
+{"time": 1793104685.051817, "competing_python": []}
+{"time": 1793104700.086748, "competing_python": []}
+{"time": 1793104715.1197498, "competing_python": []}
+{"time": 1793104730.151658, "competing_python": []}
+{"time": 1793104745.185788, "competing_python": []}
+{"time": 1793104760.212563, "competing_python": []}
+{"time": 1793104775.246016, "competing_python": []}
+{"time": 1793104790.281825, "competing_python": []}
+{"time": 1793104805.313623, "competing_python": []}
+{"time": 1793104820.348372, "competing_python": []}
+{"time": 1793104835.380353, "competing_python": []}
+{"time": 1793104850.4103491, "competing_python": []}
+{"time": 1793104865.4421408, "competing_python": []}
+{"time": 1793104880.47787, "competing_python": []}
+{"time": 1793104895.506043, "competing_python": []}
+{"time": 1793104910.644545, "competing_python": []}
+{"time": 1793104925.6726038, "competing_python": []}
+{"time": 1793104940.7024739, "competing_python": []}
+{"time": 1793104955.73594, "competing_python": []}
+{"time": 1793104970.7666419, "competing_python": []}
+{"time": 1793104985.793216, "competing_python": []}
+{"time": 1793105000.822548, "competing_python": []}
+{"time": 1793105015.853866, "competing_python": []}
+{"time": 1793105030.884636, "competing_python": []}
+{"time": 1793105045.912949, "competing_python": []}
+{"time": 1793105060.9386082, "competing_python": []}
+{"time": 1793105075.9688802, "competing_python": []}
+{"time": 1793105090.999723, "competing_python": []}
+{"time": 1793105106.029807, "competing_python": []}
+{"time": 1793105121.0615392, "competing_python": []}
+{"time": 1793105136.085418, "competing_python": []}
+{"time": 1793105151.114021, "competing_python": []}
+{"time": 1793105166.141877, "competing_python": []}
+{"time": 1793105181.171731, "competing_python": []}
+{"time": 1793105196.2019231, "competing_python": []}
+{"time": 1793105211.235293, "competing_python": []}
+{"time": 1793105226.2644138, "competing_python": []}
+{"time": 1793105241.2924612, "competing_python": []}
+{"time": 1793105256.318517, "competing_python": []}
+{"time": 1793105271.34416, "competing_python": []}
+{"time": 1793105286.3761332, "competing_python": []}
+{"time": 1793105301.411746, "competing_python": []}
+{"time": 1793105316.443873, "competing_python": []}
+{"time": 1793105331.469406, "competing_python": []}
+{"time": 1793105346.497374, "competing_python": []}
+{"time": 1793105361.526628, "competing_python": []}
+{"time": 1793105376.55723, "competing_python": []}
+{"time": 1793105391.5845819, "competing_python": []}
+{"time": 1793105406.6152608, "competing_python": []}
+{"time": 1793105421.645119, "competing_python": []}
+{"time": 1793105436.675041, "competing_python": []}
+{"time": 1793105451.701594, "competing_python": []}
+{"time": 1793105466.731207, "competing_python": []}
+{"time": 1793105481.7627242, "competing_python": []}
+{"time": 1793105496.791681, "competing_python": []}
+{"time": 1793105511.8180668, "competing_python": []}
+{"time": 1793105526.846686, "competing_python": []}
+{"time": 1793105541.874795, "competing_python": []}
+{"time": 1793105556.907137, "competing_python": []}
+{"time": 1793105571.9382331, "competing_python": []}
+{"time": 1793105586.9689128, "competing_python": []}
+{"time": 1793105602.00386, "competing_python": []}
+{"time": 1793105617.040294, "competing_python": []}
+{"time": 1793105632.069519, "competing_python": []}
+{"time": 1793105647.1011279, "competing_python": []}
+{"time": 1793105662.1283772, "competing_python": []}
+{"time": 1793105677.167433, "competing_python": []}
+{"time": 1793105692.198594, "competing_python": []}
+{"time": 1793105707.230025, "competing_python": []}
+{"time": 1793105722.2617788, "competing_python": []}
+{"time": 1793105737.287235, "competing_python": []}
+{"time": 1793105752.3175948, "competing_python": []}
+{"time": 1793105767.341692, "competing_python": []}
+{"time": 1793105782.3675609, "competing_python": []}
+{"time": 1793105797.394429, "competing_python": []}
+{"time": 1793105812.4215062, "competing_python": []}
+{"time": 1793105827.45036, "competing_python": []}
+{"time": 1793105842.482493, "competing_python": []}
+{"time": 1793105857.5139918, "competing_python": []}
+{"time": 1793105872.541735, "competing_python": []}
+{"time": 1793105887.5716639, "competing_python": []}
+{"time": 1793105902.599252, "competing_python": []}
+{"time": 1793105917.6273642, "competing_python": []}
+{"time": 1793105934.291465, "competing_python": []}
+{"time": 1793105955.200465, "competing_python": []}
+{"time": 1793105970.23772, "competing_python": []}
+{"time": 1793105985.281787, "competing_python": []}
+{"time": 1793106000.314235, "competing_python": []}
+{"time": 1793106015.3577878, "competing_python": []}
+{"time": 1793106030.390806, "competing_python": []}
+{"time": 1793106045.4231439, "competing_python": []}
+{"time": 1793106060.455538, "competing_python": []}
+{"time": 1793106075.485424, "competing_python": []}
+{"time": 1793106090.515041, "competing_python": []}
+{"time": 1793106105.545196, "competing_python": []}
+{"time": 1793106120.576638, "competing_python": []}
+{"time": 1793106135.605831, "competing_python": []}
+{"time": 1793106150.63085, "competing_python": []}
+{"time": 1793106165.65957, "competing_python": []}
+{"time": 1793106180.68946, "competing_python": []}
+{"time": 1793106195.714112, "competing_python": []}
+{"time": 1793106210.744909, "competing_python": []}
+{"time": 1793106225.773651, "competing_python": []}
+{"time": 1793106240.8072479, "competing_python": []}
+{"time": 1793106255.831744, "competing_python": []}
+{"time": 1793106270.857646, "competing_python": []}
+{"time": 1793106285.8862212, "competing_python": []}
+{"time": 1793106300.9126558, "competing_python": []}
+{"time": 1793106315.9416032, "competing_python": []}
+{"time": 1793106330.970059, "competing_python": []}
+{"time": 1793106345.997088, "competing_python": []}
+{"time": 1793106361.026054, "competing_python": []}
+{"time": 1793106376.056191, "competing_python": []}
+{"time": 1793106391.08635, "competing_python": []}
+{"time": 1793106406.113674, "competing_python": []}
+{"time": 1793106421.144427, "competing_python": []}
+{"time": 1793106436.176049, "competing_python": []}
+{"time": 1793106451.2294888, "competing_python": []}
+{"time": 1793106466.25949, "competing_python": []}
+{"time": 1793106481.2907178, "competing_python": []}
+{"time": 1793106496.323668, "competing_python": []}
+{"time": 1793106511.351878, "competing_python": []}
+{"time": 1793106526.380028, "competing_python": []}
+{"time": 1793106541.410329, "competing_python": []}
+{"time": 1793106556.441494, "competing_python": []}
+{"time": 1793106571.469864, "competing_python": []}
+{"time": 1793106586.504151, "competing_python": []}
+{"time": 1793106601.530866, "competing_python": []}
+{"time": 1793106616.56784, "competing_python": []}
+{"time": 1793106631.596477, "competing_python": []}
+{"time": 1793106646.624694, "competing_python": []}
+{"time": 1793106661.6506848, "competing_python": []}
+{"time": 1793106676.679701, "competing_python": []}
+{"time": 1793106691.709764, "competing_python": []}
+{"time": 1793106706.7404008, "competing_python": []}
+{"time": 1793106721.768715, "competing_python": []}
+{"time": 1793106736.7962592, "competing_python": []}
+{"time": 1793106751.82761, "competing_python": []}
+{"time": 1793106766.858216, "competing_python": []}
+{"time": 1793106781.886134, "competing_python": []}
+{"time": 1793106796.912344, "competing_python": []}
+{"time": 1793106811.9419909, "competing_python": []}
+{"time": 1793106826.9710872, "competing_python": []}
+{"time": 1793106842.001125, "competing_python": []}
+{"time": 1793106857.0330272, "competing_python": []}
+{"time": 1793106872.062646, "competing_python": []}
+{"time": 1793106887.094147, "competing_python": []}
+{"time": 1793106902.125738, "competing_python": []}
+{"time": 1793106917.155839, "competing_python": []}
+{"time": 1793106932.185466, "competing_python": []}
+{"time": 1793106947.214792, "competing_python": []}
+{"time": 1793106962.246517, "competing_python": []}
+{"time": 1793106977.278621, "competing_python": []}
+{"time": 1793106992.309494, "competing_python": []}
+{"time": 1793107007.340689, "competing_python": []}
+{"time": 1793107022.37086, "competing_python": []}
+{"time": 1793107037.400257, "competing_python": []}
+{"time": 1793107052.430977, "competing_python": []}
+{"time": 1793107067.467285, "competing_python": []}
+{"time": 1793107082.52564, "competing_python": []}
+{"time": 1793107097.555063, "competing_python": []}
+{"time": 1793107112.584457, "competing_python": []}
+{"time": 1793107127.6104698, "competing_python": []}
+{"time": 1793107142.6404731, "competing_python": []}
+{"time": 1793107157.6699479, "competing_python": []}
+{"time": 1793107172.700044, "competing_python": []}
+{"time": 1793107187.72766, "competing_python": []}
+{"time": 1793107202.757938, "competing_python": []}
+{"time": 1793107217.783011, "competing_python": []}
+{"time": 1793107232.816555, "competing_python": []}
+{"time": 1793107247.8459089, "competing_python": []}
+{"time": 1793107262.873597, "competing_python": []}
+{"time": 1793107277.90306, "competing_python": []}
+{"time": 1793107292.934888, "competing_python": []}
+{"time": 1793107307.9624221, "competing_python": []}
+{"time": 1793107322.995779, "competing_python": []}
+{"time": 1793107338.0290592, "competing_python": []}
+{"time": 1793107353.052023, "competing_python": []}
+{"time": 1793107368.0857759, "competing_python": []}
+{"time": 1793107383.118381, "competing_python": []}
+{"time": 1793107398.152298, "competing_python": []}
+{"time": 1793107413.187607, "competing_python": []}
+{"time": 1793107428.223009, "competing_python": []}
+{"time": 1793107443.25614, "competing_python": []}
+{"time": 1793107458.291209, "competing_python": []}
+{"time": 1793107473.326241, "competing_python": []}
+{"time": 1793107488.359266, "competing_python": []}
+{"time": 1793107503.389635, "competing_python": []}
+{"time": 1793107518.424116, "competing_python": []}
+{"time": 1793107533.458313, "competing_python": []}
+{"time": 1793107548.4989629, "competing_python": []}
+{"time": 1793107563.5332181, "competing_python": []}
+{"time": 1793107578.557219, "competing_python": []}
+{"time": 1793107593.59159, "competing_python": []}
+{"time": 1793107608.6285372, "competing_python": []}
+{"time": 1793107623.660973, "competing_python": []}
+{"time": 1793107638.692874, "competing_python": []}
+{"time": 1793107653.7281249, "competing_python": []}
+{"time": 1793107668.756629, "competing_python": []}
+{"time": 1793107683.7917151, "competing_python": []}
+{"time": 1793107698.8268192, "competing_python": []}
+{"time": 1793107713.861315, "competing_python": []}
+{"time": 1793107728.8989692, "competing_python": []}
+{"time": 1793107743.929617, "competing_python": []}
+{"time": 1793107758.963236, "competing_python": []}
+{"time": 1793107773.998924, "competing_python": []}
+{"time": 1793107789.0340512, "competing_python": []}
+{"time": 1793107804.068225, "competing_python": []}
+{"time": 1793107819.1030688, "competing_python": []}
+{"time": 1793107834.1366742, "competing_python": []}
+{"time": 1793107849.165996, "competing_python": []}
+{"time": 1793107864.189357, "competing_python": []}
+{"time": 1793107879.2216792, "competing_python": []}
+{"time": 1793107894.254682, "competing_python": []}
+{"time": 1793107909.2896051, "competing_python": []}
+{"time": 1793107924.322078, "competing_python": []}
+{"time": 1793107939.355952, "competing_python": []}
+{"time": 1793107954.388593, "competing_python": []}
+{"time": 1793107969.4218318, "competing_python": []}
+{"time": 1793107984.454168, "competing_python": []}
+{"time": 1793107999.4842088, "competing_python": []}
+{"time": 1793108014.518684, "competing_python": []}
+{"time": 1793108029.550828, "competing_python": []}
+{"time": 1793108044.583307, "competing_python": []}
+{"time": 1793108059.612737, "competing_python": []}
+{"time": 1793108074.64599, "competing_python": []}
+{"time": 1793108089.678227, "competing_python": []}
+{"time": 1793108104.7114592, "competing_python": []}
+{"time": 1793108119.743027, "competing_python": []}
+{"time": 1793108134.776438, "competing_python": []}
+{"time": 1793108149.8093288, "competing_python": []}
+{"time": 1793108164.842377, "competing_python": []}
+{"time": 1793108179.873013, "competing_python": []}
+{"time": 1793108194.903627, "competing_python": []}
+{"time": 1793108209.928946, "competing_python": []}
+{"time": 1793108224.956278, "competing_python": []}
+{"time": 1793108239.980076, "competing_python": []}
+{"time": 1793108255.0127301, "competing_python": []}
+{"time": 1793108270.0456681, "competing_python": []}
+{"time": 1793108285.07973, "competing_python": []}
+{"time": 1793108300.1092732, "competing_python": []}
+{"time": 1793108315.142841, "competing_python": []}
+{"time": 1793108330.1770072, "competing_python": []}
+{"time": 1793108345.211856, "competing_python": []}
+{"time": 1793108360.2464309, "competing_python": []}
+{"time": 1793108375.275706, "competing_python": []}
+{"time": 1793108390.3029718, "competing_python": []}
+{"time": 1793108405.331012, "competing_python": []}
+{"time": 1793108420.358027, "competing_python": []}
+{"time": 1793108435.385258, "competing_python": []}
+{"time": 1793108450.413078, "competing_python": []}
+{"time": 1793108465.442626, "competing_python": []}
+{"time": 1793108480.472327, "competing_python": []}
+{"time": 1793108495.5009332, "competing_python": []}
+{"time": 1793108510.5328388, "competing_python": []}
+{"time": 1793108525.5576, "competing_python": []}
+{"time": 1793108540.584919, "competing_python": []}
+{"time": 1793108555.613537, "competing_python": []}
+{"time": 1793108570.6409721, "competing_python": []}
+{"time": 1793108585.66634, "competing_python": []}
+{"time": 1793108600.6922219, "competing_python": []}
+{"time": 1793108615.724214, "competing_python": []}
+{"time": 1793108630.7812889, "competing_python": []}
+{"time": 1793108645.807476, "competing_python": []}
+{"time": 1793108660.838872, "competing_python": []}
+{"time": 1793108675.8699598, "competing_python": []}
+{"time": 1793108690.899576, "competing_python": []}
+{"time": 1793108705.9291341, "competing_python": []}
+{"time": 1793108720.9580412, "competing_python": []}
+{"time": 1793108735.9878058, "competing_python": []}
+{"time": 1793108751.017869, "competing_python": []}
+{"time": 1793108766.048157, "competing_python": []}
+{"time": 1793108781.079259, "competing_python": []}
+{"time": 1793108796.107163, "competing_python": []}
+{"time": 1793108811.134091, "competing_python": []}
+{"time": 1793108826.163392, "competing_python": []}
+{"time": 1793108841.192754, "competing_python": []}
+{"time": 1793108856.2219899, "competing_python": []}
+{"time": 1793108871.254459, "competing_python": []}
+{"time": 1793108886.285612, "competing_python": []}
+{"time": 1793108901.315868, "competing_python": []}
+{"time": 1793108916.3470469, "competing_python": []}
+{"time": 1793108931.375922, "competing_python": []}
+{"time": 1793108946.405918, "competing_python": []}
+{"time": 1793108961.434442, "competing_python": []}
+{"time": 1793108976.459729, "competing_python": []}
+{"time": 1793108991.493644, "competing_python": []}
+{"time": 1793109006.53701, "competing_python": []}
+{"time": 1793109021.565475, "competing_python": []}
+{"time": 1793109036.5956428, "competing_python": []}
+{"time": 1793109053.307734, "competing_python": []}
+{"time": 1793109068.3365262, "competing_python": []}
+{"time": 1793109083.367414, "competing_python": []}
+{"time": 1793109098.530447, "competing_python": []}
+{"time": 1793109113.560601, "competing_python": []}
+{"time": 1793109128.5875762, "competing_python": []}
+{"time": 1793109143.6190631, "competing_python": []}
+{"time": 1793109158.645706, "competing_python": []}
+{"time": 1793109173.677734, "competing_python": []}
+{"time": 1793109188.706353, "competing_python": []}
+{"time": 1793109203.734936, "competing_python": []}
+{"time": 1793109218.761194, "competing_python": []}
+{"time": 1793109233.78876, "competing_python": []}
+{"time": 1793109248.820826, "competing_python": []}
+{"time": 1793109263.853318, "competing_python": []}
+{"time": 1793109278.886071, "competing_python": []}
+{"time": 1793109293.9124238, "competing_python": []}
+{"time": 1793109308.939378, "competing_python": []}
+{"time": 1793109323.968549, "competing_python": []}
+{"time": 1793109339.000422, "competing_python": []}
+{"time": 1793109354.026994, "competing_python": []}
+{"time": 1793109369.0559201, "competing_python": []}
+{"time": 1793109384.083115, "competing_python": []}
+{"time": 1793109399.1147342, "competing_python": []}
+{"time": 1793109414.1452448, "competing_python": []}
+{"time": 1793109429.1732118, "competing_python": []}
+{"time": 1793109444.2037299, "competing_python": []}
+{"time": 1793109459.238427, "competing_python": []}
+{"time": 1793109474.2696252, "competing_python": []}
+{"time": 1793109489.312425, "competing_python": []}
+{"time": 1793109504.3389351, "competing_python": []}
+{"time": 1793109519.3824189, "competing_python": []}
+{"time": 1793109534.4131432, "competing_python": []}
+{"time": 1793109549.462052, "competing_python": []}
+{"time": 1793109564.494275, "competing_python": []}
+{"time": 1793109579.617033, "competing_python": []}
+{"time": 1793109594.64892, "competing_python": []}
+{"time": 1793109609.677709, "competing_python": []}
+{"time": 1793109624.704417, "competing_python": []}
+{"time": 1793109639.7433531, "competing_python": []}
+{"time": 1793109654.779894, "competing_python": []}
+{"time": 1793109669.819316, "competing_python": []}
+{"time": 1793109684.847896, "competing_python": []}
+{"time": 1793109699.87806, "competing_python": []}
+{"time": 1793109714.9069, "competing_python": []}
+{"time": 1793109729.9366841, "competing_python": []}
+{"time": 1793109744.965716, "competing_python": []}
+{"time": 1793109759.995852, "competing_python": []}
+{"time": 1793109775.021643, "competing_python": []}
+{"time": 1793109790.0532281, "competing_python": []}
+{"time": 1793109805.0823019, "competing_python": []}
+{"time": 1793109820.111876, "competing_python": []}
+{"time": 1793109835.14324, "competing_python": []}
+{"time": 1793109850.172343, "competing_python": []}
+{"time": 1793109865.202241, "competing_python": []}
+{"time": 1793109880.230276, "competing_python": []}
+{"time": 1793109895.257257, "competing_python": []}
+{"time": 1793109910.285768, "competing_python": []}
+{"time": 1793109925.3103921, "competing_python": []}
+{"time": 1793109940.340168, "competing_python": []}
+{"time": 1793109955.370286, "competing_python": []}
+{"time": 1793109970.395135, "competing_python": []}
+{"time": 1793109985.4244008, "competing_python": []}
+{"time": 1793110000.453332, "competing_python": []}
+{"time": 1793110015.485245, "competing_python": []}
+{"time": 1793110030.5165892, "competing_python": []}
+{"time": 1793110045.54187, "competing_python": []}
+{"time": 1793110060.591789, "competing_python": []}
+{"time": 1793110075.6219678, "competing_python": []}
+{"time": 1793110090.6494908, "competing_python": []}
+{"time": 1793110105.6829178, "competing_python": []}
+{"time": 1793110120.7132218, "competing_python": []}
+{"time": 1793110135.742456, "competing_python": []}
+{"time": 1793110150.7696362, "competing_python": []}
+{"time": 1793110165.799853, "competing_python": []}
+{"time": 1793110180.8289201, "competing_python": []}
+{"time": 1793110195.861069, "competing_python": []}
+{"time": 1793110210.891961, "competing_python": []}
+{"time": 1793110225.923121, "competing_python": []}
+{"time": 1793110240.95225, "competing_python": []}
+{"time": 1793110255.9824488, "competing_python": []}
+{"time": 1793110271.00972, "competing_python": []}
+{"time": 1793110286.039119, "competing_python": []}
+{"time": 1793110301.067179, "competing_python": []}
+{"time": 1793110316.0930119, "competing_python": []}
+{"time": 1793110331.119175, "competing_python": [{"pid": 60761, "cpu": 79.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793110346.1446772, "competing_python": []}
+{"time": 1793110361.171137, "competing_python": []}
+{"time": 1793110376.199342, "competing_python": []}
+{"time": 1793110391.224621, "competing_python": []}
+{"time": 1793110406.258085, "competing_python": []}
+{"time": 1793110421.287116, "competing_python": []}
+{"time": 1793110436.3162298, "competing_python": []}
+{"time": 1793110451.3422909, "competing_python": []}
+{"time": 1793110466.371466, "competing_python": []}
+{"time": 1793110481.400948, "competing_python": []}
+{"time": 1793110496.425, "competing_python": []}
+{"time": 1793110511.453537, "competing_python": []}
+{"time": 1793110526.4826088, "competing_python": []}
+{"time": 1793110541.51154, "competing_python": []}
+{"time": 1793110556.535317, "competing_python": []}
+{"time": 1793110571.562421, "competing_python": []}
+{"time": 1793110586.592858, "competing_python": []}
+{"time": 1793110601.623578, "competing_python": []}
+{"time": 1793110616.651839, "competing_python": []}
+{"time": 1793110631.679414, "competing_python": []}
+{"time": 1793110646.704572, "competing_python": []}
+{"time": 1793110661.73231, "competing_python": []}
+{"time": 1793110676.7618828, "competing_python": []}
+{"time": 1793110691.787505, "competing_python": []}
+{"time": 1793110706.8165078, "competing_python": []}
+{"time": 1793110721.845212, "competing_python": []}
+{"time": 1793110736.872512, "competing_python": []}
+{"time": 1793110751.900099, "competing_python": []}
+{"time": 1793110766.925131, "competing_python": []}
+{"time": 1793110781.951158, "competing_python": []}
+{"time": 1793110796.9805949, "competing_python": []}
+{"time": 1793110812.006175, "competing_python": []}
+{"time": 1793110827.0354161, "competing_python": []}
+{"time": 1793110842.0675719, "competing_python": []}
+{"time": 1793110857.0962932, "competing_python": []}
+{"time": 1793110872.127554, "competing_python": []}
+{"time": 1793110887.152228, "competing_python": []}
+{"time": 1793110902.182894, "competing_python": []}
+{"time": 1793110917.2113159, "competing_python": []}
+{"time": 1793110932.2418182, "competing_python": []}
+{"time": 1793110947.2723432, "competing_python": []}
+{"time": 1793110962.299121, "competing_python": []}
+{"time": 1793110977.332663, "competing_python": []}
+{"time": 1793110992.360621, "competing_python": []}
+{"time": 1793111007.389876, "competing_python": []}
+{"time": 1793111022.418124, "competing_python": []}
+{"time": 1793111037.4545841, "competing_python": []}
+{"time": 1793111052.4830348, "competing_python": []}
+{"time": 1793111067.517977, "competing_python": []}
+{"time": 1793111082.551278, "competing_python": []}
+{"time": 1793111097.584586, "competing_python": []}
+{"time": 1793111112.612962, "competing_python": []}
+{"time": 1793111127.642654, "competing_python": []}
+{"time": 1793111142.669069, "competing_python": []}
+{"time": 1793111157.704524, "competing_python": []}
+{"time": 1793111172.734369, "competing_python": []}
+{"time": 1793111187.769485, "competing_python": []}
+{"time": 1793111202.805849, "competing_python": []}
+{"time": 1793111217.8395362, "competing_python": []}
+{"time": 1793111232.873939, "competing_python": []}
+{"time": 1793111247.9099782, "competing_python": []}
+{"time": 1793111262.944884, "competing_python": []}
+{"time": 1793111277.978244, "competing_python": []}
+{"time": 1793111293.008677, "competing_python": []}
+{"time": 1793111308.034579, "competing_python": []}
+{"time": 1793111323.065461, "competing_python": []}
+{"time": 1793111338.092412, "competing_python": []}
+{"time": 1793111353.124734, "competing_python": []}
+{"time": 1793111368.158914, "competing_python": []}
+{"time": 1793111383.191937, "competing_python": []}
+{"time": 1793111398.2187462, "competing_python": []}
+{"time": 1793111413.25141, "competing_python": []}
+{"time": 1793111428.280221, "competing_python": []}
+{"time": 1793111443.316224, "competing_python": []}
+{"time": 1793111458.340523, "competing_python": []}
+{"time": 1793111473.3730009, "competing_python": []}
+{"time": 1793111488.406386, "competing_python": []}
+{"time": 1793111503.437241, "competing_python": []}
+{"time": 1793111518.462205, "competing_python": []}
+{"time": 1793111533.486937, "competing_python": []}
+{"time": 1793111548.516198, "competing_python": []}
+{"time": 1793111563.5503922, "competing_python": []}
+{"time": 1793111578.575159, "competing_python": []}
+{"time": 1793111593.5992682, "competing_python": []}
+{"time": 1793111608.6331468, "competing_python": []}
+{"time": 1793111623.663499, "competing_python": []}
+{"time": 1793111638.694935, "competing_python": []}
+{"time": 1793111653.7214022, "competing_python": []}
+{"time": 1793111668.750819, "competing_python": []}
+{"time": 1793111683.785629, "competing_python": []}
+{"time": 1793111698.8151271, "competing_python": []}
+{"time": 1793111713.848208, "competing_python": []}
+{"time": 1793111728.88055, "competing_python": []}
+{"time": 1793111743.912215, "competing_python": []}
+{"time": 1793111758.94329, "competing_python": []}
+{"time": 1793111773.974647, "competing_python": []}
+{"time": 1793111789.007498, "competing_python": []}
+{"time": 1793111804.04178, "competing_python": []}
+{"time": 1793111819.067522, "competing_python": []}
+{"time": 1793111834.100208, "competing_python": []}
+{"time": 1793111849.130968, "competing_python": []}
+{"time": 1793111864.154866, "competing_python": []}
+{"time": 1793111879.180191, "competing_python": []}
+{"time": 1793111894.2118652, "competing_python": []}
+{"time": 1793111909.2400799, "competing_python": []}
+{"time": 1793111924.2736042, "competing_python": []}
+{"time": 1793111939.3049521, "competing_python": []}
+{"time": 1793111954.337704, "competing_python": []}
+{"time": 1793111969.3710191, "competing_python": []}
+{"time": 1793111984.4047549, "competing_python": []}
+{"time": 1793111999.436834, "competing_python": []}
+{"time": 1793112014.4706829, "competing_python": []}
+{"time": 1793112029.496532, "competing_python": []}
+{"time": 1793112044.5292952, "competing_python": []}
+{"time": 1793112059.5537121, "competing_python": []}
+{"time": 1793112074.586724, "competing_python": []}
+{"time": 1793112089.621491, "competing_python": []}
+{"time": 1793112104.6450229, "competing_python": []}
+{"time": 1793112119.6777759, "competing_python": []}
+{"time": 1793112134.711931, "competing_python": []}
+{"time": 1793112149.743443, "competing_python": []}
+{"time": 1793112169.323516, "competing_python": []}
+{"time": 1793112189.634617, "competing_python": []}
+{"time": 1793112204.6677701, "competing_python": []}
+{"time": 1793112219.719369, "competing_python": []}
+{"time": 1793112234.7494788, "competing_python": []}
+{"time": 1793112249.7995222, "competing_python": []}
+{"time": 1793112264.825582, "competing_python": []}
+{"time": 1793112279.873392, "competing_python": []}
+{"time": 1793112294.903059, "competing_python": []}
+{"time": 1793112309.952587, "competing_python": []}
+{"time": 1793112324.981072, "competing_python": []}
+{"time": 1793112340.013129, "competing_python": []}
+{"time": 1793112355.043793, "competing_python": []}
+{"time": 1793112370.090688, "competing_python": []}
+{"time": 1793112385.127105, "competing_python": []}
+{"time": 1793112400.168726, "competing_python": []}
+{"time": 1793112415.1940181, "competing_python": []}
+{"time": 1793112430.239806, "competing_python": []}
+{"time": 1793112445.267738, "competing_python": []}
+{"time": 1793112460.3145611, "competing_python": []}
+{"time": 1793112475.342979, "competing_python": []}
+{"time": 1793112490.389407, "competing_python": []}
+{"time": 1793112505.416838, "competing_python": []}
+{"time": 1793112520.461354, "competing_python": []}
+{"time": 1793112535.493784, "competing_python": []}
+{"time": 1793112550.530606, "competing_python": []}
+{"time": 1793112565.631108, "competing_python": []}
+{"time": 1793112580.6811562, "competing_python": []}
+{"time": 1793112595.71197, "competing_python": []}
+{"time": 1793112610.742482, "competing_python": []}
+{"time": 1793112625.7677262, "competing_python": []}
+{"time": 1793112640.8146088, "competing_python": []}
+{"time": 1793112655.844815, "competing_python": []}
+{"time": 1793112670.895751, "competing_python": []}
+{"time": 1793112685.924062, "competing_python": []}
+{"time": 1793112700.967734, "competing_python": []}
+{"time": 1793112715.998985, "competing_python": []}
+{"time": 1793112731.0478752, "competing_python": []}
+{"time": 1793112746.073462, "competing_python": []}
+{"time": 1793112761.108927, "competing_python": []}
+{"time": 1793112776.139176, "competing_python": []}
+{"time": 1793112791.186348, "competing_python": []}
+{"time": 1793112806.219691, "competing_python": []}
+{"time": 1793112821.270015, "competing_python": []}
+{"time": 1793112836.316772, "competing_python": []}
+{"time": 1793112851.3722172, "competing_python": []}
+{"time": 1793112866.396826, "competing_python": []}
+{"time": 1793112881.4466932, "competing_python": []}
+{"time": 1793112896.472053, "competing_python": []}
+{"time": 1793112911.522532, "competing_python": []}
+{"time": 1793112926.553238, "competing_python": []}
+{"time": 1793112941.603722, "competing_python": []}
+{"time": 1793112956.632085, "competing_python": []}
+{"time": 1793112971.6637921, "competing_python": []}
+{"time": 1793112986.691851, "competing_python": []}
+{"time": 1793113001.719467, "competing_python": []}
+{"time": 1793113016.7476768, "competing_python": []}
+{"time": 1793113031.776329, "competing_python": []}
+{"time": 1793113046.8090298, "competing_python": []}
+{"time": 1793113061.839621, "competing_python": []}
+{"time": 1793113076.870625, "competing_python": []}
+{"time": 1793113091.901427, "competing_python": []}
+{"time": 1793113106.926982, "competing_python": []}
+{"time": 1793113121.958345, "competing_python": []}
+{"time": 1793113136.991827, "competing_python": []}
+{"time": 1793113152.023239, "competing_python": []}
+{"time": 1793113167.05389, "competing_python": []}
+{"time": 1793113182.0816572, "competing_python": []}
+{"time": 1793113197.111477, "competing_python": []}
+{"time": 1793113212.141183, "competing_python": []}
+{"time": 1793113227.1705961, "competing_python": []}
+{"time": 1793113242.19972, "competing_python": []}
+{"time": 1793113257.228041, "competing_python": []}
+{"time": 1793113272.2577999, "competing_python": []}
+{"time": 1793113287.365522, "competing_python": []}
+{"time": 1793113302.393595, "competing_python": []}
+{"time": 1793113317.417797, "competing_python": []}
+{"time": 1793113332.446568, "competing_python": []}
+{"time": 1793113347.4743161, "competing_python": []}
+{"time": 1793113362.508217, "competing_python": []}
+{"time": 1793113377.53718, "competing_python": []}
+{"time": 1793113392.565567, "competing_python": []}
+{"time": 1793113407.591178, "competing_python": []}
+{"time": 1793113422.6225019, "competing_python": []}
+{"time": 1793113437.645343, "competing_python": []}
+{"time": 1793113452.6703098, "competing_python": []}
+{"time": 1793113467.695308, "competing_python": []}
+{"time": 1793113482.724852, "competing_python": []}
+{"time": 1793113497.754391, "competing_python": []}
+{"time": 1793113512.785488, "competing_python": []}
+{"time": 1793113527.812726, "competing_python": []}
+{"time": 1793113542.845848, "competing_python": []}
+{"time": 1793113557.872617, "competing_python": []}
+{"time": 1793113572.903498, "competing_python": []}
+{"time": 1793113587.934196, "competing_python": []}
+{"time": 1793113602.96144, "competing_python": []}
+{"time": 1793113617.993195, "competing_python": []}
+{"time": 1793113633.022035, "competing_python": []}
+{"time": 1793113648.0515862, "competing_python": []}
+{"time": 1793113663.083769, "competing_python": []}
+{"time": 1793113678.110889, "competing_python": []}
+{"time": 1793113693.138457, "competing_python": []}
+{"time": 1793113708.170155, "competing_python": []}
+{"time": 1793113723.201463, "competing_python": []}
+{"time": 1793113738.2331781, "competing_python": []}
+{"time": 1793113753.262242, "competing_python": []}
+{"time": 1793113768.292762, "competing_python": []}
+{"time": 1793113783.3214238, "competing_python": []}
+{"time": 1793113798.3485372, "competing_python": []}
+{"time": 1793113813.3764281, "competing_python": []}
+{"time": 1793113828.4074419, "competing_python": []}
+{"time": 1793113843.437046, "competing_python": []}
+{"time": 1793113858.4677172, "competing_python": []}
+{"time": 1793113873.496644, "competing_python": []}
+{"time": 1793113888.530802, "competing_python": []}
+{"time": 1793113903.561769, "competing_python": []}
+{"time": 1793113918.5929952, "competing_python": []}
+{"time": 1793113933.618412, "competing_python": []}
+{"time": 1793113948.646733, "competing_python": []}
+{"time": 1793113963.676588, "competing_python": []}
+{"time": 1793113978.7045388, "competing_python": []}
+{"time": 1793113993.732982, "competing_python": []}
+{"time": 1793114008.768244, "competing_python": []}
+{"time": 1793114023.799676, "competing_python": []}
+{"time": 1793114038.830591, "competing_python": []}
+{"time": 1793114053.856627, "competing_python": []}
+{"time": 1793114068.887289, "competing_python": []}
+{"time": 1793114083.919662, "competing_python": []}
+{"time": 1793114098.9465432, "competing_python": []}
+{"time": 1793114113.9743721, "competing_python": []}
+{"time": 1793114129.00056, "competing_python": []}
+{"time": 1793114144.0280268, "competing_python": []}
+{"time": 1793114159.056287, "competing_python": []}
+{"time": 1793114174.082491, "competing_python": []}
+{"time": 1793114189.112797, "competing_python": []}
+{"time": 1793114204.14293, "competing_python": []}
+{"time": 1793114219.172631, "competing_python": []}
+{"time": 1793114234.203197, "competing_python": []}
+{"time": 1793114249.233012, "competing_python": []}
+{"time": 1793114264.257501, "competing_python": []}
+{"time": 1793114279.2887511, "competing_python": []}
+{"time": 1793114294.3187551, "competing_python": []}
+{"time": 1793114309.348743, "competing_python": []}
+{"time": 1793114324.37627, "competing_python": []}
+{"time": 1793114339.4062662, "competing_python": []}
+{"time": 1793114354.434653, "competing_python": []}
+{"time": 1793114369.4625669, "competing_python": []}
+{"time": 1793114384.495306, "competing_python": []}
+{"time": 1793114399.5268118, "competing_python": []}
+{"time": 1793114414.550634, "competing_python": []}
+{"time": 1793114429.574249, "competing_python": []}
+{"time": 1793114444.602176, "competing_python": []}
+{"time": 1793114459.63473, "competing_python": []}
+{"time": 1793114474.663976, "competing_python": []}
+{"time": 1793114489.6942022, "competing_python": []}
+{"time": 1793114504.7224681, "competing_python": []}
+{"time": 1793114519.7519848, "competing_python": []}
+{"time": 1793114534.779989, "competing_python": []}
+{"time": 1793114549.811711, "competing_python": []}
+{"time": 1793114564.842059, "competing_python": []}
+{"time": 1793114579.870412, "competing_python": []}
+{"time": 1793114594.900966, "competing_python": []}
+{"time": 1793114609.929397, "competing_python": []}
+{"time": 1793114624.962341, "competing_python": []}
+{"time": 1793114639.993, "competing_python": []}
+{"time": 1793114655.0212622, "competing_python": []}
+{"time": 1793114670.0506592, "competing_python": []}
+{"time": 1793114685.080287, "competing_python": []}
+{"time": 1793114700.108395, "competing_python": []}
+{"time": 1793114715.137182, "competing_python": []}
+{"time": 1793114730.167138, "competing_python": []}
+{"time": 1793114745.198074, "competing_python": []}
+{"time": 1793114760.229171, "competing_python": []}
+{"time": 1793114775.26078, "competing_python": []}
+{"time": 1793114790.292325, "competing_python": []}
+{"time": 1793114805.323773, "competing_python": []}
+{"time": 1793114820.355009, "competing_python": []}
+{"time": 1793114835.384619, "competing_python": []}
+{"time": 1793114850.413385, "competing_python": []}
+{"time": 1793114865.445316, "competing_python": []}
+{"time": 1793114880.470239, "competing_python": []}
+{"time": 1793114895.502336, "competing_python": []}
+{"time": 1793114910.528513, "competing_python": []}
+{"time": 1793114925.5630279, "competing_python": []}
+{"time": 1793114940.5964742, "competing_python": []}
+{"time": 1793114955.632521, "competing_python": []}
+{"time": 1793114970.659522, "competing_python": []}
+{"time": 1793114985.695155, "competing_python": []}
+{"time": 1793115000.729833, "competing_python": []}
+{"time": 1793115015.763995, "competing_python": []}
+{"time": 1793115030.787057, "competing_python": []}
+{"time": 1793115045.817662, "competing_python": []}
+{"time": 1793115060.852373, "competing_python": []}
+{"time": 1793115075.886914, "competing_python": []}
+{"time": 1793115090.9201941, "competing_python": []}
+{"time": 1793115105.9528692, "competing_python": []}
+{"time": 1793115120.9873369, "competing_python": []}
+{"time": 1793115136.021512, "competing_python": []}
+{"time": 1793115151.05026, "competing_python": []}
+{"time": 1793115166.07922, "competing_python": []}
+{"time": 1793115181.1061308, "competing_python": []}
+{"time": 1793115196.1315892, "competing_python": []}
+{"time": 1793115211.160165, "competing_python": []}
+{"time": 1793115226.188242, "competing_python": []}
+{"time": 1793115241.217953, "competing_python": []}
+{"time": 1793115256.25058, "competing_python": []}
+{"time": 1793115271.279256, "competing_python": []}
+{"time": 1793115286.3051689, "competing_python": []}
+{"time": 1793115301.331507, "competing_python": []}
+{"time": 1793115316.355916, "competing_python": []}
+{"time": 1793115331.380357, "competing_python": []}
+{"time": 1793115346.409051, "competing_python": []}
+{"time": 1793115361.436497, "competing_python": []}
+{"time": 1793115376.460843, "competing_python": []}
+{"time": 1793115391.4892118, "competing_python": []}
+{"time": 1793115406.5317361, "competing_python": [{"pid": 81007, "cpu": 65.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 81008, "cpu": 63.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 81009, "cpu": 68.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 81010, "cpu": 66.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 81011, "cpu": 77.7, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793115421.719433, "competing_python": [{"pid": 81007, "cpu": 85.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 81008, "cpu": 85.1, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 81009, "cpu": 73.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 81010, "cpu": 82.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 81011, "cpu": 80.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793115436.9107919, "competing_python": [{"pid": 81007, "cpu": 86.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 81008, "cpu": 84.3, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 81009, "cpu": 82.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 81010, "cpu": 83.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 81011, "cpu": 86.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793115451.974802, "competing_python": [{"pid": 81007, "cpu": 86.5, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 81008, "cpu": 90.8, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 81009, "cpu": 92.4, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 81010, "cpu": 90.2, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}, {"pid": 81011, "cpu": 87.6, "name": "/Volumes/MacShare/Something/research_q1_20261024/new_directions/rl_experiments/.venv/bin/python"}]}
+{"time": 1793115467.033138, "competing_python": []}
+{"time": 1793115482.061493, "competing_python": []}
+{"time": 1793115497.095198, "competing_python": []}
+{"time": 1793115512.1301272, "competing_python": []}
+{"time": 1793115527.1629791, "competing_python": []}
+{"time": 1793115542.195734, "competing_python": []}
+{"time": 1793115557.230387, "competing_python": []}
+{"time": 1793115572.2640069, "competing_python": []}
+{"time": 1793115587.298561, "competing_python": []}
+{"time": 1793115602.330373, "competing_python": []}
+{"time": 1793115617.357186, "competing_python": []}
+{"time": 1793115632.390812, "competing_python": []}
+{"time": 1793115647.422258, "competing_python": []}
+{"time": 1793115662.451026, "competing_python": []}
+{"time": 1793115677.482443, "competing_python": []}
+{"time": 1793115692.507148, "competing_python": []}
+{"time": 1793115707.5410051, "competing_python": []}
+{"time": 1793115722.5697868, "competing_python": []}
+{"time": 1793115737.60352, "competing_python": []}
+{"time": 1793115752.632608, "competing_python": []}
+{"time": 1793115767.665535, "competing_python": []}
+{"time": 1793115782.699001, "competing_python": []}
+{"time": 1793115797.728999, "competing_python": []}
+{"time": 1793115812.7580302, "competing_python": []}

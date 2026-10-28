@@ -1,0 +1,1 @@
+Historical saved-input sensitivity analysis. All trimmed and untrimmed outcomes retained. Original paths in the script are archival; no new training or predictions. The parent repository contains the original input evaluation records.

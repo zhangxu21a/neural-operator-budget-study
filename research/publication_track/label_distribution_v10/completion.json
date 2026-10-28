@@ -1,0 +1,16 @@
+{
+  "complete": true,
+  "n": 512,
+  "new_solves": 1536,
+  "seconds": 140.070133500034,
+  "solver_seconds": {
+    "hf": 87.49918112717569,
+    "coarse8": 0.0,
+    "coarse32": 3.1264803430531174,
+    "phys8": 0.0,
+    "phys32": 33.97190066217445
+  },
+  "max_hf_residual": 9.873397369158759e-09,
+  "max_hf_iterations": 11,
+  "frozen_sources_unchanged": true
+}

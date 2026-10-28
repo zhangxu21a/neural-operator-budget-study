@@ -1,0 +1,13 @@
+{
+  "verified_files": 931,
+  "formal_runs": 100,
+  "tuning_runs": 48,
+  "dependent_endpoints": 280,
+  "all_source_checks_pass": true,
+  "all_budgets_and_selection_checks_pass": true,
+  "released_means_reproduced": true,
+  "new_training": false,
+  "new_model_evaluation": false,
+  "assets_checked": false,
+  "scope": "Three prospective cohorts. Legacy appendix remains a separate archived cohort; not pooled."
+}

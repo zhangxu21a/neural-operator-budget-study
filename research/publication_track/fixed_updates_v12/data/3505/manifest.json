@@ -1,0 +1,30 @@
+{
+  "seed": 3505,
+  "parameter_seed": 104505,
+  "pool": 8192,
+  "needed": 6150,
+  "input_seconds": 104.99496810114942,
+  "label_seconds": {
+    "hf": 5.1934147090651095,
+    "coarse8": 0.0,
+    "coarse32": 34.110541155794635,
+    "phys8": 0.0,
+    "phys32": 393.0418354535941
+  },
+  "common_initial_hf_seconds": 5.193533833138645,
+  "hf_max_residual": 9.7561417020392e-09,
+  "hf_max_iterations": 11,
+  "wall_seconds": 793.2729844171554,
+  "initial_state_hash": "f570f4936a616ff1c9efcf9c8910cb0c63ff41701a747a26cceb7b246945e03f",
+  "files": {
+    "parameters.npy": "b64581dce1497f27f7bdc718d2f0a997c55c0bf76274c39e148043afc79b71b2",
+    "needed_ids.npy": "d1cbd0515c4f12b0a8874446611f7d8da093278e1f949bbaeeb0bd1831c3b9ed",
+    "batch_rows.npy": "a53dc5a3d415310a8891a5291eac2dc4b7178c04d9c4dabc630cb8297fdba166",
+    "batch_lengths.npy": "92e6ba043721a4c3d5c57bbcb1707976d8c944e3bcb016cb37c4c67f528f66e1",
+    "inputs.npy": "f909561d5da596e3d6f6ebedb010c4e1eed191e4ed53980420262a50f71cb8a6",
+    "coarse32.npy": "6c64269f5fca02564eba19d8f121973bf71c21806069736b17cfda519a4d0039",
+    "phys32.npy": "1190b18ce3f2ad6432fc20c08e982f04f04c60c522b7ddcfe05c9bc13152e1f8",
+    "initial_state.pt": "1598b10540b4d4e6e32b4232f8deb6f6171c2390e1c5641c9386d004bcd55e1b"
+  },
+  "scope": "Only scheduled input IDs plus initial32; complete sequence fixed before training; all label work outside fixed-update run"
+}

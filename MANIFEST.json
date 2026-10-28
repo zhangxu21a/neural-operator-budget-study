@@ -15,8 +15,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5002,
-      "sha256": "dbf4dae9f7f5dc96f22be94f22461f7d8e014c05d2f56c9a7602cf261e643408",
+      "bytes": 7498,
+      "sha256": "0a4c7e2e3182b2c7a164e549794f7222c0dcbaae7bd6f448f852a6be1d5d9d79",
       "tier": "analysis"
     },
     {
@@ -7713,8 +7713,8 @@
     },
     {
       "path": "CITATION.cff",
-      "bytes": 555,
-      "sha256": "a891ae67726291741aa19eb095d5e9235ae2808b7c27fb00cd8fc0f1329638fd",
+      "bytes": 577,
+      "sha256": "9ecff274eec74d5ee206b30491e3a32b4b6dee6ea2faca42791930414b55102a",
       "tier": "analysis"
     },
     {
@@ -7738,5 +7738,5 @@
   ],
   "legacy_original_files_verified": 440,
   "asset_archive": "submission_v5/model_reference_assets.tar",
-  "revision": "GitHub public release 1.0.0; large assets external"
+  "revision": "CMWA v12: historical manifest refreshed for documentation; frozen sources separately verified; additions in V12_MANIFEST.json"
 }

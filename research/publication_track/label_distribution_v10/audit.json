@@ -1,0 +1,7 @@
+{
+  "all512errors_recomputed": true,
+  "all_inputs_retained": true,
+  "bootstrap_resamples": 20000,
+  "reference_outcomes_not_used": true,
+  "input_sha256_verified": true
+}

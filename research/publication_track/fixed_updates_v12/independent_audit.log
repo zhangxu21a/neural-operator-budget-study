@@ -1,0 +1,233 @@
+{
+  "complete_records": 20,
+  "all_frozen_hashes_match": true,
+  "all_precomputed_data_hashes_match": true,
+  "planned_input_and_lr_sequences_match": true,
+  "all_data_finite": true,
+  "common_initial_hf_targets_match": true,
+  "runs": [
+    {
+      "run": "coarse32_lr0.002_s3101",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "phys32_lr0.002_s3101",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "coarse32_lr0.008_s3101",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "phys32_lr0.008_s3101",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "coarse32_lr0.002_s3202",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "phys32_lr0.002_s3202",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "coarse32_lr0.008_s3202",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "phys32_lr0.008_s3202",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "coarse32_lr0.002_s3303",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "phys32_lr0.002_s3303",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "coarse32_lr0.008_s3303",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "phys32_lr0.008_s3303",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "coarse32_lr0.002_s3404",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "phys32_lr0.002_s3404",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "coarse32_lr0.008_s3404",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "phys32_lr0.008_s3404",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "coarse32_lr0.002_s3505",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "phys32_lr0.002_s3505",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "coarse32_lr0.008_s3505",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    },
+    {
+      "run": "phys32_lr0.008_s3505",
+      "successful_updates": 1400,
+      "retained_failure": null,
+      "endpoints": [
+        "800",
+        "1400"
+      ],
+      "planned_sequence_verified": true,
+      "lr_sequence_verified": true
+    }
+  ],
+  "competing_python_observations": 240,
+  "scope": "Python load log does not certify whole-host isolation; retain all runs. No new predictions.",
+  "editorial_complete": false
+}

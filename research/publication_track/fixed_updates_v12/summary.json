@@ -1,0 +1,1721 @@
+{
+  "groups": [
+    {
+      "model": "last",
+      "split": "test",
+      "rate": 0.002,
+      "updates": 800,
+      "arm": "coarse32",
+      "values_pct": [
+        16.80657109245658,
+        21.92258857539855,
+        16.82828954071738,
+        13.681930297752842,
+        18.57069523539394
+      ],
+      "mean_pct": 17.562014948343858
+    },
+    {
+      "model": "last",
+      "split": "test",
+      "rate": 0.002,
+      "updates": 800,
+      "arm": "phys32",
+      "values_pct": [
+        12.760996518773027,
+        20.177041791612282,
+        14.728875743458048,
+        11.01311327656731,
+        14.70403604907915
+      ],
+      "mean_pct": 14.676812675897963
+    },
+    {
+      "model": "last",
+      "split": "test",
+      "rate": 0.002,
+      "updates": 1400,
+      "arm": "coarse32",
+      "values_pct": [
+        15.934771491447464,
+        15.075247938511893,
+        15.899653790984303,
+        13.270024460507557,
+        17.4761121685151
+      ],
+      "mean_pct": 15.531161969993263
+    },
+    {
+      "model": "last",
+      "split": "test",
+      "rate": 0.002,
+      "updates": 1400,
+      "arm": "phys32",
+      "values_pct": [
+        10.905662630102597,
+        10.957734723342583,
+        13.159697625087574,
+        9.137399960309267,
+        13.49646377202589
+      ],
+      "mean_pct": 11.531391742173582
+    },
+    {
+      "model": "last",
+      "split": "test",
+      "rate": 0.008,
+      "updates": 800,
+      "arm": "coarse32",
+      "values_pct": [
+        18.223450798541307,
+        31.604053906630725,
+        20.066360337659717,
+        16.93315666052513,
+        23.366232798434794
+      ],
+      "mean_pct": 22.038650900358334
+    },
+    {
+      "model": "last",
+      "split": "test",
+      "rate": 0.008,
+      "updates": 800,
+      "arm": "phys32",
+      "values_pct": [
+        15.932850673561916,
+        36.4164620754309,
+        15.657332050614059,
+        12.582295114407316,
+        20.82994653028436
+      ],
+      "mean_pct": 20.28377728885971
+    },
+    {
+      "model": "last",
+      "split": "test",
+      "rate": 0.008,
+      "updates": 1400,
+      "arm": "coarse32",
+      "values_pct": [
+        16.25765067874454,
+        15.27496394701302,
+        20.174628734821454,
+        14.535210403846577,
+        21.330314490478486
+      ],
+      "mean_pct": 17.514553650980815
+    },
+    {
+      "model": "last",
+      "split": "test",
+      "rate": 0.008,
+      "updates": 1400,
+      "arm": "phys32",
+      "values_pct": [
+        12.48606577864848,
+        11.608759505907074,
+        15.088125329930335,
+        9.998584567802027,
+        20.15206430805847
+      ],
+      "mean_pct": 13.866719898069277
+    },
+    {
+      "model": "last",
+      "split": "ood",
+      "rate": 0.002,
+      "updates": 800,
+      "arm": "coarse32",
+      "values_pct": [
+        18.880399269983172,
+        25.553208868950605,
+        18.64006979158148,
+        15.777884656563401,
+        20.752293220721185
+      ],
+      "mean_pct": 19.92077116155997
+    },
+    {
+      "model": "last",
+      "split": "ood",
+      "rate": 0.002,
+      "updates": 800,
+      "arm": "phys32",
+      "values_pct": [
+        14.870735979638994,
+        23.158609156962484,
+        16.223294206429273,
+        13.189210498239845,
+        16.26211361726746
+      ],
+      "mean_pct": 16.74079269170761
+    },
+    {
+      "model": "last",
+      "split": "ood",
+      "rate": 0.002,
+      "updates": 1400,
+      "arm": "coarse32",
+      "values_pct": [
+        17.8358705365099,
+        16.792155639268458,
+        17.529025208204985,
+        14.587149216094986,
+        19.496522459667176
+      ],
+      "mean_pct": 17.2481446119491
+    },
+    {
+      "model": "last",
+      "split": "ood",
+      "rate": 0.002,
+      "updates": 1400,
+      "arm": "phys32",
+      "values_pct": [
+        12.954211386386305,
+        12.364935036748648,
+        14.476838009431958,
+        11.070779641158879,
+        15.245986124500632
+      ],
+      "mean_pct": 13.222550039645284
+    },
+    {
+      "model": "last",
+      "split": "ood",
+      "rate": 0.008,
+      "updates": 800,
+      "arm": "coarse32",
+      "values_pct": [
+        21.165447391103953,
+        34.706068434752524,
+        22.263222199399024,
+        19.71057440387085,
+        26.602811296470463
+      ],
+      "mean_pct": 24.889624745119363
+    },
+    {
+      "model": "last",
+      "split": "ood",
+      "rate": 0.008,
+      "updates": 800,
+      "arm": "phys32",
+      "values_pct": [
+        17.65529796248302,
+        39.76379628293216,
+        17.70985001930967,
+        14.63720549363643,
+        22.594373766332865
+      ],
+      "mean_pct": 22.47210470493883
+    },
+    {
+      "model": "last",
+      "split": "ood",
+      "rate": 0.008,
+      "updates": 1400,
+      "arm": "coarse32",
+      "values_pct": [
+        18.56493380619213,
+        16.947183897718787,
+        21.720762876793742,
+        16.085692984052002,
+        24.942767899483442
+      ],
+      "mean_pct": 19.65226829284802
+    },
+    {
+      "model": "last",
+      "split": "ood",
+      "rate": 0.008,
+      "updates": 1400,
+      "arm": "phys32",
+      "values_pct": [
+        14.228080993052572,
+        13.214011187665164,
+        17.16126025421545,
+        11.853676766622812,
+        22.506485390476882
+      ],
+      "mean_pct": 15.792702918406576
+    },
+    {
+      "model": "selected",
+      "split": "test",
+      "rate": 0.002,
+      "updates": 800,
+      "arm": "coarse32",
+      "values_pct": [
+        16.11082600429654,
+        15.336189040681347,
+        16.82828954071738,
+        13.681930297752842,
+        17.81585819553584
+      ],
+      "mean_pct": 15.95461861579679
+    },
+    {
+      "model": "selected",
+      "split": "test",
+      "rate": 0.002,
+      "updates": 800,
+      "arm": "phys32",
+      "values_pct": [
+        12.760996518773027,
+        12.893943046219647,
+        14.728875743458048,
+        11.01311327656731,
+        14.70403604907915
+      ],
+      "mean_pct": 13.220192926819436
+    },
+    {
+      "model": "selected",
+      "split": "test",
+      "rate": 0.002,
+      "updates": 1400,
+      "arm": "coarse32",
+      "values_pct": [
+        14.207717837416567,
+        13.730584038421512,
+        14.64468693593517,
+        13.270024460507557,
+        16.66952748200856
+      ],
+      "mean_pct": 14.504508150857873
+    },
+    {
+      "model": "selected",
+      "split": "test",
+      "rate": 0.002,
+      "updates": 1400,
+      "arm": "phys32",
+      "values_pct": [
+        10.905662630102597,
+        10.418740505701862,
+        12.712230157922022,
+        9.137399960309267,
+        13.49646377202589
+      ],
+      "mean_pct": 11.334099405212328
+    },
+    {
+      "model": "selected",
+      "split": "test",
+      "rate": 0.008,
+      "updates": 800,
+      "arm": "coarse32",
+      "values_pct": [
+        18.223450798541307,
+        15.04980869940482,
+        20.066360337659717,
+        16.230098117375746,
+        22.73630917770788
+      ],
+      "mean_pct": 18.461205426137894
+    },
+    {
+      "model": "selected",
+      "split": "test",
+      "rate": 0.008,
+      "updates": 800,
+      "arm": "phys32",
+      "values_pct": [
+        15.932850673561916,
+        13.89360836474225,
+        15.657332050614059,
+        12.582295114407316,
+        20.82994653028436
+      ],
+      "mean_pct": 15.77920654672198
+    },
+    {
+      "model": "selected",
+      "split": "test",
+      "rate": 0.008,
+      "updates": 1400,
+      "arm": "coarse32",
+      "values_pct": [
+        16.25765067874454,
+        15.04980869940482,
+        16.282291861716658,
+        13.766920409398153,
+        21.750003710621968
+      ],
+      "mean_pct": 16.621335071977228
+    },
+    {
+      "model": "selected",
+      "split": "test",
+      "rate": 0.008,
+      "updates": 1400,
+      "arm": "phys32",
+      "values_pct": [
+        12.48606577864848,
+        11.657403700519353,
+        13.689907366642728,
+        9.998584567802027,
+        19.833806465612724
+      ],
+      "mean_pct": 13.533153575845063
+    },
+    {
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.002,
+      "updates": 800,
+      "arm": "coarse32",
+      "values_pct": [
+        18.546411534771323,
+        17.92143943021074,
+        18.64006979158148,
+        15.777884656563401,
+        20.656163501553237
+      ],
+      "mean_pct": 18.308393782936037
+    },
+    {
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.002,
+      "updates": 800,
+      "arm": "phys32",
+      "values_pct": [
+        14.870735979638994,
+        15.274072578176856,
+        16.223294206429273,
+        13.189210498239845,
+        16.26211361726746
+      ],
+      "mean_pct": 15.163885375950485
+    },
+    {
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.002,
+      "updates": 1400,
+      "arm": "coarse32",
+      "values_pct": [
+        16.363837546668947,
+        15.817390487063676,
+        16.643812390975654,
+        14.587149216094986,
+        18.555826239753515
+      ],
+      "mean_pct": 16.393603176111355
+    },
+    {
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.002,
+      "updates": 1400,
+      "arm": "phys32",
+      "values_pct": [
+        12.954211386386305,
+        12.075296614784747,
+        14.277919952291995,
+        11.070779641158879,
+        15.245986124500632
+      ],
+      "mean_pct": 13.124838743824512
+    },
+    {
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.008,
+      "updates": 800,
+      "arm": "coarse32",
+      "values_pct": [
+        21.165447391103953,
+        17.076269851531833,
+        22.263222199399024,
+        18.48650206811726,
+        26.40610496746376
+      ],
+      "mean_pct": 21.079509295523167
+    },
+    {
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.008,
+      "updates": 800,
+      "arm": "phys32",
+      "values_pct": [
+        17.65529796248302,
+        16.484529979061335,
+        17.70985001930967,
+        14.63720549363643,
+        22.594373766332865
+      ],
+      "mean_pct": 17.816251444164664
+    },
+    {
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.008,
+      "updates": 1400,
+      "arm": "coarse32",
+      "values_pct": [
+        18.56493380619213,
+        17.076269851531833,
+        17.88456045323983,
+        16.06145374244079,
+        25.626442511565983
+      ],
+      "mean_pct": 19.042732072994113
+    },
+    {
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.008,
+      "updates": 1400,
+      "arm": "phys32",
+      "values_pct": [
+        14.228080993052572,
+        13.38141654850915,
+        15.425109618809074,
+        11.853676766622812,
+        21.72963721677661
+      ],
+      "mean_pct": 15.323584228754044
+    }
+  ],
+  "contrasts": [
+    {
+      "type": "corrected_minus_coarse",
+      "model": "last",
+      "split": "test",
+      "rate": 0.002,
+      "updates": 800,
+      "n": 5,
+      "all_differences_pp": [
+        -4.045574573683552,
+        -1.745546783786267,
+        -2.0994137972593307,
+        -2.668817021185532,
+        -3.8666591863147914
+      ],
+      "mean_pp": -2.8852022724458948,
+      "sd_pp": 1.033540309904709,
+      "ci95_pp": [
+        -4.168512065946936,
+        -1.601892478944854
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "corrected_minus_coarse",
+      "model": "last",
+      "split": "test",
+      "rate": 0.002,
+      "updates": 1400,
+      "n": 5,
+      "all_differences_pp": [
+        -5.0291088613448665,
+        -4.117513215169311,
+        -2.7399561658967286,
+        -4.13262450019829,
+        -3.9796483964892104
+      ],
+      "mean_pp": -3.999770227819681,
+      "sd_pp": 0.8183196273372741,
+      "ci95_pp": [
+        -5.015848248107897,
+        -2.9836922075314654
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "1400_minus_800",
+      "model": "last",
+      "split": "test",
+      "rate": 0.002,
+      "arm": "coarse32",
+      "n": 5,
+      "all_differences_pp": [
+        -0.8717996010091156,
+        -6.847340636886656,
+        -0.9286357497330755,
+        -0.4119058372452855,
+        -1.0945830668788403
+      ],
+      "mean_pp": -2.0308529783505946,
+      "sd_pp": 2.704368323113484,
+      "ci95_pp": [
+        -5.388769763043299,
+        1.3270638063421094
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "1400_minus_800",
+      "model": "last",
+      "split": "test",
+      "rate": 0.002,
+      "arm": "phys32",
+      "n": 5,
+      "all_differences_pp": [
+        -1.8553338886704296,
+        -9.2193070682697,
+        -1.5691781183704734,
+        -1.875713316258043,
+        -1.2075722770532593
+      ],
+      "mean_pp": -3.145420933724381,
+      "sd_pp": 3.4061845818381173,
+      "ci95_pp": [
+        -7.374757700229522,
+        1.08391583278076
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "target_by_updates_interaction",
+      "model": "last",
+      "split": "test",
+      "rate": 0.002,
+      "n": 5,
+      "all_differences_pp": [
+        -0.983534287661314,
+        -2.3719664313830435,
+        -0.6405423686373979,
+        -1.4638074790127575,
+        -0.11298921017441899
+      ],
+      "mean_pp": -1.1145679553737864,
+      "sd_pp": 0.858494209958937,
+      "ci95_pp": [
+        -2.180529308546184,
+        -0.048606602201388904
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "corrected_minus_coarse",
+      "model": "last",
+      "split": "test",
+      "rate": 0.008,
+      "updates": 800,
+      "n": 5,
+      "all_differences_pp": [
+        -2.2906001249793917,
+        4.812408168800175,
+        -4.409028287045658,
+        -4.350861546117812,
+        -2.536286268150434
+      ],
+      "mean_pp": -1.754873611498624,
+      "sd_pp": 3.8016604601635273,
+      "ci95_pp": [
+        -6.47525853827844,
+        2.9655113152811916
+      ],
+      "negative": 4,
+      "positive": 1,
+      "ties": 0,
+      "two_sided_sign_p": 0.375,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "corrected_minus_coarse",
+      "model": "last",
+      "split": "test",
+      "rate": 0.008,
+      "updates": 1400,
+      "n": 5,
+      "all_differences_pp": [
+        -3.771584900096059,
+        -3.666204441105947,
+        -5.086503404891118,
+        -4.53662583604455,
+        -1.1782501824200153
+      ],
+      "mean_pp": -3.647833752911538,
+      "sd_pp": 1.4978498401728095,
+      "ci95_pp": [
+        -5.507659974169381,
+        -1.7880075316536945
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "1400_minus_800",
+      "model": "last",
+      "split": "test",
+      "rate": 0.008,
+      "arm": "coarse32",
+      "n": 5,
+      "all_differences_pp": [
+        -1.9658001197967678,
+        -16.329089959617704,
+        0.10826839716173708,
+        -2.3979462566785514,
+        -2.035918307956308
+      ],
+      "mean_pp": -4.524097249377519,
+      "sd_pp": 6.67220168054685,
+      "ci95_pp": [
+        -12.80872986486721,
+        3.7605353661121725
+      ],
+      "negative": 4,
+      "positive": 1,
+      "ties": 0,
+      "two_sided_sign_p": 0.375,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "1400_minus_800",
+      "model": "last",
+      "split": "test",
+      "rate": 0.008,
+      "arm": "phys32",
+      "n": 5,
+      "all_differences_pp": [
+        -3.446784894913435,
+        -24.807702569523826,
+        -0.5692067206837237,
+        -2.583710546605289,
+        -0.6778822222258896
+      ],
+      "mean_pp": -6.417057390790433,
+      "sd_pp": 10.354568869501433,
+      "ci95_pp": [
+        -19.273952772971835,
+        6.43983799139097
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "target_by_updates_interaction",
+      "model": "last",
+      "split": "test",
+      "rate": 0.008,
+      "n": 5,
+      "all_differences_pp": [
+        -1.4809847751166672,
+        -8.478612609906122,
+        -0.6774751178454608,
+        -0.18576428992673755,
+        1.3580360857304186
+      ],
+      "mean_pp": -1.8929601414129138,
+      "sd_pp": 3.8243117068615815,
+      "ci95_pp": [
+        -6.641470305732136,
+        2.855550022906308
+      ],
+      "negative": 4,
+      "positive": 1,
+      "ties": 0,
+      "two_sided_sign_p": 0.375,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "target_by_rate_interaction",
+      "model": "last",
+      "split": "test",
+      "updates": 800,
+      "n": 5,
+      "all_differences_pp": [
+        1.7549744487041607,
+        6.557954952586442,
+        -2.309614489786327,
+        -1.6820445249322802,
+        1.3303729181643575
+      ],
+      "mean_pp": 1.1303286609472707,
+      "sd_pp": 3.5224983691846483,
+      "ci95_pp": [
+        -3.2434307478007867,
+        5.504088069695328
+      ],
+      "negative": 2,
+      "positive": 3,
+      "ties": 0,
+      "two_sided_sign_p": 1.0,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "target_by_rate_interaction",
+      "model": "last",
+      "split": "test",
+      "updates": 1400,
+      "n": 5,
+      "all_differences_pp": [
+        1.2575239612488076,
+        0.45130877406336367,
+        -2.3465472389943898,
+        -0.4040013358462602,
+        2.801398214069195
+      ],
+      "mean_pp": 0.3519364749081433,
+      "sd_pp": 1.9159255393148404,
+      "ci95_pp": [
+        -2.026999290498229,
+        2.7308722403145156
+      ],
+      "negative": 2,
+      "positive": 3,
+      "ties": 0,
+      "two_sided_sign_p": 1.0,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "corrected_minus_coarse",
+      "model": "last",
+      "split": "ood",
+      "rate": 0.002,
+      "updates": 800,
+      "n": 5,
+      "all_differences_pp": [
+        -4.009663290344179,
+        -2.3945997119881213,
+        -2.416775585152209,
+        -2.588674158323556,
+        -4.490179603453726
+      ],
+      "mean_pp": -3.179978469852358,
+      "sd_pp": 0.9942262239043492,
+      "ci95_pp": [
+        -4.414473378144466,
+        -1.9454835615602506
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "corrected_minus_coarse",
+      "model": "last",
+      "split": "ood",
+      "rate": 0.002,
+      "updates": 1400,
+      "n": 5,
+      "all_differences_pp": [
+        -4.881659150123596,
+        -4.42722060251981,
+        -3.0521871987730265,
+        -3.516369574936107,
+        -4.250536335166544
+      ],
+      "mean_pp": -4.025594572303817,
+      "sd_pp": 0.7334133962188144,
+      "ci95_pp": [
+        -4.936247582189073,
+        -3.1149415624185606
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "1400_minus_800",
+      "model": "last",
+      "split": "ood",
+      "rate": 0.002,
+      "arm": "coarse32",
+      "n": 5,
+      "all_differences_pp": [
+        -1.0445287334732711,
+        -8.761053229682148,
+        -1.111044583376497,
+        -1.1907354404684156,
+        -1.2557707610540092
+      ],
+      "mean_pp": -2.672626549610868,
+      "sd_pp": 3.404469920549553,
+      "ci95_pp": [
+        -6.8998342829248855,
+        1.5545811837031493
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "1400_minus_800",
+      "model": "last",
+      "split": "ood",
+      "rate": 0.002,
+      "arm": "phys32",
+      "n": 5,
+      "all_differences_pp": [
+        -1.9165245932526886,
+        -10.793674120213836,
+        -1.7464561969973147,
+        -2.1184308570809662,
+        -1.0161274927668273
+      ],
+      "mean_pp": -3.5182426520623267,
+      "sd_pp": 4.088296844707563,
+      "ci95_pp": [
+        -8.594533658105764,
+        1.5580483539811096
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "target_by_updates_interaction",
+      "model": "last",
+      "split": "ood",
+      "rate": 0.002,
+      "n": 5,
+      "all_differences_pp": [
+        -0.8719958597794175,
+        -2.032620890531689,
+        -0.6354116136208177,
+        -0.9276954166125506,
+        0.23964326828718185
+      ],
+      "mean_pp": -0.8456161024514586,
+      "sd_pp": 0.8121556349056211,
+      "ci95_pp": [
+        -1.8540405152520907,
+        0.16280831034917354
+      ],
+      "negative": 4,
+      "positive": 1,
+      "ties": 0,
+      "two_sided_sign_p": 0.375,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "corrected_minus_coarse",
+      "model": "last",
+      "split": "ood",
+      "rate": 0.008,
+      "updates": 800,
+      "n": 5,
+      "all_differences_pp": [
+        -3.5101494286209345,
+        5.057727848179638,
+        -4.5533721800893545,
+        -5.0733689102344215,
+        -4.0084375301375985
+      ],
+      "mean_pp": -2.417520040180534,
+      "sd_pp": 4.219584873446905,
+      "ci95_pp": [
+        -7.656826664904752,
+        2.821786584543684
+      ],
+      "negative": 4,
+      "positive": 1,
+      "ties": 0,
+      "two_sided_sign_p": 0.375,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "corrected_minus_coarse",
+      "model": "last",
+      "split": "ood",
+      "rate": 0.008,
+      "updates": 1400,
+      "n": 5,
+      "all_differences_pp": [
+        -4.336852813139558,
+        -3.7331727100536227,
+        -4.559502622578293,
+        -4.232016217429191,
+        -2.43628250900656
+      ],
+      "mean_pp": -3.859565374441445,
+      "sd_pp": 0.8511968487903167,
+      "ci95_pp": [
+        -4.916465856968877,
+        -2.8026648919140134
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "1400_minus_800",
+      "model": "last",
+      "split": "ood",
+      "rate": 0.008,
+      "arm": "coarse32",
+      "n": 5,
+      "all_differences_pp": [
+        -2.6005135849118233,
+        -17.758884537033737,
+        -0.5424593226052821,
+        -3.6248814198188484,
+        -1.660043396987021
+      ],
+      "mean_pp": -5.237356452271342,
+      "sd_pp": 7.091912812643975,
+      "ci95_pp": [
+        -14.043129270131379,
+        3.5684163655886945
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "1400_minus_800",
+      "model": "last",
+      "split": "ood",
+      "rate": 0.008,
+      "arm": "phys32",
+      "n": 5,
+      "all_differences_pp": [
+        -3.4272169694304466,
+        -26.549785095266998,
+        -0.5485897650942206,
+        -2.7835287270136178,
+        -0.0878883758559823
+      ],
+      "mean_pp": -6.679401786532253,
+      "sd_pp": 11.19845492581286,
+      "ci95_pp": [
+        -20.58412010342171,
+        7.225316530357205
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "target_by_updates_interaction",
+      "model": "last",
+      "split": "ood",
+      "rate": 0.008,
+      "n": 5,
+      "all_differences_pp": [
+        -0.8267033845186234,
+        -8.790900558233261,
+        -0.00613044248893857,
+        0.8413526928052306,
+        1.5721550211310387
+      ],
+      "mean_pp": -1.4420453342609107,
+      "sd_pp": 4.205516636719125,
+      "ci95_pp": [
+        -6.663883935922036,
+        3.7797932674002146
+      ],
+      "negative": 3,
+      "positive": 2,
+      "ties": 0,
+      "two_sided_sign_p": 1.0,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "target_by_rate_interaction",
+      "model": "last",
+      "split": "ood",
+      "updates": 800,
+      "n": 5,
+      "all_differences_pp": [
+        0.4995138617232442,
+        7.45232756016776,
+        -2.1365965949371457,
+        -2.4846947519108653,
+        0.48174207331612706
+      ],
+      "mean_pp": 0.762458429671824,
+      "sd_pp": 3.9953352275520895,
+      "ci95_pp": [
+        -4.1984054831348585,
+        5.7233223424785065
+      ],
+      "negative": 2,
+      "positive": 3,
+      "ties": 0,
+      "two_sided_sign_p": 1.0,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "target_by_rate_interaction",
+      "model": "last",
+      "split": "ood",
+      "updates": 1400,
+      "n": 5,
+      "all_differences_pp": [
+        0.5448063369840384,
+        0.6940478924661875,
+        -1.5073154238052666,
+        -0.7156466424930841,
+        1.8142538261599839
+      ],
+      "mean_pp": 0.1660291978623718,
+      "sd_pp": 1.2957965502567932,
+      "ci95_pp": [
+        -1.4429147275881258,
+        1.7749731233128694
+      ],
+      "negative": 2,
+      "positive": 3,
+      "ties": 0,
+      "two_sided_sign_p": 1.0,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "corrected_minus_coarse",
+      "model": "selected",
+      "split": "test",
+      "rate": 0.002,
+      "updates": 800,
+      "n": 5,
+      "all_differences_pp": [
+        -3.3498294855235144,
+        -2.4422459944617003,
+        -2.0994137972593307,
+        -2.668817021185532,
+        -3.1118221464566886
+      ],
+      "mean_pp": -2.7344256889773533,
+      "sd_pp": 0.5035035979815239,
+      "ci95_pp": [
+        -3.359607979557074,
+        -2.1092433983976324
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "corrected_minus_coarse",
+      "model": "selected",
+      "split": "test",
+      "rate": 0.002,
+      "updates": 1400,
+      "n": 5,
+      "all_differences_pp": [
+        -3.3020552073139697,
+        -3.3118435327196494,
+        -1.9324567780131474,
+        -4.13262450019829,
+        -3.173063709982671
+      ],
+      "mean_pp": -3.1704087456455454,
+      "sd_pp": 0.789893326844609,
+      "ci95_pp": [
+        -4.151190852009897,
+        -2.189626639281194
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "1400_minus_800",
+      "model": "selected",
+      "split": "test",
+      "rate": 0.002,
+      "arm": "coarse32",
+      "n": 5,
+      "all_differences_pp": [
+        -1.9031081668799743,
+        -1.6056050022598356,
+        -2.183602604782209,
+        -0.4119058372452855,
+        -1.1463307135272771
+      ],
+      "mean_pp": -1.4501104649389163,
+      "sd_pp": 0.6959790181184714,
+      "ci95_pp": [
+        -2.314282555241829,
+        -0.5859383746360035
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "1400_minus_800",
+      "model": "selected",
+      "split": "test",
+      "rate": 0.002,
+      "arm": "phys32",
+      "n": 5,
+      "all_differences_pp": [
+        -1.8553338886704296,
+        -2.4752025405177847,
+        -2.0166455855360255,
+        -1.875713316258043,
+        -1.2075722770532593
+      ],
+      "mean_pp": -1.8860935216071084,
+      "sd_pp": 0.45429568029819295,
+      "ci95_pp": [
+        -2.450176112372863,
+        -1.3220109308413541
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "target_by_updates_interaction",
+      "model": "selected",
+      "split": "test",
+      "rate": 0.002,
+      "n": 5,
+      "all_differences_pp": [
+        0.04777427820954472,
+        -0.869597538257949,
+        0.16695701924618334,
+        -1.4638074790127575,
+        -0.0612415635259822
+      ],
+      "mean_pp": -0.43598305666819215,
+      "sd_pp": 0.703994609831352,
+      "ci95_pp": [
+        -1.3101078186252892,
+        0.43814170528890495
+      ],
+      "negative": 3,
+      "positive": 2,
+      "ties": 0,
+      "two_sided_sign_p": 1.0,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "corrected_minus_coarse",
+      "model": "selected",
+      "split": "test",
+      "rate": 0.008,
+      "updates": 800,
+      "n": 5,
+      "all_differences_pp": [
+        -2.2906001249793917,
+        -1.1562003346625715,
+        -4.409028287045658,
+        -3.6478030029684305,
+        -1.9063626474235207
+      ],
+      "mean_pp": -2.6819988794159144,
+      "sd_pp": 1.3227125470424614,
+      "ci95_pp": [
+        -4.324363429050945,
+        -1.039634329780884
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "corrected_minus_coarse",
+      "model": "selected",
+      "split": "test",
+      "rate": 0.008,
+      "updates": 1400,
+      "n": 5,
+      "all_differences_pp": [
+        -3.771584900096059,
+        -3.3924049988854676,
+        -2.5923844950739294,
+        -3.7683358415961266,
+        -1.9161972450092435
+      ],
+      "mean_pp": -3.088181496132165,
+      "sd_pp": 0.8126444236209541,
+      "ci95_pp": [
+        -4.097212820283355,
+        -2.079150171980976
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "1400_minus_800",
+      "model": "selected",
+      "split": "test",
+      "rate": 0.008,
+      "arm": "coarse32",
+      "n": 5,
+      "all_differences_pp": [
+        -1.9658001197967678,
+        0.0,
+        -3.7840684759430587,
+        -2.463177707977593,
+        -0.9863054670859128
+      ],
+      "mean_pp": -1.8398703541606665,
+      "sd_pp": 1.4403100913087985,
+      "ci95_pp": [
+        -3.628251540788381,
+        -0.05148916753295185
+      ],
+      "negative": 4,
+      "positive": 0,
+      "ties": 1,
+      "two_sided_sign_p": 0.125,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "1400_minus_800",
+      "model": "selected",
+      "split": "test",
+      "rate": 0.008,
+      "arm": "phys32",
+      "n": 5,
+      "all_differences_pp": [
+        -3.446784894913435,
+        -2.236204664222896,
+        -1.9674246839713305,
+        -2.583710546605289,
+        -0.9961400646716356
+      ],
+      "mean_pp": -2.2460529708769172,
+      "sd_pp": 0.8938376217682977,
+      "ci95_pp": [
+        -3.355898966066688,
+        -1.1362069756871467
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "target_by_updates_interaction",
+      "model": "selected",
+      "split": "test",
+      "rate": 0.008,
+      "n": 5,
+      "all_differences_pp": [
+        -1.4809847751166672,
+        -2.236204664222896,
+        1.8166437919717282,
+        -0.12053283862769604,
+        -0.009834597585722804
+      ],
+      "mean_pp": -0.4061826167162508,
+      "sd_pp": 1.5559422519179529,
+      "ci95_pp": [
+        -2.338140094206868,
+        1.5257748607743666
+      ],
+      "negative": 4,
+      "positive": 1,
+      "ties": 0,
+      "two_sided_sign_p": 0.375,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "target_by_rate_interaction",
+      "model": "selected",
+      "split": "test",
+      "updates": 800,
+      "n": 5,
+      "all_differences_pp": [
+        1.0592293605441228,
+        1.2860456597991288,
+        -2.309614489786327,
+        -0.9789859817828983,
+        1.205459499033168
+      ],
+      "mean_pp": 0.05242680956143886,
+      "sd_pp": 1.6208024766524303,
+      "ci95_pp": [
+        -1.960065273897385,
+        2.0649188930202627
+      ],
+      "negative": 2,
+      "positive": 3,
+      "ties": 0,
+      "two_sided_sign_p": 1.0,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "target_by_rate_interaction",
+      "model": "selected",
+      "split": "test",
+      "updates": 1400,
+      "n": 5,
+      "all_differences_pp": [
+        -0.4695296927820891,
+        -0.08056146616581827,
+        -0.659927717060782,
+        0.3642886586021632,
+        1.2568664649734274
+      ],
+      "mean_pp": 0.08222724951338023,
+      "sd_pp": 0.7650270924497004,
+      "ci95_pp": [
+        -0.8676793488319172,
+        1.0321338478586777
+      ],
+      "negative": 3,
+      "positive": 2,
+      "ties": 0,
+      "two_sided_sign_p": 1.0,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "corrected_minus_coarse",
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.002,
+      "updates": 800,
+      "n": 5,
+      "all_differences_pp": [
+        -3.6756755551323295,
+        -2.6473668520338833,
+        -2.416775585152209,
+        -2.588674158323556,
+        -4.394049884285778
+      ],
+      "mean_pp": -3.144508406985551,
+      "sd_pp": 0.8557436737106124,
+      "ci95_pp": [
+        -4.20705451832265,
+        -2.0819622956484527
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "corrected_minus_coarse",
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.002,
+      "updates": 1400,
+      "n": 5,
+      "all_differences_pp": [
+        -3.4096261602826416,
+        -3.7420938722789288,
+        -2.365892438683659,
+        -3.516369574936107,
+        -3.3098401152528822
+      ],
+      "mean_pp": -3.2687644322868437,
+      "sd_pp": 0.5296357570084512,
+      "ci95_pp": [
+        -3.9263940839256355,
+        -2.611134780648052
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "1400_minus_800",
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.002,
+      "arm": "coarse32",
+      "n": 5,
+      "all_differences_pp": [
+        -2.1825739881023765,
+        -2.1040489431470633,
+        -1.9962574006058276,
+        -1.1907354404684156,
+        -2.100337261799723
+      ],
+      "mean_pp": -1.9147906068246812,
+      "sd_pp": 0.4101362397864391,
+      "ci95_pp": [
+        -2.4240420101261697,
+        -1.4055392035231926
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "1400_minus_800",
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.002,
+      "arm": "phys32",
+      "n": 5,
+      "all_differences_pp": [
+        -1.9165245932526886,
+        -3.1987759633921087,
+        -1.9453742541372776,
+        -2.1184308570809662,
+        -1.0161274927668273
+      ],
+      "mean_pp": -2.0390466321259737,
+      "sd_pp": 0.7780462240519007,
+      "ci95_pp": [
+        -3.0051186174696003,
+        -1.072974646782347
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "target_by_updates_interaction",
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.002,
+      "n": 5,
+      "all_differences_pp": [
+        0.2660493948496878,
+        -1.0947270202450454,
+        0.05088314646854997,
+        -0.9276954166125506,
+        1.0842097690328956
+      ],
+      "mean_pp": -0.12425602530129254,
+      "sd_pp": 0.898711638138305,
+      "ci95_pp": [
+        -1.240153911144357,
+        0.9916418605417718
+      ],
+      "negative": 2,
+      "positive": 3,
+      "ties": 0,
+      "two_sided_sign_p": 1.0,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "corrected_minus_coarse",
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.008,
+      "updates": 800,
+      "n": 5,
+      "all_differences_pp": [
+        -3.5101494286209345,
+        -0.5917398724704981,
+        -4.5533721800893545,
+        -3.8492965744808316,
+        -3.811731201130897
+      ],
+      "mean_pp": -3.263257851358503,
+      "sd_pp": 1.541640615063303,
+      "ci95_pp": [
+        -5.177457501251317,
+        -1.3490582014656887
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "corrected_minus_coarse",
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.008,
+      "updates": 1400,
+      "n": 5,
+      "all_differences_pp": [
+        -4.336852813139558,
+        -3.6948533030226827,
+        -2.459450834430754,
+        -4.207776975817978,
+        -3.896805294789374
+      ],
+      "mean_pp": -3.7191478442400694,
+      "sd_pp": 0.7482156787686408,
+      "ci95_pp": [
+        -4.648180315458685,
+        -2.790115373021454
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "1400_minus_800",
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.008,
+      "arm": "coarse32",
+      "n": 5,
+      "all_differences_pp": [
+        -2.6005135849118233,
+        0.0,
+        -4.378661746159196,
+        -2.425048325676471,
+        -0.7796624558977783
+      ],
+      "mean_pp": -2.0367772225290537,
+      "sd_pp": 1.708930604831997,
+      "ci95_pp": [
+        -4.158694829977533,
+        0.08514038491942477
+      ],
+      "negative": 4,
+      "positive": 0,
+      "ties": 1,
+      "two_sided_sign_p": 0.125,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "1400_minus_800",
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.008,
+      "arm": "phys32",
+      "n": 5,
+      "all_differences_pp": [
+        -3.4272169694304466,
+        -3.1031134305521846,
+        -2.2847404005005956,
+        -2.7835287270136178,
+        -0.8647365495562553
+      ],
+      "mean_pp": -2.49266721541062,
+      "sd_pp": 1.0029980130138374,
+      "ci95_pp": [
+        -3.738053738439815,
+        -1.2472806923814252
+      ],
+      "negative": 5,
+      "positive": 0,
+      "ties": 0,
+      "two_sided_sign_p": 0.0625,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "target_by_updates_interaction",
+      "model": "selected",
+      "split": "ood",
+      "rate": 0.008,
+      "n": 5,
+      "all_differences_pp": [
+        -0.8267033845186234,
+        -3.1031134305521846,
+        2.0939213456586003,
+        -0.35848040133714676,
+        -0.08507409365847707
+      ],
+      "mean_pp": -0.4558899928815663,
+      "sd_pp": 1.857001980488948,
+      "ci95_pp": [
+        -2.761662496647786,
+        1.8498825108846533
+      ],
+      "negative": 4,
+      "positive": 1,
+      "ties": 0,
+      "two_sided_sign_p": 0.375,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "target_by_rate_interaction",
+      "model": "selected",
+      "split": "ood",
+      "updates": 800,
+      "n": 5,
+      "all_differences_pp": [
+        0.16552612651139498,
+        2.0556269795633852,
+        -2.1365965949371457,
+        -1.2606224161572754,
+        0.582318683154881
+      ],
+      "mean_pp": -0.11874944437295198,
+      "sd_pp": 1.6336923638906726,
+      "ci95_pp": [
+        -2.147246436756407,
+        1.909747548010503
+      ],
+      "negative": 2,
+      "positive": 3,
+      "ties": 0,
+      "two_sided_sign_p": 1.0,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    },
+    {
+      "type": "target_by_rate_interaction",
+      "model": "selected",
+      "split": "ood",
+      "updates": 1400,
+      "n": 5,
+      "all_differences_pp": [
+        -0.9272266528569162,
+        0.04724056925624609,
+        -0.09355839574709535,
+        -0.6914074008818716,
+        -0.5869651795364916
+      ],
+      "mean_pp": -0.45038341195322573,
+      "sd_pp": 0.41203165465048014,
+      "ci95_pp": [
+        -0.9619882836530544,
+        0.06122145974660298
+      ],
+      "negative": 4,
+      "positive": 1,
+      "ties": 0,
+      "two_sided_sign_p": 0.375,
+      "inference": "exploratory paired t interval; no multiplicity adjustment; no p<.05 claim from 5 identical signs"
+    }
+  ],
+  "failures": [],
+  "primary": "last model, ID, target contrast within both rates and both update endpoints",
+  "secondary": "selected model, OOD, step and interaction contrasts; correlated outcomes, not independent replicates"
+}

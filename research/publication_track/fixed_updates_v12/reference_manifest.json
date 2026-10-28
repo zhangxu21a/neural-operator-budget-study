@@ -1,0 +1,19 @@
+{
+  "seconds": 39.4495050420519,
+  "splits": {
+    "validation": {
+      "seconds": 5.606851417105645,
+      "max_residual": 9.675203861999269e-09
+    },
+    "test": {
+      "seconds": 21.662586624966934,
+      "max_residual": 9.68245660937081e-09
+    },
+    "ood": {
+      "seconds": 10.841479334048927,
+      "max_residual": 9.588707559325185e-09
+    }
+  },
+  "sha256": "6a20879e8622326adca7a401207e5254444b360aebfd2b8d3ab4400d4e04d36f",
+  "outside_training": true
+}

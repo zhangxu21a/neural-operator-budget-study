@@ -1,0 +1,27 @@
+{
+  "seed": 3404,
+  "rate": 0.008,
+  "arm": "coarse32",
+  "started_at_unix": 1793110141.339191,
+  "steps_completed": 1400,
+  "failure": null,
+  "wall_seconds": 709.2524054578971,
+  "timings": {
+    "training": 699.4795695578214,
+    "validation": 8.731670542387292,
+    "checkpoint": 0.00564379058778286
+  },
+  "initial_state_hash": "4aa8a3d22d93268f8df54dc63a89b65bc44e3ac3977f6f14939dc17a8e98cbb8",
+  "data_manifest_sha256": "717820db308aa4582a555f9d578ba8cb8644f555c007359fcaba99d224a0d189",
+  "endpoints": {
+    "800": {
+      "selected_step": 600,
+      "validation": 0.17883700411766768
+    },
+    "1400": {
+      "selected_step": 900,
+      "validation": 0.15436516515910625
+    }
+  },
+  "export_seconds": 0.21784208295866847
+}

@@ -1,0 +1,129 @@
+{
+  "runs": [
+    {
+      "run": "phys32_lr0.008_s3101",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "260d1d06979f997376da29817427c977c08f76369041609db77960c36f1b5cd1"
+    },
+    {
+      "run": "coarse32_lr0.008_s3101",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "260d1d06979f997376da29817427c977c08f76369041609db77960c36f1b5cd1"
+    },
+    {
+      "run": "coarse32_lr0.002_s3101",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "260d1d06979f997376da29817427c977c08f76369041609db77960c36f1b5cd1"
+    },
+    {
+      "run": "phys32_lr0.002_s3101",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "260d1d06979f997376da29817427c977c08f76369041609db77960c36f1b5cd1"
+    },
+    {
+      "run": "coarse32_lr0.008_s3202",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "609b408745a4fc9c1ff8ef444a6989e272c22f974d9ba4782d53b4130bfaa532"
+    },
+    {
+      "run": "phys32_lr0.002_s3202",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "609b408745a4fc9c1ff8ef444a6989e272c22f974d9ba4782d53b4130bfaa532"
+    },
+    {
+      "run": "coarse32_lr0.002_s3202",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "609b408745a4fc9c1ff8ef444a6989e272c22f974d9ba4782d53b4130bfaa532"
+    },
+    {
+      "run": "phys32_lr0.008_s3202",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "609b408745a4fc9c1ff8ef444a6989e272c22f974d9ba4782d53b4130bfaa532"
+    },
+    {
+      "run": "phys32_lr0.008_s3303",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "b6f2fe2fe3722106cfe8a8e7f80b2b30a1330b3cd9f2d684ae1d531eb8fde0e6"
+    },
+    {
+      "run": "coarse32_lr0.008_s3303",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "b6f2fe2fe3722106cfe8a8e7f80b2b30a1330b3cd9f2d684ae1d531eb8fde0e6"
+    },
+    {
+      "run": "coarse32_lr0.002_s3303",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "b6f2fe2fe3722106cfe8a8e7f80b2b30a1330b3cd9f2d684ae1d531eb8fde0e6"
+    },
+    {
+      "run": "phys32_lr0.002_s3303",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "b6f2fe2fe3722106cfe8a8e7f80b2b30a1330b3cd9f2d684ae1d531eb8fde0e6"
+    },
+    {
+      "run": "phys32_lr0.002_s3404",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "4aa8a3d22d93268f8df54dc63a89b65bc44e3ac3977f6f14939dc17a8e98cbb8"
+    },
+    {
+      "run": "coarse32_lr0.008_s3404",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "4aa8a3d22d93268f8df54dc63a89b65bc44e3ac3977f6f14939dc17a8e98cbb8"
+    },
+    {
+      "run": "coarse32_lr0.002_s3404",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "4aa8a3d22d93268f8df54dc63a89b65bc44e3ac3977f6f14939dc17a8e98cbb8"
+    },
+    {
+      "run": "phys32_lr0.008_s3404",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "4aa8a3d22d93268f8df54dc63a89b65bc44e3ac3977f6f14939dc17a8e98cbb8"
+    },
+    {
+      "run": "coarse32_lr0.008_s3505",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "f570f4936a616ff1c9efcf9c8910cb0c63ff41701a747a26cceb7b246945e03f"
+    },
+    {
+      "run": "phys32_lr0.002_s3505",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "f570f4936a616ff1c9efcf9c8910cb0c63ff41701a747a26cceb7b246945e03f"
+    },
+    {
+      "run": "coarse32_lr0.002_s3505",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "f570f4936a616ff1c9efcf9c8910cb0c63ff41701a747a26cceb7b246945e03f"
+    },
+    {
+      "run": "phys32_lr0.008_s3505",
+      "updates_logged": 1400,
+      "failure": null,
+      "initial_hash": "f570f4936a616ff1c9efcf9c8910cb0c63ff41701a747a26cceb7b246945e03f"
+    }
+  ],
+  "matching_batch_sequences": true,
+  "matching_initial_models": true,
+  "sources_match": true,
+  "failures": [],
+  "all_nonfinite_retained": true
+}

@@ -1,0 +1,15 @@
+{
+  "files_checked": 127,
+  "frozen_sources_verified": 30,
+  "formal_trajectories": 20,
+  "correlated_endpoints": 40,
+  "evaluation_records": 160,
+  "matched_initialization_and_batches": true,
+  "per_step_rates_verified": true,
+  "all_paired_contrasts_verified": 48,
+  "fresh_label_inputs": 512,
+  "assets_checked": false,
+  "new_training": false,
+  "new_predictions": false,
+  "scope": "hashes and saved records; no claim of full cross-machine training replay"
+}
